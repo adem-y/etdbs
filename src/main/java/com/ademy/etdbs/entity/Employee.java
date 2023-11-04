@@ -3,12 +3,18 @@ package com.ademy.etdbs.entity;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Table;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 import org.springframework.data.annotation.Id;
 
 import java.util.Date;
 
 @Entity
 @Table(name = "EMPLOYEE_INFO")
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
 public class Employee {
 
     @Id

@@ -84,7 +84,12 @@ public class SpringBatchConfig {
                 .build();
     }
 
-    // TODO: add job
+    @Bean
+    public Job runJob(){
+        return jobBuilderFactory.get("importEmployees")
+                .flow(step1())
+                .end().build();
+    }
 
 
 }
