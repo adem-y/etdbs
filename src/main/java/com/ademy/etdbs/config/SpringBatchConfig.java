@@ -8,9 +8,6 @@ import org.springframework.batch.core.Step;
 import org.springframework.batch.core.configuration.annotation.EnableBatchProcessing;
 import org.springframework.batch.core.configuration.annotation.JobBuilderFactory;
 import org.springframework.batch.core.configuration.annotation.StepBuilderFactory;
-import org.springframework.batch.core.job.builder.JobBuilder;
-import org.springframework.batch.core.repository.JobRepository;
-import org.springframework.batch.core.step.builder.StepBuilder;
 import org.springframework.batch.item.data.RepositoryItemWriter;
 import org.springframework.batch.item.file.FlatFileItemReader;
 import org.springframework.batch.item.file.LineMapper;
@@ -20,7 +17,6 @@ import org.springframework.batch.item.file.transform.DelimitedLineTokenizer;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.io.FileSystemResource;
-import org.springframework.transaction.PlatformTransactionManager;
 
 @Configuration
 @EnableBatchProcessing
@@ -30,15 +26,13 @@ public class SpringBatchConfig {
     private JobBuilderFactory jobBuilderFactory;
     private StepBuilderFactory stepBuilderFactory;
 
-    private JobRepository jobRepository;
-    private PlatformTransactionManager transactionManager;
-
     private EmployeeRepo employeeRepo;
 
     @Bean
     public FlatFileItemReader<Employee> reader(){
         FlatFileItemReader<Employee> itemReader = new FlatFileItemReader<>();
-        itemReader.setResource(new FileSystemResource("src/main/resource/employeeData.csv"));
+        // TODO: fix resource path
+        itemReader.setResource(new FileSystemResource("C:\\workspace\\etdbs\\src\\main\\resources\\employeeData.csv"));
         itemReader.setName("csvReader");
         itemReader.setLinesToSkip(1); // it will skip table header in csv file
         itemReader.setLineMapper(lineMapper());
@@ -49,7 +43,7 @@ public class SpringBatchConfig {
         DefaultLineMapper<Employee> lineMapper = new DefaultLineMapper<>();
 
         DelimitedLineTokenizer delimitedLineTokenizer = new DelimitedLineTokenizer(); // helps us to parse csv file
-        delimitedLineTokenizer.setDelimiter(",");
+        delimitedLineTokenizer.setDelimiter(";");
         delimitedLineTokenizer.setStrict(false);
         delimitedLineTokenizer.setNames("id", "fullName", "jobTitle", "department", "businessUnit", "gender", "age",
                 "hireDate", "annualSalary", "country", "city", "active");
