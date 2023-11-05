@@ -31,8 +31,7 @@ public class SpringBatchConfig {
     @Bean
     public FlatFileItemReader<Employee> reader(){
         FlatFileItemReader<Employee> itemReader = new FlatFileItemReader<>();
-        // TODO: fix resource path
-        itemReader.setResource(new FileSystemResource("C:\\workspace\\etdbs\\src\\main\\resources\\employeeData.csv"));
+        itemReader.setResource(new FileSystemResource("src/main/resources/employeeData.csv"));
         itemReader.setName("csvReader");
         itemReader.setLinesToSkip(1); // it will skip table header in csv file
         itemReader.setLineMapper(lineMapper());
@@ -70,7 +69,7 @@ public class SpringBatchConfig {
     }
 
     @Bean
-    public Step step1(){
+    public Step stepToLoadWholeData(){
         return stepBuilderFactory.get("csv-step").<Employee, Employee>chunk(10)
                 .reader(reader())
                 .processor(processor())
@@ -81,7 +80,7 @@ public class SpringBatchConfig {
     @Bean
     public Job runJob(){
         return jobBuilderFactory.get("importEmployees")
-                .flow(step1())
+                .flow(stepToLoadWholeData())
                 .end().build();
     }
 

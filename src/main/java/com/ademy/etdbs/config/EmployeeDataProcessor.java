@@ -6,7 +6,10 @@ import org.springframework.batch.item.ItemProcessor;
 public class EmployeeDataProcessor implements ItemProcessor<Employee, Employee> {
     @Override
     public Employee process(Employee item) throws Exception {
-        // TODO: add logic
+        if (item.getBusinessUnit().equals("Manufacturing")
+                || item.getBusinessUnit().equals("Corporate")){
+            item.setActive("A");
+        }
         return item;
     }
 }

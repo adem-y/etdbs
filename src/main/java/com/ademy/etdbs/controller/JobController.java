@@ -1,5 +1,7 @@
 package com.ademy.etdbs.controller;
 
+import lombok.AllArgsConstructor;
+import lombok.NoArgsConstructor;
 import org.springframework.batch.core.*;
 import org.springframework.batch.core.launch.JobLauncher;
 import org.springframework.batch.core.repository.JobExecutionAlreadyRunningException;
@@ -14,10 +16,14 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/jobs")
 public class JobController {
 
-    @Autowired
     private JobLauncher jobLauncher;
-    @Autowired
     private Job job;
+
+    @Autowired
+    public JobController(JobLauncher jobLauncher, Job job) {
+        this.jobLauncher = jobLauncher;
+        this.job = job;
+    }
 
     @PostMapping("/importEmployees")
     public void importCsvToDbJob(){
