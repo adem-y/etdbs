@@ -1,6 +1,8 @@
 package com.ademy.etdbs.config;
 
 import com.ademy.etdbs.entity.Employee;
+import com.ademy.etdbs.listener.ImportEmployeeJobListener;
+import com.ademy.etdbs.listener.ImportEmployeeStepListener;
 import com.ademy.etdbs.repo.EmployeeRepo;
 import lombok.AllArgsConstructor;
 import org.springframework.batch.core.Job;
@@ -70,18 +72,31 @@ public class SpringBatchConfig {
 
     @Bean
     public Step stepToLoadWholeData(){
-        return stepBuilderFactory.get("csv-step").<Employee, Employee>chunk(10)
+        return stepBuilderFactory.get("csv-step")
+                .<Employee, Employee>chunk(5) // how many Employee for each transaction
                 .reader(reader())
                 .processor(processor())
                 .writer(writer())
+                .listener(stepListener())
                 .build();
     }
 
     @Bean
     public Job runJob(){
         return jobBuilderFactory.get("importEmployees")
+                .listener(jobListener())
                 .flow(stepToLoadWholeData())
                 .end().build();
+    }
+
+    @Bean
+    public ImportEmployeeJobListener jobListener() {
+        return new ImportEmployeeJobListener();
+    }
+
+    @Bean
+    public ImportEmployeeStepListener stepListener() {
+        return new ImportEmployeeStepListener();
     }
 
 
