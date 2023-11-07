@@ -19,6 +19,8 @@ import org.springframework.batch.item.file.transform.DelimitedLineTokenizer;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.io.FileSystemResource;
+import org.springframework.core.task.SimpleAsyncTaskExecutor;
+import org.springframework.core.task.TaskExecutor;
 
 @Configuration
 @EnableBatchProcessing
@@ -73,11 +75,12 @@ public class SpringBatchConfig {
     @Bean
     public Step stepToLoadWholeData(){
         return stepBuilderFactory.get("csv-step")
-                .<Employee, Employee>chunk(5) // how many Employee for each transaction
+                .<Employee, Employee>chunk(20) // how many Employee for each transaction
                 .reader(reader())
                 .processor(processor())
                 .writer(writer())
                 .listener(stepListener())
+                .taskExecutor(taskExecutor())
                 .build();
     }
 
@@ -99,5 +102,11 @@ public class SpringBatchConfig {
         return new ImportEmployeeStepListener();
     }
 
+    @Bean
+    public TaskExecutor taskExecutor() {
+        SimpleAsyncTaskExecutor asyncTaskExecutor = new SimpleAsyncTaskExecutor();
+        asyncTaskExecutor.setConcurrencyLimit(20);
+        return asyncTaskExecutor;
+    } // without task executor: 2.28 s || with task executor(20): 1.82 s
 
 }
