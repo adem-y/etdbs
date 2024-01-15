@@ -8,4 +8,4 @@ http://localhost:8082/jobs/importEmployees
 ````
 
 Components and their relation is drawn as below:
-![](src/main/resources/etds design.png)
+![indir](https://github.com/adem-y/etdbs/assets/73538696/7113db2f-291f-4dfc-aafd-344a16204550)
