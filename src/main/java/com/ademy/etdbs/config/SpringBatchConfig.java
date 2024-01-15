@@ -3,12 +3,12 @@ package com.ademy.etdbs.config;
 import com.ademy.etdbs.entity.Employee;
 import com.ademy.etdbs.listener.ImportEmployeeJobListener;
 import com.ademy.etdbs.listener.ImportEmployeeStepListener;
+import com.ademy.etdbs.processor.AdditionalEmployeeDataProcessor;
+import com.ademy.etdbs.processor.EmployeeDataProcessor;
 import com.ademy.etdbs.repo.EmployeeRepo;
 import lombok.AllArgsConstructor;
-import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;
 import org.springframework.batch.core.configuration.annotation.EnableBatchProcessing;
-import org.springframework.batch.core.configuration.annotation.JobBuilderFactory;
 import org.springframework.batch.core.configuration.annotation.StepBuilderFactory;
 import org.springframework.batch.item.data.RepositoryItemWriter;
 import org.springframework.batch.item.file.FlatFileItemReader;
@@ -27,7 +27,6 @@ import org.springframework.core.task.TaskExecutor;
 @AllArgsConstructor
 public class SpringBatchConfig {
 
-    private JobBuilderFactory jobBuilderFactory;
     private StepBuilderFactory stepBuilderFactory;
 
     private EmployeeRepo employeeRepo;
@@ -36,6 +35,15 @@ public class SpringBatchConfig {
     public FlatFileItemReader<Employee> reader(){
         FlatFileItemReader<Employee> itemReader = new FlatFileItemReader<>();
         itemReader.setResource(new FileSystemResource("src/main/resources/employeeData.csv"));
+        itemReader.setName("csvReader");
+        itemReader.setLinesToSkip(1); // it will skip table header in csv file
+        itemReader.setLineMapper(lineMapper());
+        return itemReader;
+    }
+    @Bean
+    public FlatFileItemReader<Employee> readerForAdditionalData(){
+        FlatFileItemReader<Employee> itemReader = new FlatFileItemReader<>();
+        itemReader.setResource(new FileSystemResource("src/main/resources/additionalEmployeeData.csv"));
         itemReader.setName("csvReader");
         itemReader.setLinesToSkip(1); // it will skip table header in csv file
         itemReader.setLineMapper(lineMapper());
@@ -65,6 +73,11 @@ public class SpringBatchConfig {
     }
 
     @Bean
+    public AdditionalEmployeeDataProcessor additionalProcessor(){
+        return new AdditionalEmployeeDataProcessor();
+    }
+
+    @Bean
     public RepositoryItemWriter<Employee> writer(){
         RepositoryItemWriter<Employee> writer = new RepositoryItemWriter<>();
         writer.setRepository(employeeRepo);
@@ -85,11 +98,15 @@ public class SpringBatchConfig {
     }
 
     @Bean
-    public Job runJob(){
-        return jobBuilderFactory.get("importEmployees")
-                .listener(jobListener())
-                .flow(stepToLoadWholeData())
-                .end().build();
+    public Step stepToLoadAdditionalData(){
+        return stepBuilderFactory.get("csv-step")
+                .<Employee, Employee>chunk(20)
+                .reader(readerForAdditionalData())
+                .processor(processor())
+                .writer(writer())
+                .listener(stepListener())
+                .taskExecutor(taskExecutor())
+                .build();
     }
 
     @Bean
@@ -107,6 +124,6 @@ public class SpringBatchConfig {
         SimpleAsyncTaskExecutor asyncTaskExecutor = new SimpleAsyncTaskExecutor();
         asyncTaskExecutor.setConcurrencyLimit(20);
         return asyncTaskExecutor;
-    } // without task executor: 2.28 s || with task executor(20): 1.82 s
+    } // without task executor: 2.28 s, with task executor(20): 1.82 s
 
 }

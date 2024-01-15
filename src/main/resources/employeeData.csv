@@ -1,1001 +1,510 @@
-﻿id;fullName;jobTitle;department;businessUnit;gender;age;hireDate;annualSalary;country;city;active
-E02387;Emily Davis;Sr. Manger;IT;Research & Development;Female;55;8.04.2016;$141.604 ;United States;Seattle;P
-E04105;Theodore Dinh;Technical Architect;IT;Manufacturing;Male;59;29.11.1997;$99.975 ;China;Chongqing;P
-E02572;Luna Sanders;Director;Finance;Speciality Products;Female;50;26.10.2006;$163.099 ;United States;Chicago;P
-E02832;Penelope Jordan;Computer Systems Manager;IT;Manufacturing;Female;26;27.09.2019;$84.913 ;United States;Chicago;P
-E01639;Austin Vo;Sr. Analyst;Finance;Manufacturing;Male;55;20.11.1995;$95.409 ;United States;Phoenix;P
-E00644;Joshua Gupta;Account Representative;Sales;Corporate;Male;57;24.01.2017;$50.994 ;China;Chongqing;P
-E01550;Ruby Barnes;Manager;IT;Corporate;Female;27;1.07.2020;$119.746 ;United States;Phoenix;P
-E04332;Luke Martin;Analyst;Finance;Manufacturing;Male;25;16.05.2020;$41.336 ;United States;Miami;P
-E04533;Easton Bailey;Manager;Accounting;Manufacturing;Male;29;25.01.2019;$113.527 ;United States;Austin;P
-E03838;Madeline Walker;Sr. Analyst;Finance;Speciality Products;Female;34;13.06.2018;$77.203 ;United States;Chicago;P
-E00591;Savannah Ali;Sr. Manger;Human Resources;Manufacturing;Female;36;11.02.2009;$157.333 ;United States;Miami;P
-E03344;Camila Rogers;Controls Engineer;Engineering;Speciality Products;Female;27;21.10.2021;$109.851 ;United States;Seattle;P
-E00530;Eli Jones;Manager;Human Resources;Manufacturing;Male;59;14.03.1999;$105.086 ;United States;Austin;P
-E04239;Everleigh Ng;Sr. Manger;Finance;Research & Development;Female;51;10.06.2021;$146.742 ;China;Shanghai;P
-E03496;Robert Yang;Sr. Analyst;Accounting;Speciality Products;Male;31;4.11.2017;$97.078 ;United States;Austin;P
-E00549;Isabella Xi;Vice President;Marketing;Research & Development;Female;41;13.03.2013;$249.270 ;United States;Seattle;P
-E00163;Bella Powell;Director;Finance;Research & Development;Female;65;4.03.2002;$175.837 ;United States;Phoenix;P
-E00884;Camila Silva;Sr. Manger;Marketing;Speciality Products;Female;64;1.12.2003;$154.828 ;United States;Seattle;P
-E04116;David Barnes;Director;IT;Corporate;Male;64;3.11.2013;$186.503 ;United States;Columbus;P
-E04625;Adam Dang;Director;Sales;Research & Development;Male;45;9.07.2002;$166.331 ;China;Chongqing;P
-E03680;Elias Alvarado;Sr. Manger;IT;Manufacturing;Male;56;9.01.2012;$146.140 ;Brazil;Manaus;P
-E04732;Eva Rivera;Director;Sales;Manufacturing;Female;36;2.04.2021;$151.703 ;United States;Miami;P
-E03484;Logan Rivera;Director;IT;Research & Development;Male;59;24.05.2002;$172.787 ;Brazil;Rio de Janerio;P
-E00671;Leonardo Dixon;Analyst;Sales;Speciality Products;Male;37;5.09.2019;$49.998 ;United States;Seattle;P
-E02071;Mateo Her;Vice President;Sales;Speciality Products;Male;44;2.03.2014;$207.172 ;China;Chongqing;P
-E02206;Jose Henderson;Director;Human Resources;Speciality Products;Male;41;17.04.2015;$152.239 ;United States;Columbus;P
-E04545;Abigail Mejia;Quality Engineer;Engineering;Corporate;Female;56;5.02.2005;$98.581 ;Brazil;Rio de Janerio;P
-E00154;Wyatt Chin;Vice President;Engineering;Speciality Products;Male;43;7.06.2004;$246.231 ;United States;Seattle;P
-E03343;Carson Lu;Engineering Manager;Engineering;Speciality Products;Male;64;4.12.1996;$99.354 ;China;Beijing;P
-E00304;Dylan Choi;Vice President;IT;Corporate;Male;63;11.05.2012;$231.141 ;China;Beijing;P
-E02594;Ezekiel Kumar;IT Coordinator;IT;Research & Development;Male;28;25.06.2017;$54.775 ;United States;Columbus;P
-E00402;Dominic Guzman;Analyst;Finance;Manufacturing;Male;65;16.05.2004;$55.499 ;Brazil;Manaus;P
-E01994;Angel Powell;Analyst II;Sales;Research & Development;Male;61;11.07.2008;$66.521 ;United States;Seattle;P
-E03549;Mateo Vu;Account Representative;Sales;Speciality Products;Male;30;29.09.2016;$59.100 ;China;Chongqing;P
-E03247;Caroline Jenkins;Analyst;Finance;Research & Development;Female;27;6.05.2018;$49.011 ;United States;Chicago;P
-E02074;Nora Brown;Enterprise Architect;IT;Manufacturing;Female;32;11.02.2014;$99.575 ;United States;Austin;P
-E04152;Adeline Huang;Controls Engineer;Engineering;Manufacturing;Female;34;16.12.2019;$99.989 ;China;Chengdu;P
-E01628;Jackson Perry;Vice President;Marketing;Research & Development;Male;27;20.10.2019;$256.420 ;United States;Phoenix;P
-E04285;Riley Padilla;Technical Architect;IT;Manufacturing;Female;35;15.05.2013;$78.940 ;United States;Miami;P
-E01417;Leah Pena;Enterprise Architect;IT;Corporate;Female;57;3.01.1994;$82.872 ;Brazil;Manaus;P
-E01754;Owen Lam;Sr. Business Partner;Human Resources;Speciality Products;Male;30;29.05.2017;$86.317 ;China;Chengdu;P
-E03749;Kennedy Foster;Manager;Marketing;Speciality Products;Female;53;23.11.2013;$113.135 ;United States;Austin;P
-E03574;John Moore;Vice President;IT;Speciality Products;Male;52;8.11.2005;$199.808 ;United States;Seattle;P
-E04600;William Vu;Account Representative;Sales;Speciality Products;Male;37;14.11.2013;$56.037 ;China;Shanghai;P
-E00586;Sadie Washington;Sr. Manger;Marketing;Research & Development;Female;29;24.05.2019;$122.350 ;United States;Phoenix;P
-E03538;Gabriel Holmes;Enterprise Architect;IT;Research & Development;Male;40;4.11.2010;$92.952 ;United States;Seattle;P
-E02185;Wyatt Rojas;Computer Systems Manager;IT;Corporate;Male;32;20.03.2013;$79.921 ;United States;Austin;P
-E03830;Eva Coleman;Director;IT;Research & Development;Female;37;20.09.2009;$167.199 ;United States;Seattle;P
-E03720;Dominic Clark;Quality Engineer;Engineering;Research & Development;Male;52;17.10.2012;$71.476 ;United States;Phoenix;P
-E03025;Lucy Alexander;Director;Engineering;Manufacturing;Female;45;29.10.2014;$189.420 ;United States;Seattle;P
-E04917;Everleigh Washington;HRIS Analyst;Human Resources;Research & Development;Female;64;20.10.2001;$64.057 ;United States;Phoenix;P
-E00415;Leilani Butler;Analyst II;Marketing;Manufacturing;Female;27;21.09.2021;$68.728 ;United States;Phoenix;P
-E02862;Peyton Huang;Sr. Manger;IT;Manufacturing;Female;25;2.07.2021;$125.633 ;China;Beijing;P
-E04207;John Contreras;Analyst II;Marketing;Manufacturing;Male;35;15.05.2011;$66.889 ;United States;Columbus;P
-E02139;Rylee Yu;Director;Accounting;Research & Development;Female;36;29.09.2015;$178.700 ;United States;Seattle;P
-E01797;Piper Lewis;Field Engineer;Engineering;Research & Development;Female;33;22.12.2018;$83.990 ;United States;Chicago;P
-E01839;Stella Alexander;Automation Engineer;Engineering;Corporate;Female;52;10.12.2005;$102.043 ;United States;Chicago;P
-E01633;Addison Do;Operations Engineer;Engineering;Manufacturing;Female;46;30.05.2001;$90.678 ;United States;Columbus;P
-E01848;Zoey Jackson;Business Partner;Human Resources;Manufacturing;Female;46;21.08.2008;$59.067 ;United States;Miami;P
-E00716;John Chow;Sr. Manger;Marketing;Research & Development;Male;45;11.03.2021;$135.062 ;China;Chengdu;P
-E00699;Ava Ayala;Sr. Manger;IT;Corporate;Female;55;16.08.2006;$159.044 ;Brazil;Manaus;P
-E00502;Natalia Salazar;Sr. Analyst;Accounting;Manufacturing;Female;44;2.01.2019;$74.691 ;Brazil;Manaus;P
-E04000;Skylar Carrillo;Engineering Manager;Engineering;Corporate;Female;44;18.12.2008;$92.753 ;United States;Austin;P
-E02112;Christian Sanders;Vice President;Human Resources;Speciality Products;Male;45;7.08.2013;$236.946 ;United States;Seattle;P
-E03824;Penelope Coleman;Analyst;Finance;Corporate;Female;36;27.08.2021;$48.906 ;United States;Miami;P
-E03906;Piper Richardson;Sr. Analyst;Sales;Corporate;Female;38;27.01.2008;$80.024 ;United States;Columbus;P
-E00436;Everly Walker;HRIS Analyst;Human Resources;Speciality Products;Female;41;23.10.2009;$54.415 ;United States;Seattle;P
-E04798;Aurora Ali;Manager;Marketing;Research & Development;Female;30;24.04.2016;$120.341 ;United States;Seattle;P
-E01249;Penelope Guerrero;Vice President;IT;Speciality Products;Female;43;4.08.2009;$208.415 ;United States;Seattle;P
-E03349;Anna Mehta;Cloud Infrastructure Architect;IT;Speciality Products;Female;32;5.01.2020;$78.844 ;United States;Seattle;P
-E02966;William Foster;Field Engineer;Engineering;Manufacturing;Male;58;23.05.2002;$76.354 ;United States;Phoenix;P
-E01499;Jade Rojas;Director;Finance;Speciality Products;Female;37;28.01.2019;$165.927 ;United States;Phoenix;P
-E00105;Isla Espinoza;Manager;Accounting;Speciality Products;Female;38;16.11.2021;$109.812 ;Brazil;Manaus;P
-E00665;David Chu;Controls Engineer;Engineering;Corporate;Male;55;3.09.1998;$86.299 ;United States;Seattle;P
-E00791;Thomas Padilla;Vice President;Marketing;Research & Development;Male;57;26.07.2003;$206.624 ;Brazil;Sao Paulo;P
-E01540;Miles Salazar;IT Coordinator;IT;Manufacturing;Male;36;23.12.2010;$53.215 ;Brazil;Sao Paulo;P
-E04474;Mila Hong;Test Engineer;Engineering;Research & Development;Female;30;22.05.2017;$86.858 ;China;Chongqing;P
-E03417;Benjamin Moua;Computer Systems Manager;IT;Manufacturing;Male;40;2.07.2007;$93.971 ;China;Chongqing;P
-E00254;Samuel Morales;Analyst II;Finance;Corporate;Male;34;27.06.2015;$57.008 ;United States;Phoenix;P
-E02166;John Soto;Sr. Manger;Finance;Manufacturing;Male;60;23.09.2015;$141.899 ;United States;Phoenix;P
-E00935;Joseph Martin;Analyst II;Marketing;Corporate;Male;41;13.09.2016;$64.847 ;United States;Miami;P
-E01525;Jose Ross;Engineering Manager;Engineering;Research & Development;Male;53;8.04.1992;$116.878 ;United States;Miami;P
-E00386;Parker James;Quality Engineer;Engineering;Speciality Products;Male;45;5.02.2005;$70.505 ;United States;Austin;P
-E00416;Everleigh Fernandez;Director;Engineering;Research & Development;Female;30;22.05.2016;$189.702 ;Brazil;Manaus;P
-E03383;Lincoln Hall;Director;Accounting;Speciality Products;Male;26;28.07.2020;$180.664 ;United States;Chicago;P
-E01516;Willow Mai;Business Partner;Human Resources;Manufacturing;Female;45;17.12.2003;$48.345 ;China;Chengdu;P
-E01234;Jack Cheng;Director;Human Resources;Manufacturing;Male;42;16.01.2014;$152.214 ;China;Beijing;P
-E03440;Genesis Navarro;Cloud Infrastructure Architect;IT;Corporate;Female;41;28.04.2009;$69.803 ;Brazil;Manaus;P
-E00431;Eliza Hernandez;Network Architect;IT;Corporate;Female;48;4.07.2019;$76.588 ;Brazil;Rio de Janerio;P
-E01258;Gabriel Brooks;Network Engineer;IT;Manufacturing;Male;29;10.12.2018;$84.596 ;United States;Miami;P
-E00440;Jack Huynh;Manager;Marketing;Research & Development;Male;27;25.09.2018;$114.441 ;China;Chongqing;P
-E00595;Everly Chow;Sr. Manger;Finance;Speciality Products;Female;33;21.04.2018;$140.402 ;China;Beijing;P
-E00972;Amelia Salazar;Analyst II;Finance;Corporate;Female;26;23.04.2019;$59.817 ;Brazil;Sao Paulo;P
-E04562;Xavier Zheng;Account Representative;Sales;Manufacturing;Male;31;22.07.2017;$55.854 ;United States;Austin;P
-E02802;Matthew Chau;Sr. Business Partner;Human Resources;Research & Development;Male;53;16.11.2002;$95.998 ;United States;Seattle;P
-E01427;Mia Cheng;Sr. Manger;Sales;Manufacturing;Female;34;22.04.2015;$154.941 ;United States;Phoenix;P
-E04568;Rylee Yu;Vice President;Finance;Speciality Products;Female;54;10.07.2011;$247.022 ;China;Beijing;P
-E04931;Zoe Romero;Network Architect;IT;Manufacturing;Female;32;5.10.2021;$88.072 ;Brazil;Sao Paulo;P
-E00443;Nolan Bui;Computer Systems Manager;IT;Research & Development;Male;28;26.05.2020;$67.925 ;China;Shanghai;P
-E03890;Nevaeh Jones;Vice President;Sales;Manufacturing;Female;31;20.08.2020;$219.693 ;United States;Austin;P
-E01194;Samantha Adams;Test Engineer;Engineering;Research & Development;Female;45;22.04.2013;$61.773 ;United States;Seattle;P
-E02875;Madeline Shin;Computer Systems Manager;IT;Speciality Products;Female;48;9.01.2007;$74.546 ;United States;Seattle;P
-E04959;Noah King;Development Engineer;Engineering;Speciality Products;Male;56;27.01.2015;$62.575 ;United States;Miami;P
-E03816;Leilani Chow;Director;Human Resources;Corporate;Female;27;23.02.2021;$199.041 ;China;Beijing;P
-E01261;Connor Simmons;Analyst II;Accounting;Speciality Products;Male;55;5.04.2007;$52.310 ;United States;Miami;P
-E03612;Grayson Cooper;Sr. Manger;Finance;Speciality Products;Male;64;29.06.2013;$159.571 ;United States;Columbus;P
-E01388;Ivy Soto;Field Engineer;Engineering;Research & Development;Female;50;23.10.1997;$91.763 ;United States;Austin;P
-E03875;Aurora Simmons;Development Engineer;Engineering;Corporate;Female;51;22.12.1995;$96.475 ;United States;Austin;P
-E04413;Andrew Thomas;Controls Engineer;Engineering;Manufacturing;Male;36;2.12.2016;$113.781 ;United States;Columbus;P
-E00691;Ezekiel Desai;Director;Finance;Research & Development;Male;42;15.01.2003;$166.599 ;United States;Seattle;P
-E03047;Gabriella Gupta;Sr. Account Representative;Sales;Corporate;Female;41;15.02.2005;$95.372 ;China;Shanghai;P
-E04903;Skylar Liu;Director;IT;Research & Development;Female;29;9.08.2020;$161.203 ;China;Chengdu;P
-E04735;Nova Coleman;System Administrator ;IT;Manufacturing;Female;44;13.12.2006;$74.738 ;United States;Miami;P
-E02850;Evelyn Dinh;Director;Sales;Research & Development;Female;41;10.08.2018;$171.173 ;United States;Columbus;P
-E03583;Brooks Marquez;Vice President;Sales;Corporate;Male;61;24.09.2019;$201.464 ;United States;Chicago;P
-E02017;Connor Joseph;Director;Human Resources;Corporate;Male;50;22.07.1998;$174.895 ;United States;Chicago;P
-E01642;Mia Lam;Sr. Manger;IT;Manufacturing;Female;49;18.04.2006;$134.486 ;United States;Austin;P
-E04379;Scarlett Rodriguez;Sr. Analyst;Finance;Manufacturing;Female;60;24.02.2007;$71.699 ;Brazil;Manaus;P
-E04131;Cora Rivera;Sr. Analyst;Marketing;Corporate;Female;42;2.01.2021;$94.430 ;United States;Seattle;P
-E02872;Liam Jung;Manager;Finance;Corporate;Male;39;14.01.2010;$103.504 ;China;Chengdu;P
-E02331;Sophia Huynh;Enterprise Architect;IT;Manufacturing;Female;55;9.08.2005;$92.771 ;United States;Miami;P
-E00417;Athena Carrillo;Analyst II;Finance;Speciality Products;Female;39;6.04.2006;$71.531 ;United States;Columbus;P
-E04267;Greyson Sanders;Cloud Infrastructure Architect;IT;Speciality Products;Male;28;6.03.2019;$90.304 ;United States;Chicago;P
-E03061;Vivian Lewis;Manager;Marketing;Manufacturing;Female;65;7.09.2011;$104.903 ;United States;Columbus;P
-E00013;Elena Vang;Analyst;Finance;Corporate;Female;52;19.02.2019;$55.859 ;China;Beijing;P
-E04265;Natalia Diaz;Operations Engineer;Engineering;Corporate;Female;62;12.10.2006;$79.785 ;United States;Austin;P
-E04769;Mila Leung;Sr. Analyst;Marketing;Corporate;Female;39;5.11.2007;$99.017 ;China;Beijing;P
-E03042;Ava Nelson;Systems Analyst;IT;Manufacturing;Female;63;1.04.1992;$53.809 ;United States;Phoenix;P
-E00527;Mateo Chu;Field Engineer;Engineering;Speciality Products;Male;27;16.04.2020;$71.864 ;China;Chengdu;P
-E01095;Isla Lai;Vice President;Finance;Corporate;Female;37;6.12.2011;$225.558 ;China;Shanghai;P
-E03131;Ezekiel Reed;Sr. Manger;IT;Manufacturing;Male;37;25.02.2014;$128.984 ;United States;Miami;P
-E01713;Nolan Guzman;Field Engineer;Engineering;Speciality Products;Male;46;20.06.1999;$96.997 ;Brazil;Sao Paulo;P
-E00128;Everleigh Espinoza;Director;Human Resources;Manufacturing;Female;54;22.01.2018;$176.294 ;United States;Austin;P
-E03849;Evelyn Jung;Analyst;Sales;Research & Development;Female;30;14.02.2021;$48.340 ;China;Beijing;P
-E02464;Sophie Silva;Vice President;Engineering;Corporate;Female;28;6.07.2017;$240.488 ;Brazil;Rio de Janerio;P
-E00306;Mateo Williams;Enterprise Architect;IT;Manufacturing;Male;40;22.01.2011;$97.339 ;United States;Austin;P
-E03737;Kennedy Rahman;Vice President;Human Resources;Manufacturing;Female;49;28.02.2003;$211.291 ;China;Chongqing;P
-E02783;Levi Mendez;Vice President;Sales;Research & Development;Male;39;23.08.2011;$249.506 ;Brazil;Rio de Janerio;P
-E02939;Julian Fong;Quality Engineer;Engineering;Speciality Products;Male;61;22.11.2002;$80.950 ;China;Chongqing;P
-E02706;Nevaeh Kang;Automation Engineer;Engineering;Research & Development;Female;46;10.01.2021;$86.538 ;China;Chengdu;P
-E00170;Hannah Nelson;Sr. Analyst;Marketing;Speciality Products;Female;35;7.09.2019;$70.992 ;United States;Austin;P
-E01425;Anthony Rogers;Vice President;Engineering;Corporate;Male;33;18.06.2015;$205.314 ;United States;Columbus;P
-E00130;Paisley Kang;Vice President;Human Resources;Corporate;Female;61;10.03.2017;$196.951 ;China;Beijing;P
-E02094;Matthew Gupta;Network Engineer;IT;Speciality Products;Male;45;18.09.2005;$67.686 ;China;Beijing;P
-E03567;Silas Chavez;Technical Architect;IT;Research & Development;Male;51;15.04.2008;$86.431 ;United States;Columbus;P
-E04682;Colton Thao;Manager;Human Resources;Manufacturing;Male;55;16.11.1995;$125.936 ;China;Chongqing;P
-E00957;Genesis Perry;Sr. Manger;Sales;Corporate;Female;46;18.07.2013;$149.712 ;United States;Columbus;P
-E04458;Alexander Bryant;Field Engineer;Engineering;Speciality Products;Male;30;2.10.2021;$88.758 ;United States;Seattle;P
-E01499;Elias Zhang;Solutions Architect;IT;Research & Development;Male;54;13.07.2013;$83.639 ;China;Beijing;P
-E00521;Lily Carter;Network Architect;IT;Research & Development;Female;54;18.05.1998;$68.268 ;United States;Phoenix;P
-E03717;Joseph Ruiz;Field Engineer;Engineering;Manufacturing;Male;45;26.02.2002;$75.819 ;Brazil;Sao Paulo;P
-E01533;Avery Bailey;Sr. Analyst;Sales;Speciality Products;Female;49;15.05.1996;$86.658 ;United States;Phoenix;P
-E04449;Miles Hsu;Analyst II;Finance;Research & Development;Male;55;16.03.2014;$74.552 ;China;Chengdu;P
-E02855;Piper Cheng;Enterprise Architect;IT;Manufacturing;Female;62;15.03.2009;$82.839 ;United States;Miami;P
-E00816;Skylar Watson;Network Architect;IT;Speciality Products;Female;28;8.10.2021;$64.475 ;United States;Phoenix;P
-E02283;Jaxon Park;Network Architect;IT;Manufacturing;Male;33;24.07.2020;$69.453 ;China;Chengdu;P
-E04888;Elijah Henry;Manager;IT;Corporate;Male;32;3.01.2014;$127.148 ;United States;Miami;P
-E03907;Camila Watson;Vice President;Finance;Speciality Products;Female;32;2.01.2018;$190.253 ;United States;Austin;P
-E02166;Lucas Thomas;Manager;Accounting;Research & Development;Male;55;28.04.2000;$115.798 ;United States;Miami;P
-E00431;Skylar Doan;Sr. Business Partner;Human Resources;Research & Development;Female;58;21.08.1994;$93.102 ;United States;Seattle;P
-E01501;Hudson Liu;Engineering Manager;Engineering;Speciality Products;Male;34;16.11.2017;$110.054 ;United States;Miami;P
-E01141;Gianna Williams;Quality Engineer;Engineering;Research & Development;Female;27;28.01.2021;$95.786 ;United States;Chicago;P
-E02254;Jaxson Sandoval;Sr. Analyst;Sales;Speciality Products;Male;61;3.05.2017;$90.855 ;Brazil;Sao Paulo;P
-E04504;Jameson Alvarado;Enterprise Architect;IT;Manufacturing;Male;47;14.03.1999;$92.897 ;Brazil;Sao Paulo;P
-E03394;Joseph Ly;Vice President;Marketing;Speciality Products;Male;40;28.02.2009;$242.919 ;China;Chongqing;P
-E02942;Daniel Richardson;Director;Engineering;Speciality Products;Male;30;20.05.2018;$184.368 ;United States;Austin;P
-E04130;Elias Figueroa;Sr. Manger;Finance;Corporate;Male;45;24.12.2021;$144.754 ;United States;Phoenix;P
-E02848;Emma Brooks;Sr. Account Representative;Sales;Research & Development;Female;30;18.12.2016;$89.458 ;United States;Austin;P
-E00085;Isla Wong;Vice President;Accounting;Corporate;Female;56;16.03.2014;$190.815 ;United States;Austin;P
-E03956;Everly Walker;Sr. Manger;Sales;Research & Development;Female;62;2.08.1999;$137.995 ;United States;Austin;P
-E00672;Mila Pena;Sr. Business Partner;Human Resources;Manufacturing;Female;45;21.12.2007;$93.840 ;Brazil;Manaus;P
-E04618;Mason Zhao;Technical Architect;IT;Research & Development;Male;46;26.10.2021;$94.790 ;China;Chongqing;P
-E03506;Jaxson Mai;Vice President;Human Resources;Research & Development;Male;48;8.03.2014;$197.367 ;United States;Austin;P
-E00568;Ava Garza;Director;Accounting;Manufacturing;Female;27;25.06.2018;$174.097 ;United States;Phoenix;P
-E00535;Nathan Mendez;Manager;IT;Speciality Products;Male;53;31.10.2006;$120.128 ;United States;Austin;P
-E04630;Maria Griffin;Manager;Marketing;Manufacturing;Female;59;25.04.2007;$129.708 ;United States;Miami;P
-E00874;Alexander Choi;Manager;Marketing;Research & Development;Male;55;18.09.1994;$102.270 ;United States;Chicago;P
-E01546;Maria Hong;Vice President;Finance;Speciality Products;Female;43;31.07.2005;$249.686 ;China;Chongqing;P
-E00941;Sophie Ali;Analyst;Finance;Manufacturing;Female;55;28.03.2002;$50.475 ;United States;Columbus;P
-E03446;Julian Ross;Manager;Marketing;Research & Development;Male;51;2.07.2020;$100.099 ;United States;Miami;P
-E01361;Emma Hill;IT Coordinator;IT;Manufacturing;Female;54;27.12.2016;$41.673 ;United States;Miami;P
-E01631;Leilani Yee;Sr. Analyst;Marketing;Speciality Products;Female;47;12.07.2017;$70.996 ;China;Chengdu;P
-E03719;Jack Brown;Analyst;Marketing;Corporate;Male;55;7.12.2004;$40.752 ;United States;Phoenix;P
-E03269;Charlotte Chu;Network Engineer;IT;Manufacturing;Female;50;23.01.2001;$97.537 ;China;Chengdu;P
-E01037;Jeremiah Chu;IT Systems Architect;IT;Research & Development;Male;31;12.09.2020;$96.567 ;China;Shanghai;P
-E00671;Miles Cho;Systems Analyst;IT;Speciality Products;Male;47;10.03.1999;$49.404 ;China;Beijing;P
-E02216;Caleb Marquez;IT Systems Architect;IT;Research & Development;Male;29;15.10.2019;$66.819 ;Brazil;Rio de Janerio;P
-E02803;Eli Soto;Analyst;Marketing;Speciality Products;Male;38;2.05.2016;$50.784 ;Brazil;Rio de Janerio;P
-E01584;Carter Mejia;Sr. Manger;Human Resources;Research & Development;Male;29;9.05.2019;$125.828 ;Brazil;Sao Paulo;P
-E02489;Ethan Clark;Sr. Business Partner;Human Resources;Manufacturing;Male;33;4.08.2017;$92.610 ;United States;Columbus;P
-E03189;Asher Jackson;Sr. Manger;Sales;Speciality Products;Male;50;25.03.2003;$123.405 ;United States;Columbus;P
-E03560;Ayla Ng;Account Representative;Sales;Manufacturing;Female;46;20.03.2004;$73.004 ;China;Beijing;P
-E00769;Jose Kang;Engineering Manager;Engineering;Corporate;Male;57;25.04.1999;$95.061 ;China;Shanghai;P
-E02791;Aubrey Romero;Director;Sales;Corporate;Female;49;2.04.1998;$160.832 ;United States;Phoenix;P
-E02333;Jaxson Wright;Service Desk Analyst;IT;Manufacturing;Male;54;28.12.2010;$64.417 ;United States;Columbus;P
-E01002;Elias Ali;Manager;Sales;Corporate;Male;28;19.03.2021;$127.543 ;China;Shanghai;P
-E03520;Nolan Pena;Analyst;Marketing;Manufacturing;Male;30;21.06.2018;$56.154 ;Brazil;Sao Paulo;P
-E00752;Luna Liu;Vice President;Sales;Manufacturing;Female;36;22.02.2014;$218.530 ;China;Shanghai;P
-E00233;Brooklyn Reyes;Service Desk Analyst;IT;Manufacturing;Female;36;19.12.2019;$91.954 ;United States;Columbus;P
-E02639;Hadley Parker;Vice President;Marketing;Corporate;Female;30;21.09.2016;$221.217 ;United States;Columbus;P
-E00697;Jonathan Chavez;System Administrator ;IT;Manufacturing;Male;29;11.05.2017;$87.536 ;United States;Seattle;P
-E02183;Sarah Ayala;Analyst;Sales;Corporate;Female;47;9.06.2015;$41.429 ;United States;Seattle;P
-E00715;Elijah Kang;Vice President;Engineering;Manufacturing;Male;35;10.10.2011;$245.482 ;United States;Seattle;P
-E04288;Ella White;Development Engineer;Engineering;Manufacturing;Female;25;20.01.2020;$71.359 ;United States;Phoenix;P
-E02421;Jordan Truong;Director;Engineering;Speciality Products;Male;45;28.08.2014;$183.161 ;United States;Miami;P
-E00523;Daniel Jordan;Network Administrator;IT;Corporate;Male;58;26.07.1993;$69.260 ;United States;Phoenix;P
-E03615;Daniel Dixon;Operations Engineer;Engineering;Speciality Products;Male;51;9.10.1999;$95.639 ;United States;Austin;P
-E02761;Luca Duong;Manager;Human Resources;Research & Development;Male;48;30.06.2004;$120.660 ;China;Chengdu;P
-E02121;Levi Brown;Sr. Analyst;Sales;Corporate;Male;36;26.12.2021;$75.119 ;United States;Chicago;P
-E01486;Mason Cho;Vice President;Accounting;Research & Development;Male;59;18.05.2011;$192.213 ;United States;Chicago;P
-E00725;Nova Herrera;Account Representative;Sales;Speciality Products;Female;45;10.05.2014;$65.047 ;Brazil;Sao Paulo;P
-E03027;Elijah Watson;Sr. Manger;Sales;Manufacturing;Male;29;16.03.2017;$151.413 ;United States;Seattle;P
-E03689;Wesley Gray;Sr. Analyst;Accounting;Speciality Products;Male;62;22.04.2003;$76.906 ;United States;Seattle;P
-E01986;Wesley Sharma;Manager;IT;Corporate;Male;51;23.02.1994;$122.802 ;China;Shanghai;P
-E01286;Mateo Mendez;Development Engineer;Engineering;Research & Development;Male;47;14.07.1998;$99.091 ;United States;Austin;P
-E01409;Jose Molina;Controls Engineer;Engineering;Manufacturing;Male;40;28.02.2008;$113.987 ;Brazil;Manaus;P
-E00626;Luna Simmons;Sr. Analyst;Finance;Corporate;Female;28;4.09.2020;$95.045 ;United States;Chicago;P
-E04342;Samantha Barnes;Vice President;Marketing;Speciality Products;Female;29;5.01.2017;$190.401 ;United States;Columbus;P
-E03904;Hunter Ortiz;Sr. Analyst;Finance;Corporate;Male;46;20.01.2013;$86.061 ;Brazil;Rio de Janerio;P
-E01291;Thomas Aguilar;Sr. Account Representative;Sales;Speciality Products;Male;45;10.02.2021;$79.882 ;United States;Phoenix;P
-E00917;Skylar Bell;Vice President;Engineering;Manufacturing;Female;30;6.03.2018;$255.431 ;United States;Columbus;P
-E01484;Anna Zhu;Service Desk Analyst;IT;Manufacturing;Female;48;22.08.2003;$82.017 ;China;Beijing;P
-E03864;Ella Hunter;Analyst;Finance;Manufacturing;Female;51;18.01.2017;$53.799 ;United States;Columbus;P
-E00488;Emery Hunter;Sr. Analyst;Sales;Corporate;Female;28;3.07.2021;$82.739 ;United States;Phoenix;P
-E02227;Sofia Parker;Cloud Infrastructure Architect;IT;Manufacturing;Female;36;30.05.2014;$99.080 ;United States;Chicago;P
-E04802;Lucy Fong;Sr. Account Representative;Sales;Corporate;Female;40;20.01.2011;$96.719 ;China;Chengdu;P
-E01970;Vivian Barnes;Director;Human Resources;Research & Development;Female;51;28.03.2021;$180.687 ;United States;Phoenix;P
-E02813;Kai Chow;Engineering Manager;Engineering;Corporate;Male;45;12.04.2001;$95.743 ;United States;Austin;P
-E02031;Melody Cooper;Development Engineer;Engineering;Research & Development;Female;44;4.09.2009;$89.695 ;United States;Austin;P
-E03252;James Bui;Manager;Finance;Manufacturing;Male;64;20.07.1998;$122.753 ;China;Chongqing;P
-E04871;Liam Grant;Sr. Business Partner;Human Resources;Research & Development;Male;30;15.03.2015;$93.734 ;United States;Phoenix;P
-E03547;Owen Han;Analyst;Accounting;Corporate;Male;28;12.05.2017;$52.069 ;China;Chongqing;P
-E04742;Kinsley Vega;Vice President;Accounting;Corporate;Female;33;16.12.2020;$258.426 ;Brazil;Rio de Janerio;P
-E01070;Leonardo Martin;Manager;Finance;Speciality Products;Male;51;16.02.1995;$125.375 ;United States;Chicago;P
-E04359;Greyson Lam;Vice President;Accounting;Manufacturing;Male;25;8.02.2021;$198.243 ;United States;Miami;P
-E03268;Emilia Rivera;Test Engineer;Engineering;Research & Development;Female;42;23.11.2017;$96.023 ;United States;Miami;P
-E04035;Penelope Johnson;Sr. Analyst;Marketing;Research & Development;Female;34;25.06.2012;$83.066 ;United States;Chicago;P
-E01221;Eva Figueroa;Analyst II;Sales;Research & Development;Female;48;14.05.2014;$61.216 ;United States;Seattle;P
-E00276;Ezekiel Jordan;Sr. Manger;Accounting;Corporate;Male;33;10.02.2013;$144.231 ;United States;Columbus;P
-E01687;Luke Mai;HRIS Analyst;Human Resources;Research & Development;Male;41;24.10.2007;$51.630 ;China;Beijing;P
-E02844;Charles Diaz;Sr. Manger;Sales;Corporate;Male;55;16.11.2013;$124.129 ;Brazil;Sao Paulo;P
-E01263;Adam Espinoza;Test Engineer;Engineering;Manufacturing;Male;36;9.04.2009;$60.055 ;United States;Seattle;P
-E00119;Jack Maldonado;Director;Engineering;Research & Development;Male;31;26.08.2020;$189.290 ;Brazil;Sao Paulo;P
-E03935;Cora Jiang;Vice President;IT;Corporate;Female;53;30.04.2008;$182.202 ;United States;Austin;P
-E00742;Cooper Mitchell;Manager;Sales;Speciality Products;Male;43;31.01.2006;$117.518 ;United States;Seattle;P
-E02810;Layla Torres;Sr. Manger;Finance;Manufacturing;Female;37;24.02.2013;$157.474 ;Brazil;Rio de Janerio;P
-E01860;Jack Edwards;Manager;Marketing;Manufacturing;Male;38;6.04.2008;$126.856 ;United States;Columbus;P
-E04890;Eleanor Chan;Sr. Manger;Accounting;Manufacturing;Female;49;2.04.2001;$129.124 ;China;Shanghai;P
-E02285;Aria Xi;Director;Sales;Research & Development;Female;45;1.03.2002;$165.181 ;United States;Seattle;P
-E00842;John Vega;Vice President;Finance;Corporate;Male;50;18.01.2004;$247.939 ;Brazil;Rio de Janerio;P
-E01271;Luke Munoz;Director;Engineering;Speciality Products;Male;64;25.08.2017;$169.509 ;Brazil;Manaus;P
-E01921;Sarah Daniels;Sr. Manger;Accounting;Manufacturing;Female;55;9.01.2011;$138.521 ;United States;Miami;P
-E03664;Aria Castro;Engineering Manager;Engineering;Speciality Products;Female;45;14.03.2014;$113.873 ;Brazil;Rio de Janerio;P
-E00813;Autumn Joseph;Enterprise Architect;IT;Corporate;Female;39;9.05.2018;$73.317 ;United States;Miami;P
-E00870;Evelyn Liang;Service Desk Analyst;IT;Speciality Products;Female;40;26.06.2013;$69.096 ;United States;Seattle;P
-E04167;Henry Alvarez;Sr. Business Partner;Human Resources;Manufacturing;Male;48;12.04.2005;$87.158 ;Brazil;Manaus;P
-E00245;Benjamin Delgado;Test Engineer;Engineering;Corporate;Male;64;28.09.1992;$70.778 ;United States;Austin;P
-E00976;Zoe Rodriguez;Director;Human Resources;Speciality Products;Female;65;23.05.2004;$153.938 ;United States;Phoenix;P
-E04112;Axel Chu;Systems Analyst;IT;Research & Development;Male;43;4.05.2018;$59.888 ;China;Beijing;P
-E01807;Cameron Evans;Test Engineer;Engineering;Corporate;Male;50;13.12.2018;$63.098 ;United States;Columbus;P
-E04103;Isabella Soto;Vice President;Finance;Corporate;Female;27;15.12.2021;$255.369 ;Brazil;Sao Paulo;P
-E01412;Eva Jenkins;Sr. Manger;Human Resources;Manufacturing;Female;55;10.11.2004;$142.318 ;United States;Chicago;P
-E04386;Cameron Powell;Business Partner;Human Resources;Manufacturing;Male;41;20.08.2004;$49.186 ;United States;Austin;P
-E01232;Samantha Foster;Vice President;Human Resources;Research & Development;Female;34;27.07.2019;$220.937 ;United States;Austin;P
-E04572;Jade Li;Director;IT;Speciality Products;Female;47;26.10.2012;$183.156 ;United States;Seattle;P
-E02747;Kinsley Acosta;Vice President;IT;Speciality Products;Female;32;22.07.2020;$192.749 ;United States;Chicago;P
-E01064;Clara Kang;Sr. Manger;IT;Manufacturing;Female;39;25.03.2017;$135.325 ;United States;Phoenix;P
-E00178;Harper Alexander;Sr. Analyst;Sales;Speciality Products;Female;26;14.10.2019;$79.356 ;United States;Phoenix;P
-E01091;Carter Reed;Development Engineer;Engineering;Manufacturing;Male;40;7.07.2005;$74.412 ;United States;Seattle;P
-E01525;Charlotte Ruiz;Computer Systems Manager;IT;Manufacturing;Female;32;2.10.2017;$61.886 ;Brazil;Rio de Janerio;P
-E01309;Everleigh Jiang;Director;Accounting;Research & Development;Female;58;14.05.2003;$173.071 ;United States;Columbus;P
-E02378;Audrey Smith;Field Engineer;Engineering;Research & Development;Female;58;27.10.1995;$70.189 ;United States;Columbus;P
-E04127;Emery Acosta;Vice President;Sales;Research & Development;Female;42;11.09.2013;$181.452 ;United States;Columbus;P
-E02072;Charles Robinson;HRIS Analyst;Human Resources;Speciality Products;Male;26;12.03.2021;$70.369 ;United States;Seattle;P
-E02555;Landon Lopez;Sr. Analyst;Accounting;Manufacturing;Male;38;5.07.2008;$78.056 ;Brazil;Sao Paulo;P
-E00187;Miles Mehta;Director;Finance;Research & Development;Male;64;2.05.1996;$189.933 ;United States;Miami;P
-E04332;Ezra Simmons;Automation Engineer;Engineering;Speciality Products;Male;38;1.07.2010;$78.237 ;United States;Phoenix;P
-E02062;Nora Santiago;Analyst;Accounting;Research & Development;Female;55;26.06.1996;$48.687 ;Brazil;Rio de Janerio;P
-E00034;Caroline Herrera;Sr. Manger;Marketing;Manufacturing;Female;45;19.08.2004;$121.065 ;Brazil;Rio de Janerio;P
-E00273;David Owens;Sr. Analyst;Sales;Corporate;Male;43;16.04.2004;$94.246 ;United States;Austin;P
-E00691;Avery Yee;Systems Analyst;IT;Manufacturing;Female;34;22.05.2016;$44.614 ;United States;Miami;P
-E01403;Xavier Park;Vice President;IT;Research & Development;Male;40;8.11.2020;$234.469 ;China;Chengdu;P
-E03438;Asher Morales;Automation Engineer;Engineering;Research & Development;Male;52;10.07.2020;$88.272 ;Brazil;Sao Paulo;P
-E04136;Mason Cao;Analyst II;Finance;Corporate;Male;52;14.09.2017;$74.449 ;China;Beijing;P
-E02944;Joshua Fong;Vice President;Engineering;Speciality Products;Male;47;11.06.2012;$222.941 ;China;Beijing;P
-E03300;Maria Chin;Analyst;Marketing;Manufacturing;Female;65;26.09.2013;$50.341 ;China;Beijing;P
-E00078;Eva Garcia;HRIS Analyst;Human Resources;Corporate;Female;31;11.04.2021;$72.235 ;Brazil;Manaus;P
-E00825;Anna Molina;Sr. Analyst;Accounting;Corporate;Female;41;12.06.2016;$70.165 ;United States;Columbus;P
-E04972;Logan Bryant;Sr. Manger;Marketing;Speciality Products;Male;30;18.07.2020;$148.485 ;United States;Miami;P
-E03941;Isla Han;Technical Architect;IT;Manufacturing;Female;58;18.06.2005;$86.089 ;United States;Chicago;P
-E02148;Christopher Vega;Engineering Manager;Engineering;Research & Development;Male;54;27.10.2007;$106.313 ;United States;Chicago;P
-E02252;Lillian Park;Analyst;Marketing;Research & Development;Female;40;24.02.2021;$46.833 ;China;Chengdu;P
-E03096;Kennedy Zhang;Director;Finance;Research & Development;Female;63;27.10.2000;$155.320 ;China;Chongqing;P
-E04800;Eli Han;Sr. Analyst;Accounting;Manufacturing;Male;40;15.01.2016;$89.984 ;China;Chengdu;P
-E02838;Julia Pham;Engineering Manager;Engineering;Speciality Products;Female;65;16.03.2006;$83.756 ;China;Shanghai;P
-E02980;Hailey Shin;Director;Human Resources;Corporate;Female;57;24.10.2016;$176.324 ;China;Shanghai;P
-E04477;Connor Grant;Sr. Analyst;Accounting;Speciality Products;Male;27;13.10.2021;$74.077 ;United States;Seattle;P
-E04348;Natalia Owens;Manager;Human Resources;Manufacturing;Female;31;18.01.2021;$104.162 ;United States;Austin;P
-E01638;Maria He;IT Systems Architect;IT;Corporate;Female;45;28.08.2010;$82.162 ;China;Beijing;P
-E03419;Jade Yi;Account Representative;Sales;Speciality Products;Female;47;10.07.2015;$63.880 ;China;Chongqing;P
-E04222;Quinn Xiong;Test Engineer;Engineering;Research & Development;Female;55;8.09.2013;$73.248 ;United States;Columbus;P
-E04126;Dominic Baker;Sr. Analyst;Accounting;Manufacturing;Male;51;9.10.2020;$91.853 ;United States;Chicago;P
-E01896;Adam Nelson;Director;Finance;Speciality Products;Male;25;14.01.2020;$168.014 ;United States;Chicago;P
-E03018;Autumn Reed;Development Engineer;Engineering;Corporate;Female;37;17.09.2017;$70.770 ;United States;Miami;P
-E03325;Robert Edwards;HRIS Analyst;Human Resources;Corporate;Male;62;11.10.2004;$50.825 ;United States;Seattle;P
-E04037;Roman Martinez;Sr. Manger;Finance;Research & Development;Male;31;19.09.2015;$145.846 ;Brazil;Manaus;P
-E01902;Eleanor Li;Sr. Manger;Human Resources;Research & Development;Female;64;7.12.2003;$125.807 ;United States;Chicago;P
-E01466;Connor Vang;Analyst;Sales;Speciality Products;Male;25;28.07.2021;$46.845 ;United States;Miami;P
-E02038;Ellie Chung;Sr. Manger;Marketing;Corporate;Female;59;29.08.2008;$157.969 ;China;Chongqing;P
-E03474;Violet Hall;Solutions Architect;IT;Corporate;Female;40;10.12.2010;$97.807 ;United States;Chicago;P
-E02744;Dylan Padilla;HRIS Analyst;Human Resources;Manufacturing;Male;31;9.12.2015;$73.854 ;United States;Seattle;P
-E00702;Nathan Pham;Sr. Manger;Accounting;Manufacturing;Male;45;12.12.2006;$149.537 ;United States;Seattle;P
-E03081;Ayla Brown;Sr. Manger;Sales;Manufacturing;Female;49;15.04.2013;$128.303 ;United States;Phoenix;P
-E01281;Isaac Mitchell;Network Architect;IT;Speciality Products;Male;46;10.06.2005;$67.374 ;United States;Austin;P
-E04029;Jayden Jimenez;Manager;Human Resources;Corporate;Male;46;24.09.2011;$102.167 ;Brazil;Rio de Janerio;P
-E01116;Jaxon Tran;Sr. Manger;Sales;Manufacturing;Male;45;7.09.2007;$151.027 ;China;Shanghai;P
-E01753;Connor Fong;Manager;Accounting;Speciality Products;Male;40;16.02.2018;$120.905 ;United States;Seattle;P
-E04072;Emery Mitchell;Vice President;Finance;Manufacturing;Female;48;2.06.2018;$231.567 ;United States;Seattle;P
-E00672;Landon Luu;Vice President;IT;Research & Development;Male;31;12.07.2015;$215.388 ;United States;Miami;P
-E04419;Sophia Ahmed;Sr. Manger;Sales;Speciality Products;Female;30;13.06.2015;$127.972 ;United States;Seattle;P
-E00467;Sofia Dinh;Operations Engineer;Engineering;Corporate;Female;55;4.08.1995;$80.701 ;United States;Chicago;P
-E00365;Jonathan Patel;Manager;Marketing;Corporate;Male;28;2.02.2020;$115.417 ;China;Shanghai;P
-E00306;Piper Patterson;Quality Engineer;Engineering;Corporate;Female;45;19.06.2019;$88.045 ;United States;Chicago;P
-E03292;Cora Evans;Computer Systems Manager;IT;Speciality Products;Female;45;26.03.2018;$86.478 ;United States;Austin;P
-E04779;Cameron Young;Vice President;Engineering;Manufacturing;Male;63;18.01.2016;$180.994 ;United States;Seattle;P
-E00501;Melody Ho;Analyst II;Finance;Research & Development;Female;55;2.12.2007;$64.494 ;United States;Columbus;P
-E01132;Aiden Bryant;Account Representative;Sales;Manufacturing;Male;47;21.10.2002;$70.122 ;United States;Columbus;P
-E00556;Grayson Walker;Director;Accounting;Manufacturing;Male;29;19.02.2017;$181.854 ;United States;Seattle;P
-E00311;Scarlett Figueroa;Business Partner;Human Resources;Speciality Products;Female;34;21.10.2016;$52.811 ;United States;Miami;P
-E04567;Madeline Hoang;Systems Analyst;IT;Research & Development;Female;28;25.10.2019;$50.111 ;China;Chengdu;P
-E04378;Ezra Simmons;Network Administrator;IT;Manufacturing;Male;31;7.05.2016;$71.192 ;United States;Austin;P
-E03251;Ruby Medina;Director;Sales;Manufacturing;Female;50;18.12.2018;$155.351 ;United States;Seattle;P
-E03167;Luke Zheng;Director;Human Resources;Speciality Products;Male;39;28.11.2006;$161.690 ;China;Beijing;P
-E03347;Rylee Dinh;Development Engineer;Engineering;Speciality Products;Female;35;10.02.2017;$60.132 ;China;Chongqing;P
-E03908;Miles Evans;Network Architect;IT;Manufacturing;Male;54;24.10.1994;$87.216 ;United States;Miami;P
-E01351;Leo Owens;Systems Analyst;IT;Corporate;Male;47;23.04.2020;$50.069 ;United States;Seattle;P
-E02681;Caroline Owens;Director;IT;Speciality Products;Female;26;26.07.2021;$151.108 ;United States;Phoenix;P
-E03807;Kennedy Do;Computer Systems Manager;IT;Manufacturing;Female;42;15.10.2005;$67.398 ;United States;Phoenix;P
-E00422;Jade Acosta;Development Engineer;Engineering;Research & Development;Female;47;29.08.2015;$68.488 ;United States;Seattle;P
-E00265;Mila Vasquez;Quality Engineer;Engineering;Manufacturing;Female;60;16.07.1998;$92.932 ;United States;Columbus;P
-E04601;Allison Ayala;Analyst;Finance;Corporate;Female;36;30.06.2009;$43.363 ;United States;Austin;P
-E04816;Jace Zhang;Service Desk Analyst;IT;Speciality Products;Male;31;14.02.2017;$95.963 ;China;Chengdu;P
-E02147;Allison Medina;Manager;Finance;Speciality Products;Female;55;29.04.2010;$111.038 ;Brazil;Sao Paulo;P
-E02914;Maria Wilson;Vice President;Engineering;Research & Development;Female;51;14.06.1996;$200.246 ;United States;Columbus;P
-E03268;Everly Coleman;Vice President;IT;Corporate;Female;48;18.02.2015;$194.871 ;United States;Columbus;P
-E03972;Jordan Gomez;Sr. Analyst;Accounting;Research & Development;Male;58;15.09.1994;$98.769 ;Brazil;Rio de Janerio;P
-E02189;Isla Chavez;Account Representative;Sales;Research & Development;Female;29;19.05.2018;$65.334 ;Brazil;Rio de Janerio;P
-E04290;Hannah Gomez;Technical Architect;IT;Manufacturing;Female;25;11.05.2021;$83.934 ;United States;Miami;P
-E03630;Jacob Davis;Director;Accounting;Research & Development;Male;36;3.09.2016;$150.399 ;United States;Chicago;P
-E00432;Eli Gupta;Director;Human Resources;Research & Development;Male;37;19.05.2012;$160.280 ;China;Beijing;P
-E03045;Andrew Huynh;Business Partner;Human Resources;Speciality Products;Male;57;28.04.1997;$54.051 ;United States;Miami;P
-E01924;Anna Gutierrez;Director;Engineering;Research & Development;Female;59;15.04.2003;$150.699 ;Brazil;Sao Paulo;P
-E04877;Samuel Vega;Analyst II;Marketing;Speciality Products;Male;37;30.03.2013;$69.570 ;United States;Miami;P
-E02770;Liliana Do;Service Desk Analyst;IT;Manufacturing;Female;30;29.03.2019;$86.774 ;China;Chengdu;P
-E04590;Isaac Sanders;HRIS Analyst;Human Resources;Manufacturing;Male;49;29.03.2001;$57.606 ;United States;Miami;P
-E01977;Raelynn Gupta;Sr. Manger;Finance;Corporate;Female;48;10.09.2001;$125.730 ;China;Chongqing;P
-E01378;Genesis Xiong;System Administrator ;IT;Research & Development;Female;51;25.02.2012;$64.170 ;United States;Columbus;P
-E04224;Lucas Ramos;Sr. Business Partner;Human Resources;Speciality Products;Male;56;21.01.1998;$72.303 ;United States;Phoenix;P
-E03423;Santiago f Gonzalez;Manager;Sales;Research & Development;Male;36;26.07.2012;$105.891 ;United States;Seattle;P
-E01584;Henry Zhu;Vice President;Marketing;Speciality Products;Male;38;25.08.2021;$255.230 ;United States;Austin;P
-E00788;Emily Contreras;Analyst II;Sales;Manufacturing;Female;56;15.06.1992;$59.591 ;Brazil;Sao Paulo;P
-E00207;Hailey Lai;Vice President;Human Resources;Manufacturing;Female;52;23.07.2012;$187.048 ;China;Chengdu;P
-E00834;Vivian Guzman;Analyst II;Finance;Speciality Products;Female;53;9.02.2002;$58.605 ;United States;Phoenix;P
-E04571;Hadley Contreras;Director;Engineering;Corporate;Female;60;4.01.2017;$178.502 ;United States;Austin;P
-E02652;Nathan Sun;Manager;Accounting;Speciality Products;Male;63;29.07.2015;$103.724 ;China;Shanghai;P
-E02693;Grace Campos;Director;Engineering;Research & Development;Female;37;21.03.2008;$156.277 ;Brazil;Manaus;P
-E03359;Autumn Ortiz;Field Engineer;Engineering;Research & Development;Female;30;17.12.2017;$87.744 ;Brazil;Sao Paulo;P
-E00399;Connor Walker;Analyst II;Finance;Manufacturing;Male;30;18.03.2019;$54.714 ;United States;Columbus;P
-E02971;Mia Wu;Enterprise Architect;IT;Corporate;Female;45;25.08.2013;$99.169 ;China;Beijing;P
-E03327;Julia Luong;Sr. Manger;Accounting;Research & Development;Female;55;20.06.2006;$142.628 ;China;Chongqing;P
-E00900;Eleanor Delgado;Sr. Analyst;Marketing;Manufacturing;Female;33;27.04.2014;$75.869 ;Brazil;Sao Paulo;P
-E00836;Addison Roberts;Network Architect;IT;Manufacturing;Female;65;14.05.2018;$60.985 ;United States;Seattle;P
-E03854;Camila Li;Sr. Manger;IT;Research & Development;Female;60;24.07.2010;$126.911 ;China;Shanghai;P
-E04729;Ezekiel Fong;Vice President;Sales;Research & Development;Male;56;25.02.2004;$216.949 ;China;Shanghai;P
-E00360;Dylan Thao;Director;Engineering;Manufacturing;Male;53;22.10.2012;$168.510 ;United States;Seattle;P
-E02284;Josephine Salazar;Field Engineer;Engineering;Speciality Products;Female;36;14.03.2016;$85.870 ;Brazil;Sao Paulo;P
-E00181;Genesis Hu;Sr. Analyst;Marketing;Corporate;Female;46;15.01.2002;$86.510 ;China;Beijing;P
-E04168;Mila Juarez;Manager;Sales;Speciality Products;Female;38;21.09.2017;$119.647 ;Brazil;Sao Paulo;P
-E02861;Daniel Perry;Enterprise Architect;IT;Research & Development;Male;62;15.04.2001;$80.921 ;United States;Columbus;P
-E01357;Paisley Hunter;Engineering Manager;Engineering;Research & Development;Female;61;15.01.2010;$98.110 ;United States;Chicago;P
-E04387;Everleigh White;Network Architect;IT;Speciality Products;Female;59;20.10.2017;$86.831 ;United States;Phoenix;P
-E03090;Penelope Choi;Technical Architect;IT;Speciality Products;Female;49;10.09.2010;$72.826 ;China;Beijing;P
-E03591;Piper Sun;Director;Marketing;Manufacturing;Female;64;14.02.2011;$171.217 ;United States;Seattle;P
-E03328;Lucy Johnson;Manager;IT;Research & Development;Female;57;27.04.2020;$103.058 ;United States;Columbus;P
-E04937;Ian Ngo;Manager;Sales;Speciality Products;Male;52;7.08.2014;$117.062 ;United States;Phoenix;P
-E00515;Joseph Vazquez;Sr. Manger;Accounting;Speciality Products;Male;40;23.01.2019;$159.031 ;United States;Miami;P
-E01241;Hadley Guerrero;Sr. Manger;IT;Research & Development;Female;49;14.01.2004;$125.086 ;Brazil;Sao Paulo;P
-E03255;Jose Brown;System Administrator ;IT;Speciality Products;Male;43;7.04.2016;$67.976 ;United States;Seattle;P
-E01711;Benjamin Ford;Analyst II;Finance;Speciality Products;Male;31;22.04.2021;$74.215 ;United States;Phoenix;P
-E00500;Henry Shah;Director;Accounting;Manufacturing;Male;55;11.06.2010;$187.389 ;China;Chengdu;P
-E04972;Ivy Daniels;Sr. Manger;Human Resources;Speciality Products;Female;41;26.10.2008;$131.841 ;United States;Columbus;P
-E02728;Thomas Chang;Sr. Analyst;Accounting;Research & Development;Male;34;26.07.2011;$97.231 ;China;Beijing;P
-E04749;Caroline Phan;Sr. Manger;Finance;Corporate;Female;41;14.03.2004;$155.004 ;United States;Austin;P
-E02023;Maverick Mehta;Systems Analyst;IT;Manufacturing;Male;40;30.07.2007;$41.859 ;United States;Seattle;P
-E03166;Austin Edwards;IT Coordinator;IT;Manufacturing;Male;42;24.09.2006;$52.733 ;United States;Chicago;P
-E02599;Daniel Huang;Vice President;Human Resources;Corporate;Male;31;3.09.2015;$250.953 ;United States;Columbus;P
-E01014;Lucas Phan;Director;Marketing;Research & Development;Male;49;19.02.1999;$191.807 ;China;Chongqing;P
-E04529;Gabriel Yu;Technical Architect;IT;Speciality Products;Male;42;23.06.2014;$64.677 ;China;Chongqing;P
-E00085;Mason Watson;Sr. Manger;IT;Corporate;Male;46;14.09.2004;$130.274 ;United States;Chicago;P
-E00632;Angel Chang;Network Architect;IT;Research & Development;Male;37;6.07.2017;$96.331 ;China;Shanghai;P
-E02108;Madeline Coleman;Sr. Manger;Finance;Research & Development;Female;51;28.04.2006;$150.758 ;United States;Chicago;P
-E03802;Thomas Vazquez;Director;Engineering;Corporate;Male;46;19.07.2014;$173.629 ;Brazil;Sao Paulo;P
-E03685;Silas Hunter;Solutions Architect;IT;Corporate;Male;55;4.05.1998;$62.174 ;United States;Chicago;P
-E01089;Nicholas Brooks;Analyst II;Accounting;Manufacturing;Male;43;20.10.2017;$56.555 ;United States;Phoenix;P
-E03988;Dominic Thomas;Analyst II;Marketing;Manufacturing;Male;48;28.09.2005;$74.655 ;United States;Austin;P
-E00401;Wesley Adams;System Administrator ;IT;Corporate;Male;48;11.08.2003;$93.017 ;United States;Seattle;P
-E03429;Ian Wu;Sr. Analyst;Marketing;Manufacturing;Male;51;14.04.2012;$82.300 ;China;Chengdu;P
-E02417;Alice Young;Automation Engineer;Engineering;Research & Development;Female;46;24.01.2008;$91.621 ;United States;Chicago;P
-E00359;Logan Carrillo;Sr. Analyst;Marketing;Research & Development;Male;33;30.11.2014;$91.280 ;United States;Miami;P
-E02044;Caroline Alexander;Business Partner;Human Resources;Manufacturing;Female;42;18.09.2020;$47.071 ;United States;Columbus;P
-E01479;Serenity Bailey;IT Systems Architect;IT;Manufacturing;Female;55;21.11.2011;$81.218 ;United States;Chicago;P
-E04962;Elena Tan;Vice President;Engineering;Manufacturing;Female;50;13.10.2008;$181.801 ;China;Chongqing;P
-E02769;Eliza Adams;Account Representative;Sales;Manufacturing;Female;26;21.11.2021;$63.137 ;United States;Chicago;P
-E03893;Alice Xiong;Vice President;Engineering;Manufacturing;Female;55;2.09.2018;$221.465 ;China;Chengdu;P
-E00553;Isla Yoon;Quality Engineer;Engineering;Research & Development;Female;50;10.05.2013;$79.388 ;United States;Austin;P
-E03540;Emma Perry;Solutions Architect;IT;Manufacturing;Female;28;22.01.2018;$68.176 ;United States;Seattle;P
-E02769;Riley Marquez;Sr. Manger;Finance;Research & Development;Female;39;18.10.2019;$122.829 ;United States;Chicago;P
-E03277;Caroline Hu;Sr. Manger;Marketing;Speciality Products;Female;31;18.08.2019;$126.353 ;China;Shanghai;P
-E04194;Madison Kumar;Director;Accounting;Speciality Products;Female;55;17.10.2010;$188.727 ;China;Chengdu;P
-E01807;Matthew Lim;Sr. Analyst;Sales;Research & Development;Male;52;18.02.1994;$99.624 ;United States;Seattle;P
-E01762;Maya Ngo;Manager;Sales;Speciality Products;Female;55;20.10.2012;$108.686 ;United States;Columbus;P
-E02632;Alice Soto;Analyst;Accounting;Corporate;Female;56;13.04.1995;$50.857 ;Brazil;Manaus;P
-E04226;Andrew Moore;Operations Engineer;Engineering;Manufacturing;Male;47;2.01.2001;$120.628 ;United States;Chicago;P
-E04101;Olivia Harris;Director;Sales;Speciality Products;Female;63;14.06.2020;$181.216 ;United States;Columbus;P
-E01981;Genesis Banks;Analyst;Finance;Corporate;Female;63;16.03.2012;$46.081 ;United States;Chicago;P
-E02534;Victoria Johnson;Sr. Manger;Accounting;Corporate;Female;55;28.05.2004;$159.885 ;United States;Columbus;P
-E01238;Eloise Griffin;Director;Sales;Manufacturing;Female;55;29.10.1995;$153.271 ;United States;Austin;P
-E01118;Roman Yang;Manager;Human Resources;Manufacturing;Male;42;12.12.2009;$114.242 ;United States;Phoenix;P
-E04041;Clara Huynh;IT Coordinator;IT;Speciality Products;Female;39;18.11.2020;$48.415 ;China;Shanghai;P
-E04308;Kai Flores;Development Engineer;Engineering;Manufacturing;Male;35;23.05.2017;$65.566 ;United States;Seattle;P
-E01052;Jaxson Dinh;Sr. Manger;Marketing;Research & Development;Male;45;3.05.2001;$147.752 ;China;Shanghai;P
-E04165;Sophie Vang;Sr. Manger;Marketing;Manufacturing;Female;25;14.09.2021;$136.810 ;China;Chongqing;P
-E02295;Axel Jordan;Analyst;Sales;Corporate;Male;47;28.02.2013;$54.635 ;United States;Chicago;P
-E04546;Jade Hunter;Cloud Infrastructure Architect;IT;Corporate;Female;42;5.02.2020;$96.636 ;United States;Columbus;P
-E04217;Lydia Williams;System Administrator ;IT;Manufacturing;Female;35;29.10.2014;$91.592 ;United States;Chicago;P
-E00650;Emery Chang;Business Partner;Human Resources;Research & Development;Female;45;17.08.2000;$55.563 ;China;Chengdu;P
-E00344;Savannah He;Director;IT;Research & Development;Female;52;14.02.1996;$159.724 ;China;Beijing;P
-E04645;Elias Ahmed;Vice President;Marketing;Corporate;Male;57;4.08.2017;$183.190 ;United States;Chicago;P
-E03880;Samantha Woods;Analyst;Accounting;Speciality Products;Female;56;25.12.2019;$54.829 ;United States;Phoenix;P
-E02730;Axel Soto;Quality Engineer;Engineering;Corporate;Male;46;22.04.2005;$96.639 ;Brazil;Rio de Janerio;P
-E04517;Amelia Choi;Manager;Marketing;Speciality Products;Female;43;11.06.2006;$117.278 ;United States;Miami;P
-E00965;Jacob Khan;Computer Systems Manager;IT;Speciality Products;Male;53;9.02.2008;$84.193 ;China;Shanghai;P
-E04639;Luna Taylor;Network Administrator;IT;Manufacturing;Female;47;28.07.2018;$87.806 ;United States;Seattle;P
-E00465;Dominic Parker;Test Engineer;Engineering;Research & Development;Male;62;4.10.2011;$63.959 ;United States;Seattle;P
-E03058;Angel Xiong;Vice President;IT;Research & Development;Male;35;11.06.2015;$234.723 ;China;Shanghai;P
-E02337;Emma Cao;Analyst;Accounting;Corporate;Female;27;24.08.2019;$50.809 ;China;Chongqing;P
-E04927;Ezekiel Bryant;Sr. Analyst;Finance;Manufacturing;Male;55;19.07.2002;$77.396 ;United States;Miami;P
-E03799;Natalie Hwang;Sr. Analyst;Finance;Speciality Products;Female;63;31.12.1999;$89.523 ;United States;Phoenix;P
-E04538;Adeline Yang;Cloud Infrastructure Architect;IT;Corporate;Female;53;20.07.2011;$86.173 ;China;Chongqing;P
-E02633;Allison Roberts;Vice President;Sales;Manufacturing;Female;54;19.08.2000;$222.224 ;United States;Columbus;P
-E02965;Andrew Do;Sr. Manger;Finance;Research & Development;Male;43;17.04.2021;$146.140 ;United States;Seattle;P
-E04345;Eliana Grant;Engineering Manager;Engineering;Speciality Products;Female;64;20.06.1994;$109.456 ;United States;Chicago;P
-E02895;Mila Soto;Director;Finance;Research & Development;Female;65;7.10.2008;$170.221 ;Brazil;Manaus;P
-E01132;Gabriella Johnson;Computer Systems Manager;IT;Research & Development;Female;42;1.03.2006;$97.433 ;United States;Seattle;P
-E00758;Jonathan Khan;Account Representative;Sales;Manufacturing;Male;35;30.08.2013;$59.646 ;China;Shanghai;P
-E03750;Elias Dang;Director;Engineering;Speciality Products;Male;64;29.08.1995;$158.787 ;China;Chengdu;P
-E00144;Theodore Ngo;Controls Engineer;Engineering;Research & Development;Male;55;29.04.2018;$83.378 ;China;Beijing;P
-E02943;Bella Lopez;Sr. Analyst;Marketing;Corporate;Female;32;12.11.2013;$88.895 ;United States;Chicago;P
-E03901;Luca Truong;Director;Marketing;Corporate;Male;45;11.12.2004;$168.846 ;China;Chongqing;P
-E03461;Nathan Lau;Business Partner;Human Resources;Research & Development;Male;35;22.02.2011;$43.336 ;United States;Austin;P
-E03490;Henry Campos;Sr. Manger;Human Resources;Corporate;Male;38;27.09.2009;$127.801 ;United States;Phoenix;P
-E04466;Connor Bell;Network Administrator;IT;Corporate;Male;54;1.04.2000;$76.352 ;United States;Austin;P
-E03226;Angel Stewart;Vice President;Finance;Corporate;Male;28;22.06.2019;$250.767 ;United States;Seattle;P
-E04607;Landon Brown;Vice President;Marketing;Corporate;Male;26;27.09.2020;$223.055 ;United States;Columbus;P
-E02678;Nicholas Rivera;Director;Engineering;Corporate;Male;45;13.04.2007;$189.680 ;Brazil;Sao Paulo;P
-E02190;Gabriel Carter;Test Engineer;Engineering;Manufacturing;Male;57;18.07.2018;$71.167 ;United States;Columbus;P
-E00747;Leilani Baker;Technical Architect;IT;Speciality Products;Female;59;4.04.2010;$76.027 ;United States;Seattle;P
-E00268;Ian Flores;Director;Engineering;Corporate;Male;48;10.12.2019;$183.113 ;Brazil;Rio de Janerio;P
-E01416;Hudson Thompson;Analyst II;Accounting;Manufacturing;Male;30;20.10.2020;$67.753 ;United States;Phoenix;P
-E01524;Ian Miller;Computer Systems Manager;IT;Corporate;Male;31;13.10.2016;$63.744 ;United States;Austin;P
-E03849;Harper Chin;Quality Engineer;Engineering;Manufacturing;Female;50;9.07.2002;$92.209 ;China;Shanghai;P
-E02801;Santiago f Brooks;Sr. Manger;Sales;Corporate;Male;51;1.09.2000;$157.487 ;United States;Phoenix;P
-E04155;Dylan Dominguez;Sr. Analyst;Marketing;Research & Development;Male;42;7.04.2015;$99.697 ;Brazil;Rio de Janerio;P
-E01952;Everett Lee;Network Administrator;IT;Research & Development;Male;45;26.02.2010;$90.770 ;United States;Columbus;P
-E00116;Madelyn Mehta;Analyst;Sales;Speciality Products;Female;64;28.01.2005;$55.369 ;United States;Phoenix;P
-E04811;Athena Vasquez;Field Engineer;Engineering;Speciality Products;Female;59;16.09.2014;$69.578 ;Brazil;Rio de Janerio;P
-E00624;William Watson;Director;Accounting;Speciality Products;Male;41;4.06.2013;$167.526 ;United States;Miami;P
-E03404;Everleigh Nunez;Field Engineer;Engineering;Speciality Products;Female;42;5.02.2021;$65.507 ;Brazil;Manaus;P
-E01845;Leo Fernandez;Manager;Finance;Research & Development;Male;54;28.04.1998;$108.268 ;Brazil;Sao Paulo;P
-E04784;Joshua Lin;Technical Architect;IT;Research & Development;Male;37;5.02.2016;$80.055 ;China;Beijing;P
-E00145;Alexander Rivera;Sr. Analyst;Sales;Research & Development;Male;58;27.04.2009;$76.802 ;Brazil;Manaus;P
-E00218;David Desai;Vice President;Sales;Speciality Products;Male;47;22.11.2016;$253.249 ;United States;Austin;P
-E02185;Aubrey Yoon;Sr. Business Partner;Human Resources;Research & Development;Female;60;11.11.2005;$78.388 ;China;Chongqing;P
-E01070;Grayson Brown;Vice President;IT;Corporate;Male;38;22.06.2016;$249.870 ;United States;Chicago;P
-E03807;Noah Chen;Sr. Manger;Marketing;Manufacturing;Male;63;1.03.2015;$148.321 ;China;Beijing;P
-E00784;Ella Nguyen;Service Desk Analyst;IT;Corporate;Female;60;10.02.2004;$90.258 ;China;Chongqing;P
-E04925;Athena Jordan;System Administrator ;IT;Manufacturing;Female;42;19.02.2011;$72.486 ;United States;Seattle;P
-E04448;Adrian Ruiz;Sr. Analyst;Finance;Corporate;Male;34;4.09.2014;$95.499 ;Brazil;Sao Paulo;P
-E04817;Zoe Sanchez;Sr. Analyst;Accounting;Research & Development;Female;53;23.12.2004;$90.212 ;Brazil;Sao Paulo;P
-E00325;Jameson Chen;Vice President;Marketing;Research & Development;Male;39;5.12.2019;$254.057 ;China;Shanghai;P
-E00403;Liliana Soto;Business Partner;Human Resources;Manufacturing;Female;58;12.10.2010;$43.001 ;United States;Austin;P
-E00436;Lincoln Reyes;Computer Systems Manager;IT;Manufacturing;Male;60;3.08.1998;$85.120 ;United States;Seattle;P
-E04358;Grayson Soto;Business Partner;Human Resources;Manufacturing;Male;34;3.08.2015;$52.200 ;United States;Columbus;P
-E04662;Julia Morris;Sr. Manger;Human Resources;Corporate;Female;60;18.10.2008;$150.855 ;United States;Phoenix;P
-E01496;Ava Ortiz;Enterprise Architect;IT;Manufacturing;Female;53;20.07.2004;$65.702 ;United States;Columbus;P
-E01870;Carson Chau;Director;Finance;Corporate;Male;58;12.10.2007;$162.038 ;China;Chongqing;P
-E03971;Lillian Chen;Sr. Manger;Marketing;Research & Development;Female;25;9.04.2020;$157.057 ;United States;Columbus;P
-E03616;Josiah Lewis;Manager;IT;Research & Development;Male;46;11.08.2021;$127.559 ;United States;Austin;P
-E00153;Claire Jones;Field Engineer;Engineering;Corporate;Female;39;12.03.2019;$62.644 ;United States;Seattle;P
-E02313;Jeremiah Lu;Network Architect;IT;Manufacturing;Male;50;6.03.2001;$73.907 ;China;Shanghai;P
-E02960;Nova Hill;Sr. Analyst;Accounting;Manufacturing;Female;56;10.03.2018;$90.040 ;United States;Chicago;P
-E00096;Peyton Cruz;Development Engineer;Engineering;Manufacturing;Female;30;26.05.2016;$91.134 ;Brazil;Sao Paulo;P
-E02140;Naomi Zhao;Vice President;Human Resources;Speciality Products;Female;45;22.09.2021;$201.396 ;United States;Miami;P
-E00826;Rylee Bui;Analyst;Accounting;Corporate;Female;55;22.12.2011;$54.733 ;China;Chongqing;P
-E03881;Andrew Reed;System Administrator ;IT;Corporate;Male;28;17.06.2019;$65.341 ;United States;Miami;P
-E02604;Brooklyn Collins;Sr. Manger;Finance;Corporate;Female;59;27.10.2018;$139.208 ;United States;Austin;P
-E02613;John Jung;Sr. Analyst;Sales;Speciality Products;Male;63;12.03.2018;$73.200 ;China;Shanghai;P
-E00864;Samantha Aguilar;Manager;Accounting;Speciality Products;Female;46;24.04.2010;$102.636 ;United States;Seattle;P
-E01760;Madeline Acosta;Sr. Account Representative;Sales;Speciality Products;Female;26;9.02.2021;$87.427 ;Brazil;Sao Paulo;P
-E03223;Ethan Joseph;IT Coordinator;IT;Research & Development;Male;45;28.05.2018;$49.219 ;United States;Columbus;P
-E01262;Miles Mehta;Manager;Finance;Manufacturing;Male;50;19.05.2018;$106.437 ;China;Chongqing;P
-E01075;Joshua Juarez;Analyst II;Finance;Manufacturing;Male;46;5.05.2015;$64.364 ;Brazil;Sao Paulo;P
-E00364;Matthew Howard;Director;Human Resources;Manufacturing;Male;50;17.10.2021;$172.180 ;United States;Columbus;P
-E04108;Jade Figueroa;Sr. Analyst;Sales;Manufacturing;Female;33;14.05.2012;$88.343 ;Brazil;Rio de Janerio;P
-E02917;Everett Morales;Solutions Architect;IT;Speciality Products;Male;57;10.07.2014;$66.649 ;Brazil;Rio de Janerio;P
-E03720;Genesis Hunter;Manager;Finance;Corporate;Female;48;22.04.1999;$102.847 ;United States;Chicago;P
-E03393;Henry Figueroa;Sr. Manger;Finance;Manufacturing;Male;46;19.07.2010;$134.881 ;Brazil;Manaus;P
-E02977;Nicholas Song;Analyst II;Marketing;Manufacturing;Male;52;23.05.1999;$68.807 ;China;Chengdu;P
-E03371;Jack Alexander;Vice President;IT;Manufacturing;Male;56;29.05.2006;$228.822 ;United States;Miami;P
-E02531;Jameson Foster;Analyst;Marketing;Manufacturing;Male;28;18.07.2021;$43.391 ;United States;Columbus;P
-E02473;Leonardo Lo;Quality Engineer;Engineering;Speciality Products;Male;29;15.11.2021;$91.782 ;China;Chongqing;P
-E02468;Ella Huang;Vice President;Marketing;Corporate;Female;45;28.02.2016;$211.637 ;United States;Chicago;P
-E01499;Liam Jordan;Computer Systems Manager;IT;Manufacturing;Male;28;8.08.2020;$73.255 ;United States;Phoenix;P
-E03697;Isaac Woods;Manager;Sales;Corporate;Male;28;8.01.2021;$108.826 ;United States;Miami;P
-E00593;Luke Wilson;Solutions Architect;IT;Speciality Products;Male;34;24.05.2016;$94.352 ;United States;Miami;P
-E01103;Lyla Alvarez;IT Systems Architect;IT;Research & Development;Female;55;30.08.1994;$73.955 ;United States;Phoenix;P
-E03889;Caleb Flores;Manager;Human Resources;Manufacturing;Male;34;13.08.2013;$113.909 ;Brazil;Rio de Janerio;P
-E01958;Angel Lin;Network Administrator;IT;Manufacturing;Male;27;24.12.2020;$92.321 ;United States;Chicago;P
-E01870;Easton Moore;Computer Systems Manager;IT;Research & Development;Male;52;23.05.2013;$99.557 ;United States;Seattle;P
-E01167;Kinsley Collins;Automation Engineer;Engineering;Speciality Products;Female;28;14.11.2018;$115.854 ;United States;Phoenix;P
-E00099;Brooklyn Salazar;IT Systems Architect;IT;Manufacturing;Female;44;1.03.2011;$82.462 ;United States;Austin;P
-E00044;Scarlett Jenkins;Vice President;IT;Research & Development;Female;53;9.11.2011;$198.473 ;United States;Miami;P
-E00711;Melody Chin;Sr. Manger;Finance;Corporate;Female;43;15.10.2006;$153.492 ;United States;Chicago;P
-E04795;Eloise Alexander;Vice President;Human Resources;Corporate;Female;28;21.01.2018;$208.210 ;United States;Seattle;P
-E03912;Carter Turner;Sr. Analyst;Marketing;Corporate;Male;33;17.11.2015;$91.632 ;United States;Phoenix;P
-E02103;Andrew Ma;HRIS Analyst;Human Resources;Corporate;Male;31;24.09.2017;$71.755 ;China;Chongqing;P
-E04213;Hailey Xi;Manager;Accounting;Corporate;Female;52;19.11.2021;$111.006 ;China;Chongqing;P
-E04756;Aiden Le;Cloud Infrastructure Architect;IT;Corporate;Male;55;24.12.1994;$99.774 ;United States;Austin;P
-E04114;Christopher Lim;Director;IT;Research & Development;Male;55;13.03.2007;$184.648 ;China;Shanghai;P
-E01423;James Castillo;Vice President;IT;Manufacturing;Male;51;19.07.2001;$247.874 ;Brazil;Manaus;P
-E03181;Greyson Dang;Development Engineer;Engineering;Manufacturing;Male;60;11.05.2009;$62.239 ;China;Beijing;P
-E03305;Hannah King;Manager;Accounting;Speciality Products;Female;31;7.10.2014;$114.911 ;United States;Chicago;P
-E00703;Wesley Dominguez;Engineering Manager;Engineering;Corporate;Male;45;27.04.2018;$115.490 ;United States;Chicago;P
-E04403;Dominic Hu;Manager;Accounting;Speciality Products;Male;34;13.02.2012;$118.708 ;China;Shanghai;P
-E00103;Nora Park;Director;Accounting;Speciality Products;Female;29;28.06.2017;$197.649 ;United States;Columbus;P
-E04487;Audrey Hwang;Sr. Analyst;Accounting;Speciality Products;Female;45;17.06.2020;$89.841 ;China;Beijing;P
-E01194;Ella Jenkins;Analyst II;Finance;Speciality Products;Female;52;20.12.2019;$61.026 ;United States;Phoenix;P
-E02179;Peyton Owens;Controls Engineer;Engineering;Speciality Products;Female;48;25.09.2014;$96.693 ;United States;Chicago;P
-E04242;Alice Lopez;Test Engineer;Engineering;Speciality Products;Female;48;27.06.2009;$82.907 ;United States;Seattle;P
-E01371;Dominic Le;Vice President;Marketing;Corporate;Male;41;4.10.2014;$257.194 ;China;Chongqing;P
-E03065;Ezra Ortiz;Quality Engineer;Engineering;Research & Development;Male;41;21.01.2012;$94.658 ;United States;Miami;P
-E01377;Grayson Luu;Quality Engineer;Engineering;Research & Development;Male;55;30.04.2011;$89.419 ;China;Shanghai;P
-E03097;Brooks Stewart;HRIS Analyst;Human Resources;Manufacturing;Male;45;19.12.2015;$51.983 ;United States;Columbus;P
-E01668;Naomi Xi;Director;Finance;Corporate;Female;53;17.02.2002;$179.494 ;China;Chongqing;P
-E03354;Silas Estrada;IT Systems Architect;IT;Corporate;Male;49;24.06.2016;$68.426 ;Brazil;Rio de Janerio;P
-E02088;Skylar Ayala;Sr. Manger;Finance;Corporate;Female;55;6.02.2017;$144.986 ;United States;Phoenix;P
-E03980;Lydia Huynh;Account Representative;Sales;Speciality Products;Female;45;16.08.2000;$60.113 ;United States;Chicago;P
-E00972;Hazel Cortez;HRIS Analyst;Human Resources;Research & Development;Female;52;18.04.2021;$50.548 ;Brazil;Sao Paulo;P
-E00824;Everleigh Adams;Analyst II;Marketing;Manufacturing;Female;33;14.03.2020;$68.846 ;United States;Chicago;P
-E04359;Layla Salazar;Solutions Architect;IT;Corporate;Female;59;19.03.2014;$90.901 ;United States;Seattle;P
-E03113;Willow Chen;Manager;Accounting;Corporate;Female;50;3.09.2012;$102.033 ;United States;Austin;P
-E01488;Penelope Griffin;Director;Sales;Manufacturing;Female;61;23.01.2021;$151.783 ;United States;Seattle;P
-E01787;Lillian Romero;Director;Engineering;Corporate;Female;27;7.12.2018;$170.164 ;United States;Austin;P
-E03550;Stella Wu;Sr. Manger;Marketing;Speciality Products;Female;35;20.02.2014;$155.905 ;United States;Phoenix;P
-E01052;Parker Vang;Analyst;Sales;Corporate;Male;40;17.12.2016;$50.733 ;United States;Miami;P
-E04799;Mila Roberts;Sr. Business Partner;Human Resources;Corporate;Female;30;26.01.2017;$88.663 ;United States;Phoenix;P
-E03402;Isaac Liu;Field Engineer;Engineering;Manufacturing;Male;60;13.10.1992;$88.213 ;China;Chongqing;P
-E04128;Jacob Doan;Analyst II;Sales;Speciality Products;Male;55;2.08.2021;$67.130 ;United States;Miami;P
-E00013;Raelynn Ma;Sr. Analyst;Finance;Speciality Products;Female;33;8.10.2015;$94.876 ;United States;Miami;P
-E03114;Jameson Juarez;Development Engineer;Engineering;Speciality Products;Male;62;9.10.1994;$98.230 ;United States;Miami;P
-E04004;Everleigh Shah;Test Engineer;Engineering;Research & Development;Female;36;14.12.2018;$96.757 ;United States;Columbus;P
-E04472;Alexander Foster;Analyst II;Marketing;Manufacturing;Male;35;3.07.2020;$51.513 ;United States;Columbus;P
-E00161;Ryan Ha;Vice President;Marketing;Corporate;Male;60;27.01.2007;$234.311 ;United States;Miami;P
-E04417;Chloe Salazar;Sr. Manger;Human Resources;Speciality Products;Female;45;22.05.2011;$152.353 ;United States;Seattle;P
-E04536;Layla Scott;Sr. Manger;Accounting;Speciality Products;Female;48;30.07.2010;$124.774 ;United States;Phoenix;P
-E02534;Leah Khan;Director;Marketing;Corporate;Female;36;13.09.2010;$157.070 ;China;Chongqing;P
-E02857;Mason Jimenez;Sr. Manger;Finance;Speciality Products;Male;44;8.08.2019;$130.133 ;United States;Austin;P
-E03059;Hailey Dang;Manager;Marketing;Manufacturing;Female;64;21.09.2019;$108.780 ;China;Shanghai;P
-E02477;Amelia Bui;Director;Engineering;Speciality Products;Female;46;21.10.2020;$151.853 ;China;Chengdu;P
-E00022;Elena Her;Account Representative;Sales;Manufacturing;Female;62;17.09.2006;$64.669 ;China;Chongqing;P
-E03370;Ian Cortez;Analyst II;Marketing;Research & Development;Male;61;30.04.2008;$69.352 ;Brazil;Rio de Janerio;P
-E00555;Christian Ali;Analyst II;Marketing;Research & Development;Male;65;17.10.2001;$74.631 ;China;Chongqing;P
-E03160;Carter Ortiz;Quality Engineer;Engineering;Speciality Products;Male;54;29.04.2012;$96.441 ;Brazil;Sao Paulo;P
-E03919;Grayson Chan;Engineering Manager;Engineering;Speciality Products;Male;46;20.10.2011;$114.250 ;China;Chengdu;P
-E01724;Nolan Molina;Computer Systems Manager;IT;Corporate;Male;36;27.12.2020;$70.165 ;Brazil;Manaus;P
-E04087;Adam Kaur;Manager;IT;Corporate;Male;60;29.01.2000;$109.059 ;China;Chengdu;P
-E02856;Amelia Kaur;Operations Engineer;Engineering;Research & Development;Female;30;14.11.2015;$77.442 ;United States;Columbus;P
-E03805;Autumn Gonzales;Analyst II;Sales;Corporate;Female;34;6.06.2012;$72.126 ;Brazil;Manaus;P
-E00319;Ezra Wilson;Service Desk Analyst;IT;Manufacturing;Male;55;18.10.2013;$70.334 ;United States;Miami;P
-E01090;Jacob Cheng;Quality Engineer;Engineering;Research & Development;Male;59;23.12.2009;$78.006 ;United States;Miami;P
-E04323;Melody Valdez;Director;IT;Manufacturing;Female;28;25.01.2021;$160.385 ;United States;Miami;P
-E02687;Caroline Nelson;Vice President;Finance;Corporate;Female;36;11.01.2014;$202.323 ;United States;Chicago;P
-E01407;Ellie Guerrero;Sr. Manger;Human Resources;Corporate;Female;29;13.07.2020;$141.555 ;Brazil;Manaus;P
-E02748;Genesis Zhu;Director;Finance;Speciality Products;Female;34;20.07.2020;$184.960 ;United States;Seattle;P
-E01995;Jonathan Ho;Vice President;IT;Manufacturing;Male;37;25.06.2011;$221.592 ;United States;Columbus;P
-E01714;Savannah Park;HRIS Analyst;Human Resources;Manufacturing;Female;44;28.01.2009;$53.301 ;United States;Seattle;P
-E04491;Nathan Chan;Cloud Infrastructure Architect;IT;Corporate;Male;45;2.03.2000;$91.276 ;United States;Seattle;P
-E01076;Sofia Vu;Sr. Manger;Human Resources;Research & Development;Female;52;5.09.2017;$140.042 ;United States;Austin;P
-E04131;Ruby Choi;Analyst;Accounting;Manufacturing;Female;40;6.12.2018;$57.225 ;United States;Columbus;P
-E02843;Lily Pena;Manager;Human Resources;Speciality Products;Female;55;24.02.2010;$102.839 ;United States;Miami;P
-E03758;Liam Zhang;Director;Marketing;Research & Development;Male;29;15.09.2021;$199.783 ;United States;Chicago;P
-E02063;Ian Gutierrez;Sr. Business Partner;Human Resources;Research & Development;Male;32;9.04.2021;$70.980 ;Brazil;Rio de Janerio;P
-E00638;David Simmons;Manager;Marketing;Corporate;Male;51;26.01.1997;$104.431 ;United States;Phoenix;P
-E03571;Lincoln Henderson;Business Partner;Human Resources;Speciality Products;Male;28;27.06.2021;$48.510 ;United States;Chicago;P
-E01820;Nathan Miller;Quality Engineer;Engineering;Speciality Products;Male;27;28.05.2019;$70.110 ;United States;Miami;P
-E01712;James Singh;Director;Marketing;Corporate;Male;45;12.03.2008;$186.138 ;China;Chongqing;P
-E00184;Kayden Ortega;Analyst;Accounting;Manufacturing;Male;58;19.04.2010;$56.350 ;Brazil;Rio de Janerio;P
-E02706;Lucy Figueroa;Sr. Manger;Finance;Research & Development;Female;45;10.01.2016;$149.761 ;United States;Columbus;P
-E02899;Joshua Cortez;Sr. Manger;Finance;Corporate;Male;44;11.08.2007;$126.277 ;Brazil;Manaus;P
-E02478;Alexander Morris;Manager;Sales;Speciality Products;Male;33;21.06.2013;$119.631 ;United States;Phoenix;P
-E04170;Grayson Chin;Vice President;IT;Research & Development;Male;26;9.05.2020;$256.561 ;United States;Austin;P
-E00929;Allison Espinoza;Solutions Architect;IT;Speciality Products;Female;45;16.04.2020;$66.958 ;United States;Miami;P
-E00530;Naomi Chu;Sr. Manger;Sales;Manufacturing;Female;46;29.02.2004;$158.897 ;China;Chongqing;P
-E03824;Jameson Martin;Technical Architect;IT;Corporate;Male;37;15.02.2008;$71.695 ;United States;Phoenix;P
-E02492;Sebastian Gupta;Sr. Analyst;Marketing;Corporate;Male;40;22.09.2014;$73.779 ;China;Chongqing;P
-E01733;Eloise Pham;Manager;Sales;Speciality Products;Female;45;20.10.2011;$123.640 ;China;Shanghai;P
-E02857;Valentina Davis;Analyst;Sales;Speciality Products;Female;33;13.04.2014;$46.878 ;United States;Miami;P
-E04938;Brooklyn Daniels;Analyst;Marketing;Speciality Products;Female;64;10.02.2003;$57.032 ;United States;Miami;P
-E04952;Paisley Gomez;Sr. Analyst;Sales;Manufacturing;Female;57;2.10.2007;$98.150 ;Brazil;Rio de Janerio;P
-E02420;Madison Li;Director;Marketing;Manufacturing;Female;35;6.03.2017;$171.426 ;China;Beijing;P
-E01639;Everleigh Simmons;Analyst;Finance;Manufacturing;Female;55;16.04.2021;$48.266 ;United States;Chicago;P
-E03947;Logan Soto;Vice President;Finance;Research & Development;Male;36;18.08.2018;$223.404 ;United States;Columbus;P
-E04535;Charlotte Vo;System Administrator ;IT;Speciality Products;Female;57;10.01.2014;$74.854 ;United States;Seattle;P
-E00380;Alice Thompson;Vice President;Accounting;Speciality Products;Female;48;25.04.2007;$217.783 ;United States;Seattle;P
-E01432;Peyton Garza;Systems Analyst;IT;Manufacturing;Female;53;15.08.2004;$44.735 ;Brazil;Manaus;P
-E02628;Nora Nelson;Analyst II;Finance;Manufacturing;Female;41;9.01.2007;$50.685 ;United States;Columbus;P
-E03578;Maverick Li;Analyst II;Sales;Research & Development;Male;34;10.03.2018;$58.993 ;United States;Austin;P
-E03563;Ian Barnes;Operations Engineer;Engineering;Corporate;Male;47;8.06.2020;$115.765 ;United States;Miami;P
-E02781;Athena Vu;Director;Accounting;Manufacturing;Female;63;6.03.2007;$193.044 ;United States;Miami;P
-E04739;Ruby Washington;Analyst;Marketing;Research & Development;Female;65;17.06.2011;$56.686 ;United States;Seattle;P
-E02665;Bella Butler;Sr. Manger;Finance;Manufacturing;Female;33;25.10.2019;$131.652 ;United States;Seattle;P
-E04132;Kinsley Henry;Director;Marketing;Manufacturing;Female;45;29.02.2008;$150.577 ;United States;Miami;P
-E00276;Kennedy Romero;Engineering Manager;Engineering;Research & Development;Female;37;27.12.2018;$87.359 ;Brazil;Rio de Janerio;P
-E04277;Zoe Do;Analyst II;Sales;Speciality Products;Female;60;8.01.2014;$51.877 ;China;Beijing;P
-E03890;Everett Khan;Solutions Architect;IT;Manufacturing;Male;43;18.01.2017;$86.417 ;United States;Chicago;P
-E02012;Anna Han;System Administrator ;IT;Research & Development;Female;65;8.05.2003;$96.548 ;United States;Austin;P
-E02881;Leilani Sharma;Sr. Analyst;Accounting;Manufacturing;Female;43;23.01.2014;$92.940 ;China;Chengdu;P
-E03750;Jordan Cho;Analyst II;Accounting;Speciality Products;Male;28;24.08.2018;$61.410 ;United States;Phoenix;P
-E00605;Nova Williams;Manager;Finance;Speciality Products;Female;61;25.04.2010;$110.302 ;United States;Miami;P
-E04641;Scarlett Hill;Director;Engineering;Speciality Products;Female;45;22.04.2018;$187.205 ;United States;Columbus;P
-E01019;Dominic Scott;Sr. Analyst;Sales;Corporate;Male;45;16.03.2011;$81.687 ;United States;Phoenix;P
-E01519;Anthony Marquez;Vice President;IT;Speciality Products;Male;54;15.08.2009;$241.083 ;United States;Columbus;P
-E03694;Elena Patterson;Vice President;Finance;Speciality Products;Female;38;9.11.2018;$223.805 ;United States;Chicago;P
-E01123;Madison Nelson;Director;Accounting;Corporate;Female;27;16.07.2021;$161.759 ;United States;Miami;P
-E01366;William Walker;Computer Systems Manager;IT;Research & Development;Male;40;24.02.2019;$95.899 ;United States;Columbus;P
-E04005;Lincoln Wong;Sr. Analyst;Finance;Corporate;Male;49;7.06.2019;$80.700 ;United States;Columbus;P
-E02770;James Huang;Manager;Human Resources;Speciality Products;Male;54;11.03.1997;$128.136 ;China;Beijing;P
-E04018;Emery Ford;Analyst II;Marketing;Corporate;Female;39;18.04.2017;$58.745 ;United States;Austin;P
-E01591;Paisley Trinh;Technical Architect;IT;Corporate;Female;57;4.05.1992;$76.202 ;United States;Austin;P
-E04940;Hudson Williams;Vice President;Sales;Speciality Products;Male;36;19.03.2018;$195.200 ;United States;Austin;P
-E03465;Harper Phan;Analyst II;Finance;Manufacturing;Female;45;7.12.2016;$71.454 ;China;Shanghai;P
-E03870;Madeline Allen;Cloud Infrastructure Architect;IT;Manufacturing;Female;30;3.02.2020;$94.652 ;United States;Seattle;P
-E01927;Charles Moore;Technical Architect;IT;Manufacturing;Male;34;16.02.2016;$63.411 ;United States;Miami;P
-E03064;Lincoln Fong;Analyst II;Sales;Speciality Products;Male;31;17.02.2020;$67.171 ;China;Chongqing;P
-E01883;Isla Guzman;Sr. Manger;Accounting;Speciality Products;Female;28;6.07.2019;$152.036 ;Brazil;Rio de Janerio;P
-E03984;Hailey Foster;Controls Engineer;Engineering;Manufacturing;Female;55;21.03.2021;$95.562 ;United States;Chicago;P
-E00446;Hudson Hill;Sr. Analyst;Sales;Research & Development;Male;30;4.11.2019;$96.092 ;United States;Austin;P
-E02825;Wyatt Li;Vice President;Engineering;Manufacturing;Male;63;3.06.2013;$254.289 ;United States;Chicago;P
-E04174;Maverick Henry;Computer Systems Manager;IT;Research & Development;Male;26;10.07.2019;$69.110 ;United States;Chicago;P
-E01899;Xavier Jackson;Vice President;Marketing;Speciality Products;Male;52;11.06.2002;$236.314 ;United States;Miami;P
-E02562;Christian Medina;Analyst;Marketing;Corporate;Male;51;19.06.2007;$45.206 ;United States;Columbus;P
-E01006;Autumn Leung;Vice President;Finance;Research & Development;Female;25;15.11.2021;$210.708 ;United States;Chicago;P
-E02903;Robert Vazquez;System Administrator ;IT;Corporate;Male;40;26.09.2021;$87.770 ;United States;Austin;P
-E03642;Aria Roberts;Manager;Accounting;Corporate;Female;38;12.08.2015;$106.858 ;United States;Seattle;P
-E02884;Axel Johnson;Director;Human Resources;Corporate;Male;60;14.04.2015;$155.788 ;United States;Seattle;P
-E00701;Madeline Garcia;Sr. Business Partner;Human Resources;Speciality Products;Female;45;26.04.2019;$74.891 ;Brazil;Rio de Janerio;P
-E04720;Christopher Chung;Controls Engineer;Engineering;Corporate;Male;28;18.12.2021;$95.670 ;United States;Phoenix;P
-E01985;Eliana Turner;Account Representative;Sales;Research & Development;Female;65;29.09.2000;$67.837 ;United States;Austin;P
-E03273;Daniel Shah;Analyst II;Sales;Research & Development;Male;41;4.06.2010;$72.425 ;China;Beijing;P
-E02415;Penelope Gonzalez;Sr. Analyst;Sales;Corporate;Female;52;16.10.1994;$93.103 ;United States;Phoenix;P
-E02877;Mila Allen;Controls Engineer;Engineering;Corporate;Female;56;14.10.2015;$76.272 ;United States;Miami;P
-E00091;Emilia Chu;Analyst II;Finance;Manufacturing;Female;48;24.06.2003;$55.760 ;United States;Austin;P
-E02563;Emily Clark;Vice President;Accounting;Corporate;Female;36;13.01.2020;$253.294 ;United States;Miami;P
-E04221;Roman King;Analyst II;Finance;Corporate;Male;60;16.08.2007;$58.671 ;United States;Columbus;P
-E04887;Emery Do;Account Representative;Sales;Research & Development;Female;40;16.03.2018;$55.457 ;United States;Columbus;P
-E03170;Autumn Thao;Account Representative;Sales;Manufacturing;Female;63;26.09.2017;$72.340 ;United States;Phoenix;P
-E01636;Naomi Coleman;Manager;Marketing;Corporate;Female;29;2.11.2016;$122.054 ;United States;Phoenix;P
-E01387;Cora Zheng;Director;IT;Manufacturing;Female;27;3.01.2018;$167.100 ;China;Chengdu;P
-E01363;Ayla Daniels;Technical Architect;IT;Corporate;Female;53;23.04.1997;$78.153 ;United States;Miami;P
-E02249;Allison Daniels;Manager;Finance;Manufacturing;Female;37;14.04.2020;$103.524 ;United States;Phoenix;P
-E02987;Mateo Harris;Manager;IT;Corporate;Male;30;5.08.2017;$119.906 ;United States;Columbus;P
-E03655;Samantha Rogers;Analyst;Marketing;Speciality Products;Female;28;17.01.2020;$45.061 ;United States;Miami;P
-E04048;Julian Lee;IT Systems Architect;IT;Corporate;Male;51;17.01.2003;$91.399 ;United States;Seattle;P
-E03626;Nicholas Avila;Enterprise Architect;IT;Research & Development;Male;28;28.09.2017;$97.336 ;United States;Austin;P
-E03694;Hailey Watson;Sr. Manger;Accounting;Corporate;Female;31;20.01.2017;$124.629 ;United States;Columbus;P
-E02920;Willow Woods;Vice President;Human Resources;Speciality Products;Female;28;25.07.2021;$231.850 ;United States;Miami;P
-E03220;Alexander Gonzales;Manager;Accounting;Research & Development;Male;34;4.06.2018;$128.329 ;United States;Phoenix;P
-E01347;Aiden Gonzales;Vice President;Marketing;Speciality Products;Male;44;28.03.2021;$186.033 ;Brazil;Sao Paulo;P
-E03968;Joshua Chin;Sr. Manger;Marketing;Manufacturing;Male;60;26.07.2021;$121.480 ;United States;Phoenix;P
-E04299;Paisley Hall;Director;Human Resources;Speciality Products;Female;41;21.05.2010;$153.275 ;United States;Columbus;P
-E01150;Allison Leung;Sr. Analyst;Sales;Research & Development;Female;62;18.05.2020;$97.830 ;United States;Austin;P
-E03774;Hannah Mejia;Vice President;Marketing;Corporate;Female;47;13.03.1999;$239.394 ;United States;Austin;P
-E01638;Elizabeth Huang;Analyst;Finance;Speciality Products;Female;62;20.09.2002;$49.738 ;China;Beijing;P
-E01877;Abigail Garza;Analyst;Accounting;Manufacturing;Female;33;27.05.2018;$45.049 ;United States;Seattle;P
-E01193;Raelynn Lu;Director;Finance;Research & Development;Female;27;26.05.2020;$153.628 ;China;Chongqing;P
-E01789;Charles Luu;Sr. Manger;Sales;Manufacturing;Male;25;15.06.2021;$142.731 ;China;Shanghai;P
-E01422;Lydia Espinoza;Sr. Manger;Marketing;Speciality Products;Female;29;15.05.2020;$137.106 ;Brazil;Sao Paulo;P
-E00440;Adeline Thao;Vice President;Finance;Corporate;Female;54;5.09.2007;$183.239 ;United States;Seattle;P
-E00145;Kinsley Dixon;Analyst;Accounting;Manufacturing;Female;28;25.05.2019;$45.819 ;United States;Miami;P
-E04150;Natalia Vu;Analyst;Accounting;Research & Development;Female;54;29.12.2006;$55.518 ;United States;Columbus;P
-E02846;Julia Mai;Manager;Marketing;Manufacturing;Female;50;11.03.2012;$108.134 ;China;Shanghai;P
-E04247;Camila Evans;Manager;Marketing;Research & Development;Female;55;20.12.1992;$113.950 ;United States;Miami;P
-E02613;Everly Lai;Vice President;Marketing;Speciality Products;Female;52;1.04.1998;$182.035 ;United States;Chicago;P
-E03349;Adam He;Director;Accounting;Speciality Products;Male;35;16.08.2017;$181.356 ;China;Beijing;P
-E03648;Vivian Hunter;Account Representative;Sales;Corporate;Female;26;21.08.2019;$66.084 ;United States;Seattle;P
-E02192;Lucy Avila;Solutions Architect;IT;Speciality Products;Female;43;22.04.2010;$76.912 ;Brazil;Sao Paulo;P
-E03981;Eliana Li;Test Engineer;Engineering;Research & Development;Female;63;7.05.2018;$67.987 ;United States;Miami;P
-E03262;Logan Mitchell;Analyst II;Marketing;Manufacturing;Male;65;20.08.2005;$59.833 ;United States;Columbus;P
-E02716;Dominic Dinh;Sr. Manger;Marketing;Speciality Products;Male;45;11.04.2005;$128.468 ;United States;Chicago;P
-E00245;Lucas Daniels;Manager;Sales;Corporate;Male;42;29.05.2011;$102.440 ;United States;Chicago;P
-E04123;Andrew Holmes;Vice President;IT;Speciality Products;Male;59;30.12.2010;$246.619 ;United States;Miami;P
-E03471;Julia Sandoval;Manager;Human Resources;Corporate;Female;42;19.11.2017;$101.143 ;United States;Miami;P
-E00717;Kennedy Vargas;Business Partner;Human Resources;Manufacturing;Female;45;14.10.2005;$51.404 ;Brazil;Manaus;P
-E01966;Thomas Williams;Field Engineer;Engineering;Speciality Products;Male;45;21.11.2015;$87.292 ;United States;Columbus;P
-E03683;Raelynn Hong;Director;Marketing;Speciality Products;Female;28;11.12.2019;$182.321 ;China;Beijing;P
-E03694;Eli Reed;Systems Analyst;IT;Corporate;Male;51;27.02.2014;$53.929 ;United States;Miami;P
-E04766;Lyla Yoon;Vice President;Accounting;Manufacturing;Female;38;13.12.2012;$191.571 ;United States;Austin;P
-E01465;Hannah White;Sr. Manger;Accounting;Corporate;Female;62;30.01.2009;$150.555 ;United States;Phoenix;P
-E00206;Theodore Xi;Manager;Finance;Corporate;Male;52;5.10.2009;$122.890 ;China;Shanghai;P
-E04088;Ezra Liang;Vice President;Finance;Research & Development;Male;52;26.05.1997;$216.999 ;United States;Miami;P
-E02066;Grayson Yee;Manager;Human Resources;Corporate;Male;48;16.07.2015;$110.565 ;China;Beijing;P
-E03227;Eli Richardson;IT Coordinator;IT;Speciality Products;Male;38;19.04.2015;$48.762 ;United States;Seattle;P
-E03364;Audrey Lee;Development Engineer;Engineering;Speciality Products;Female;51;11.02.2017;$87.036 ;China;Chongqing;P
-E00607;Jameson Allen;Director;Marketing;Speciality Products;Male;32;28.11.2016;$177.443 ;United States;Seattle;P
-E02258;Eliza Chen;Enterprise Architect;IT;Research & Development;Female;36;29.04.2016;$75.862 ;United States;Austin;P
-E03681;Lyla Chen;Sr. Business Partner;Human Resources;Research & Development;Female;45;26.04.2019;$90.870 ;United States;Chicago;P
-E02298;Emily Doan;Engineering Manager;Engineering;Corporate;Female;32;4.12.2014;$99.202 ;United States;Phoenix;P
-E02984;Jack Mai;Sr. Analyst;Marketing;Corporate;Male;45;22.09.2007;$92.293 ;China;Chengdu;P
-E02440;Grayson Turner;Solutions Architect;IT;Corporate;Male;54;30.06.1992;$63.196 ;United States;Chicago;P
-E04699;Ivy Tang;Development Engineer;Engineering;Speciality Products;Female;48;3.05.2012;$65.340 ;China;Shanghai;P
-E03579;Robert Zhang;Vice President;Marketing;Corporate;Male;45;24.09.2015;$202.680 ;United States;Phoenix;P
-E01649;Eva Alvarado;Computer Systems Manager;IT;Manufacturing;Female;46;24.04.2017;$77.461 ;Brazil;Sao Paulo;P
-E04969;Abigail Vang;Operations Engineer;Engineering;Research & Development;Female;40;9.09.2016;$109.680 ;China;Chengdu;P
-E00170;Claire Adams;Director;Sales;Manufacturing;Female;61;19.08.1997;$159.567 ;United States;Phoenix;P
-E00955;Theodore Marquez;Development Engineer;Engineering;Speciality Products;Male;54;24.11.2012;$94.407 ;Brazil;Sao Paulo;P
-E00810;Hunter Nunez;Vice President;Human Resources;Corporate;Male;62;16.08.2002;$234.594 ;United States;Seattle;P
-E02798;Charles Henderson;Systems Analyst;IT;Speciality Products;Male;48;11.02.2002;$43.080 ;United States;Austin;P
-E04542;Camila Cortez;Manager;Marketing;Manufacturing;Female;29;9.05.2021;$129.541 ;United States;Phoenix;P
-E02818;Aaron Garza;Director;Sales;Research & Development;Male;39;27.12.2013;$165.756 ;United States;Columbus;P
-E02907;Jose Singh;Sr. Manger;Finance;Speciality Products;Male;44;6.04.2010;$142.878 ;United States;Columbus;P
-E00023;Gabriel Joseph;Director;Engineering;Manufacturing;Male;52;28.10.2006;$187.992 ;United States;Miami;P
-E02391;Natalia Santos;Vice President;Human Resources;Speciality Products;Female;45;25.02.2019;$249.801 ;Brazil;Sao Paulo;P
-E01429;Dylan Wilson;Network Administrator;IT;Research & Development;Male;48;27.09.2006;$76.505 ;United States;Seattle;P
-E00494;Robert Alvarez;Service Desk Analyst;IT;Corporate;Male;39;21.10.2016;$84.297 ;Brazil;Manaus;P
-E00634;Samantha Chavez;Sr. Analyst;Sales;Speciality Products;Female;53;9.01.2017;$75.769 ;Brazil;Manaus;P
-E01249;Samuel Bailey;Vice President;Accounting;Speciality Products;Male;41;17.08.2013;$235.619 ;United States;Seattle;P
-E04683;Ezekiel Delgado;Director;Engineering;Speciality Products;Male;40;7.02.2020;$187.187 ;Brazil;Manaus;P
-E04732;Benjamin Ramirez;Network Engineer;IT;Research & Development;Male;48;27.07.2005;$68.987 ;United States;Chicago;P
-E03834;Anthony Carter;Director;Engineering;Speciality Products;Male;41;15.03.2007;$155.926 ;United States;Columbus;P
-E02923;Ethan Tang;Sr. Analyst;Accounting;Speciality Products;Male;54;4.05.2016;$93.668 ;United States;Chicago;P
-E02642;Sebastian Rogers;HRIS Analyst;Human Resources;Research & Development;Male;38;29.11.2019;$69.647 ;United States;Miami;P
-E00981;Miles Thao;System Administrator ;IT;Corporate;Male;57;26.06.2003;$63.318 ;United States;Columbus;P
-E04157;William Cao;Sr. Analyst;Marketing;Manufacturing;Male;63;12.02.2017;$77.629 ;China;Beijing;P
-E03528;Leo Hsu;Sr. Manger;Human Resources;Manufacturing;Male;62;22.11.2017;$138.808 ;China;Chongqing;P
-E04547;Avery Grant;Enterprise Architect;IT;Research & Development;Female;49;5.03.2014;$88.777 ;United States;Chicago;P
-E04415;Penelope Fong;Director;Accounting;Corporate;Female;60;14.05.2004;$186.378 ;China;Chongqing;P
-E04484;Vivian Thao;Quality Engineer;Engineering;Research & Development;Female;45;23.04.2015;$60.017 ;United States;Chicago;P
-E02800;Eva Estrada;Sr. Manger;Sales;Speciality Products;Female;45;24.07.2018;$148.991 ;Brazil;Sao Paulo;P
-E04926;Emma Luna;Field Engineer;Engineering;Speciality Products;Female;52;25.03.2008;$97.398 ;Brazil;Manaus;P
-E01268;Charlotte Wu;Sr. Business Partner;Human Resources;Manufacturing;Female;63;2.05.2007;$72.805 ;China;Shanghai;P
-E04853;Vivian Chu;Sr. Account Representative;Sales;Research & Development;Female;46;17.01.2021;$72.131 ;China;Shanghai;P
-E01209;Jayden Williams;Manager;Human Resources;Manufacturing;Male;64;26.12.1992;$104.668 ;United States;Columbus;P
-E02024;Amelia Bell;Sr. Analyst;Sales;Manufacturing;Female;53;5.08.2017;$89.769 ;United States;Seattle;P
-E02427;Addison Mehta;Manager;Sales;Corporate;Female;27;15.09.2018;$127.616 ;United States;Columbus;P
-E00276;Alexander Jackson;Manager;Human Resources;Corporate;Male;45;9.07.2012;$109.883 ;United States;Columbus;P
-E00951;Everly Lin;Business Partner;Human Resources;Manufacturing;Female;25;15.03.2021;$47.974 ;China;Chongqing;P
-E03248;Lyla Stewart;Sr. Manger;IT;Speciality Products;Female;43;27.03.2015;$120.321 ;United States;Austin;P
-E04444;Brooklyn Ruiz;IT Coordinator;IT;Manufacturing;Female;61;10.08.2014;$57.446 ;United States;Phoenix;P
-E02307;Skylar Evans;Director;Accounting;Research & Development;Female;42;4.06.2009;$174.099 ;United States;Austin;P
-E02375;Lincoln Huynh;Sr. Manger;Finance;Manufacturing;Male;63;8.02.2002;$128.703 ;United States;Austin;P
-E02276;Hazel Griffin;Field Engineer;Engineering;Corporate;Female;32;9.11.2015;$65.247 ;United States;Phoenix;P
-E02649;Charles Gonzalez;Quality Engineer;Engineering;Research & Development;Male;27;28.09.2018;$64.247 ;Brazil;Rio de Janerio;P
-E00503;Leah Patterson;Manager;Human Resources;Research & Development;Female;33;11.06.2012;$118.253 ;United States;Austin;P
-E01706;Avery Sun;Operations Engineer;Engineering;Manufacturing;Female;45;11.03.2004;$109.422 ;China;Chongqing;P
-E00676;Isaac Yoon;Manager;Human Resources;Corporate;Male;41;6.02.2019;$126.950 ;United States;Chicago;P
-E02005;Isabella Bui;Enterprise Architect;IT;Manufacturing;Female;36;21.11.2014;$97.500 ;United States;Miami;P
-E01895;Gabriel Zhou;IT Coordinator;IT;Manufacturing;Male;25;17.01.2021;$41.844 ;China;Chongqing;P
-E01396;Jack Vu;Analyst II;Accounting;Research & Development;Male;43;10.02.2014;$58.875 ;China;Chengdu;P
-E00749;Valentina Moua;Account Representative;Sales;Manufacturing;Female;37;10.11.2015;$64.204 ;United States;Columbus;P
-E01941;Quinn Trinh;Analyst II;Sales;Corporate;Female;42;9.05.2010;$67.743 ;China;Beijing;P
-E01413;Caroline Nelson;Sr. Account Representative;Sales;Speciality Products;Female;60;30.07.1997;$71.677 ;United States;Columbus;P
-E03928;Miles Dang;IT Coordinator;IT;Speciality Products;Male;61;24.09.2000;$40.063 ;United States;Miami;P
-E04109;Leah Bryant;IT Coordinator;IT;Manufacturing;Female;55;30.04.2004;$40.124 ;United States;Austin;P
-E03994;Henry Jung;Automation Engineer;Engineering;Manufacturing;Male;57;26.02.2018;$103.183 ;United States;Austin;P
-E00639;Benjamin Mai;System Administrator ;IT;Corporate;Male;54;15.06.1998;$95.239 ;United States;Phoenix;P
-E00608;Anna Han;Development Engineer;Engineering;Manufacturing;Female;29;9.11.2019;$75.012 ;United States;Chicago;P
-E04189;Ariana Kim;Network Architect;IT;Manufacturing;Female;33;29.06.2014;$96.366 ;China;Chengdu;P
-E02732;Alice Tran;Analyst;Marketing;Corporate;Female;39;29.07.2014;$40.897 ;United States;Seattle;P
-E00324;Hailey Song;Manager;Finance;Research & Development;Female;37;23.08.2016;$124.928 ;China;Chongqing;P
-E00518;Lydia Morales;Manager;Finance;Speciality Products;Female;51;14.06.2013;$108.221 ;Brazil;Manaus;P
-E01286;Liam Sanders;Sr. Business Partner;Human Resources;Corporate;Male;46;20.02.2007;$75.579 ;United States;Seattle;P
-E04564;Luke Sanchez;Sr. Manger;Human Resources;Manufacturing;Male;41;27.12.2015;$129.903 ;Brazil;Sao Paulo;P
-E02033;Grace Sun;Director;Finance;Research & Development;Female;25;17.04.2021;$186.870 ;China;Shanghai;P
-E00412;Ezra Banks;Analyst II;Sales;Research & Development;Male;37;23.04.2010;$57.531 ;United States;Chicago;P
-E01844;Jayden Kang;Analyst;Finance;Research & Development;Male;46;24.04.2011;$55.894 ;United States;Seattle;P
-E00667;Skylar Shah;Field Engineer;Engineering;Manufacturing;Female;42;27.04.2012;$72.903 ;United States;Phoenix;P
-E02639;Sebastian Le;Analyst;Finance;Corporate;Male;37;9.11.2015;$45.369 ;China;Beijing;P
-E00287;Luca Nelson;Manager;Finance;Speciality Products;Male;60;15.06.2010;$106.578 ;United States;Miami;P
-E02235;Riley Ramirez;Sr. Business Partner;Human Resources;Research & Development;Female;52;13.09.1999;$92.994 ;United States;Chicago;P
-E02720;Jaxon Fong;Sr. Analyst;Sales;Speciality Products;Male;59;13.03.1997;$83.685 ;China;Beijing;P
-E03583;Kayden Jordan;Cloud Infrastructure Architect;IT;Research & Development;Male;48;14.09.2010;$99.335 ;United States;Phoenix;P
-E01188;Alexander James;Sr. Manger;Human Resources;Manufacturing;Male;42;18.04.2013;$131.179 ;United States;Columbus;P
-E02428;Connor Luu;Computer Systems Manager;IT;Speciality Products;Male;35;3.05.2016;$73.899 ;China;Chengdu;P
-E03289;Christopher Lam;Vice President;Accounting;Manufacturing;Male;64;29.03.2013;$252.325 ;United States;Columbus;P
-E01947;Sophie Owens;Analyst II;Finance;Research & Development;Female;30;5.03.2015;$52.697 ;United States;Seattle;P
-E02024;Addison Perez;Operations Engineer;Engineering;Speciality Products;Female;29;25.09.2020;$123.588 ;Brazil;Sao Paulo;P
-E04249;Hadley Dang;Vice President;Accounting;Corporate;Female;47;26.12.2021;$243.568 ;United States;Austin;P
-E01090;Ethan Mehta;Director;Sales;Research & Development;Male;49;20.07.2001;$199.176 ;United States;Phoenix;P
-E03830;Madison Her;Technical Architect;IT;Speciality Products;Female;56;22.06.1996;$82.806 ;United States;Seattle;P
-E04363;Savannah Singh;Director;Marketing;Speciality Products;Female;53;20.06.1997;$164.399 ;United States;Seattle;P
-E04920;Nevaeh Hsu;Sr. Manger;Human Resources;Manufacturing;Female;32;14.04.2017;$154.956 ;United States;Phoenix;P
-E03866;Jordan Zhu;Sr. Manger;Marketing;Manufacturing;Male;32;29.01.2017;$143.970 ;United States;Seattle;P
-E03521;Jackson Navarro;Director;Sales;Corporate;Male;52;25.09.2020;$163.143 ;Brazil;Sao Paulo;P
-E04095;Sadie Patterson;Sr. Analyst;Accounting;Speciality Products;Female;38;24.07.2020;$89.390 ;United States;Seattle;P
-E04079;Christopher Butler;Network Architect;IT;Manufacturing;Male;41;5.10.2017;$67.468 ;United States;Miami;P
-E01508;Penelope Rodriguez;Engineering Manager;Engineering;Manufacturing;Female;49;12.03.2016;$100.810 ;Brazil;Rio de Janerio;P
-E02259;Emily Lau;Sr. Analyst;Finance;Manufacturing;Female;35;18.03.2019;$74.779 ;United States;Phoenix;P
-E04972;Sophie Oh;Network Engineer;IT;Corporate;Female;29;9.11.2017;$63.985 ;United States;Miami;P
-E01834;Chloe Allen;Solutions Architect;IT;Manufacturing;Female;64;8.07.2004;$77.903 ;United States;Seattle;P
-E03124;Caleb Nelson;Director;Marketing;Corporate;Male;33;12.06.2017;$164.396 ;United States;Columbus;P
-E01898;Oliver Moua;IT Systems Architect;IT;Corporate;Male;29;28.06.2021;$71.234 ;United States;Seattle;P
-E00342;Wesley Doan;Manager;Finance;Corporate;Male;63;19.04.2004;$122.487 ;China;Shanghai;P
-E03910;Nova Hsu;Manager;Human Resources;Speciality Products;Female;32;3.01.2017;$101.870 ;United States;Phoenix;P
-E00862;Levi Moreno;Systems Analyst;IT;Research & Development;Male;64;27.06.2020;$40.316 ;Brazil;Manaus;P
-E02576;Gianna Ha;Manager;IT;Research & Development;Female;55;8.02.2005;$115.145 ;China;Chongqing;P
-E00035;Lillian Gonzales;Cloud Infrastructure Architect;IT;Manufacturing;Female;43;13.03.2009;$62.335 ;Brazil;Manaus;P
-E01832;Ezra Singh;Analyst;Finance;Manufacturing;Male;56;10.05.2006;$41.561 ;United States;Austin;P
-E01755;Audrey Patel;Sr. Manger;Finance;Speciality Products;Female;37;24.04.2011;$131.183 ;China;Shanghai;P
-E00465;Brooklyn Cho;Technical Architect;IT;Manufacturing;Female;45;8.07.2002;$92.655 ;China;Chengdu;P
-E02391;Piper Ramos;Sr. Manger;Sales;Manufacturing;Female;49;2.04.1996;$157.057 ;United States;Miami;P
-E04697;Eleanor Williams;Enterprise Architect;IT;Speciality Products;Female;61;9.02.2005;$64.462 ;United States;Chicago;P
-E00371;Melody Grant;Quality Engineer;Engineering;Corporate;Female;41;7.10.2005;$79.352 ;United States;Seattle;P
-E02992;Paisley Sanders;Sr. Manger;Marketing;Speciality Products;Female;55;27.03.2001;$157.812 ;United States;Miami;P
-E04369;Santiago f Gray;Quality Engineer;Engineering;Corporate;Male;27;11.09.2018;$80.745 ;United States;Chicago;P
-E00592;Josephine Richardson;System Administrator ;IT;Manufacturing;Female;57;18.02.1996;$75.354 ;United States;Austin;P
-E03532;Jaxson Santiago;Engineering Manager;Engineering;Research & Development;Male;56;20.09.2018;$78.938 ;United States;Phoenix;P
-E00863;Lincoln Ramos;Operations Engineer;Engineering;Corporate;Male;59;10.09.2008;$96.313 ;United States;Austin;P
-E03310;Dylan Campbell;Director;Engineering;Speciality Products;Male;45;29.11.2010;$153.767 ;United States;Phoenix;P
-E01883;Olivia Gray;Manager;Marketing;Research & Development;Female;42;19.09.2015;$103.423 ;United States;Columbus;P
-E01242;Emery Doan;Controls Engineer;Engineering;Corporate;Female;25;23.06.2021;$86.464 ;China;Shanghai;P
-E02535;Caroline Perez;Controls Engineer;Engineering;Corporate;Female;29;14.01.2018;$80.516 ;Brazil;Sao Paulo;P
-E00369;Genesis Woods;Manager;Human Resources;Speciality Products;Female;33;21.08.2013;$105.390 ;United States;Columbus;P
-E03332;Ruby Sun;Cloud Infrastructure Architect;IT;Manufacturing;Female;50;6.09.2021;$83.418 ;China;Shanghai;P
-E03278;Nevaeh James;Solutions Architect;IT;Speciality Products;Female;45;3.11.2017;$66.660 ;United States;Austin;P
-E02492;Parker Sandoval;Manager;Human Resources;Speciality Products;Male;59;10.06.2015;$101.985 ;United States;Miami;P
-E03055;Austin Rojas;Vice President;Finance;Corporate;Male;29;5.12.2018;$199.504 ;United States;Austin;P
-E01943;Vivian Espinoza;Sr. Manger;Sales;Corporate;Female;52;5.10.2006;$147.966 ;Brazil;Rio de Janerio;P
-E01388;Cooper Gupta;Business Partner;Human Resources;Speciality Products;Male;58;20.06.2014;$41.728 ;China;Chongqing;P
-E00717;Axel Santos;Sr. Analyst;Accounting;Speciality Products;Male;62;17.02.2011;$94.422 ;United States;Phoenix;P
-E04637;Samuel Song;Director;Sales;Corporate;Male;31;29.06.2015;$191.026 ;United States;Columbus;P
-E03240;Aiden Silva;Vice President;IT;Research & Development;Male;42;29.11.2010;$186.725 ;Brazil;Manaus;P
-E00340;Eliana Allen;Business Partner;Human Resources;Research & Development;Female;56;20.08.2009;$52.800 ;United States;Phoenix;P
-E04751;Grayson James;Operations Engineer;Engineering;Speciality Products;Male;54;5.12.2010;$113.982 ;United States;Seattle;P
-E04636;Hailey Yee;Account Representative;Sales;Research & Development;Female;54;16.03.2021;$56.239 ;China;Chongqing;P
-E00568;Ian Vargas;Analyst;Sales;Manufacturing;Male;26;2.03.2021;$44.732 ;Brazil;Rio de Janerio;P
-E02938;John Trinh;Director;Marketing;Corporate;Male;49;26.06.2014;$153.961 ;China;Shanghai;P
-E00555;Sofia Trinh;Network Architect;IT;Speciality Products;Female;45;18.12.2006;$68.337 ;China;Chongqing;P
-E01111;Santiago f Moua;Sr. Manger;Human Resources;Corporate;Male;45;7.05.2010;$145.093 ;United States;Chicago;P
-E03149;Layla Collins;IT Systems Architect;IT;Speciality Products;Female;26;11.03.2021;$74.170 ;United States;Austin;P
-E00952;Jaxon Powell;Field Engineer;Engineering;Research & Development;Male;59;29.03.1996;$62.605 ;United States;Austin;P
-E04380;Naomi Washington;Manager;IT;Speciality Products;Female;51;13.03.2020;$107.195 ;United States;Austin;P
-E04095;Ryan Holmes;Sr. Manger;Marketing;Speciality Products;Male;45;11.01.2018;$127.422 ;United States;Columbus;P
-E04994;Bella Holmes;Director;Accounting;Research & Development;Female;35;26.06.2017;$161.269 ;United States;Miami;P
-E00447;Hailey Sanchez;Vice President;Marketing;Corporate;Female;32;5.02.2014;$203.445 ;Brazil;Manaus;P
-E00089;Sofia Yoon;Sr. Manger;Human Resources;Research & Development;Female;37;17.01.2011;$131.353 ;China;Shanghai;P
-E02035;Eli Rahman;Service Desk Analyst;IT;Manufacturing;Male;45;16.03.2010;$88.182 ;China;Chengdu;P
-E03595;Christopher Howard;Enterprise Architect;IT;Speciality Products;Male;61;26.08.2019;$75.780 ;United States;Seattle;P
-E03611;Alice Mehta;Analyst II;Sales;Research & Development;Female;45;2.04.2019;$52.621 ;China;Beijing;P
-E04464;Cooper Yoon;Engineering Manager;Engineering;Research & Development;Male;60;15.02.2018;$106.079 ;United States;Austin;P
-E02135;John Delgado;Cloud Infrastructure Architect;IT;Corporate;Male;30;11.02.2017;$92.058 ;United States;Austin;P
-E01684;Jaxson Liang;Field Engineer;Engineering;Manufacturing;Male;64;3.03.2019;$67.114 ;United States;Phoenix;P
-E02968;Caroline Santos;Analyst II;Finance;Research & Development;Female;25;12.07.2020;$56.565 ;Brazil;Sao Paulo;P
-E03362;Lily Henderson;HRIS Analyst;Human Resources;Manufacturing;Female;61;20.05.2011;$64.937 ;United States;Phoenix;P
-E01108;Hannah Martinez;Manager;Marketing;Manufacturing;Female;65;7.09.2006;$127.626 ;United States;Miami;P
-E02217;William Phillips;Network Architect;IT;Corporate;Male;61;27.01.2004;$88.478 ;United States;Austin;P
-E03519;Eliza Zheng;Computer Systems Manager;IT;Speciality Products;Female;48;20.04.2014;$91.679 ;China;Chongqing;P
-E01967;John Dang;Director;Sales;Corporate;Male;58;19.03.1992;$199.848 ;China;Chongqing;P
-E01125;Joshua Yang;Network Engineer;IT;Manufacturing;Male;34;10.11.2018;$61.944 ;China;Shanghai;P
-E03795;Hazel Young;Sr. Manger;Sales;Speciality Products;Female;30;13.08.2017;$154.624 ;United States;Austin;P
-E00508;Thomas Jung;Sr. Analyst;Accounting;Research & Development;Male;50;23.10.2009;$79.447 ;China;Shanghai;P
-E02047;Xavier Perez;Sr. Analyst;Sales;Manufacturing;Male;51;26.02.1998;$71.111 ;Brazil;Rio de Janerio;P
-E01582;Elijah Coleman;Sr. Manger;Sales;Research & Development;Male;53;19.10.2014;$159.538 ;United States;Miami;P
-E02563;Clara Sanchez;Controls Engineer;Engineering;Corporate;Female;47;2.10.2018;$111.404 ;Brazil;Rio de Janerio;P
-E04872;Isaac Stewart;Director;Marketing;Speciality Products;Male;25;15.08.2020;$172.007 ;United States;Miami;P
-E03159;Claire Romero;Vice President;Marketing;Manufacturing;Female;37;21.07.2011;$219.474 ;Brazil;Manaus;P
-E01337;Andrew Coleman;Director;Finance;Corporate;Male;41;15.05.2019;$174.415 ;United States;Miami;P
-E00102;Riley Rojas;Network Architect;IT;Speciality Products;Female;36;21.01.2021;$90.333 ;Brazil;Rio de Janerio;P
-E03637;Landon Thao;HRIS Analyst;Human Resources;Speciality Products;Male;25;21.01.2021;$67.299 ;United States;Phoenix;P
-E03455;Hadley Ford;Systems Analyst;IT;Research & Development;Female;52;23.02.2005;$45.286 ;United States;Chicago;P
-E03354;Austin Brown;Director;Marketing;Research & Development;Male;48;8.08.2007;$194.723 ;United States;Phoenix;P
-E01225;Christian Fong;Manager;Sales;Research & Development;Male;49;10.08.2012;$109.850 ;China;Beijing;P
-E01264;Hazel Alvarez;Business Partner;Human Resources;Research & Development;Female;62;19.04.2014;$45.295 ;Brazil;Sao Paulo;P
-E02274;Isabella Bailey;Network Administrator;IT;Manufacturing;Female;36;23.08.2010;$61.310 ;United States;Phoenix;P
-E02848;Lincoln Huynh;System Administrator ;IT;Research & Development;Male;55;9.11.2016;$87.851 ;China;Chongqing;P
-E00480;Hadley Yee;Business Partner;Human Resources;Speciality Products;Female;31;12.03.2018;$47.913 ;United States;Seattle;P
-E00203;Julia Doan;Business Partner;Human Resources;Speciality Products;Female;53;7.09.2017;$46.727 ;United States;Columbus;P
-E00647;Dylan Ali;Sr. Manger;Human Resources;Speciality Products;Male;27;16.04.2021;$133.400 ;United States;Phoenix;P
-E03296;Eloise Trinh;Solutions Architect;IT;Speciality Products;Female;39;22.04.2020;$90.535 ;United States;Miami;P
-E02453;Dylan Kumar;Sr. Analyst;Marketing;Speciality Products;Male;55;11.07.2006;$93.343 ;China;Chongqing;P
-E00647;Emily Gupta;HRIS Analyst;Human Resources;Corporate;Female;44;23.02.2006;$63.705 ;United States;Miami;P
-E02522;Silas Rivera;Vice President;Sales;Corporate;Male;48;28.02.2000;$258.081 ;United States;Chicago;P
-E00459;Jackson Jordan;Business Partner;Human Resources;Research & Development;Male;48;21.09.2020;$54.654 ;United States;Phoenix;P
-E03007;Isaac Joseph;Analyst;Sales;Manufacturing;Male;54;24.09.1998;$58.006 ;United States;Seattle;P
-E04035;Hailey Lai;Sr. Manger;Finance;Manufacturing;Female;42;18.03.2011;$150.034 ;China;Beijing;P
-E00952;Leilani Thao;Director;Human Resources;Speciality Products;Female;38;30.05.2007;$198.562 ;United States;Seattle;P
-E03863;Madeline Watson;Account Representative;Sales;Research & Development;Female;40;27.05.2009;$62.411 ;United States;Miami;P
-E02710;Silas Huang;Engineering Manager;Engineering;Research & Development;Male;57;9.01.1992;$111.299 ;United States;Miami;P
-E01895;Peyton Walker;Analyst;Marketing;Research & Development;Female;43;13.07.2019;$41.545 ;United States;Miami;P
-E01339;Jeremiah Hernandez;Network Engineer;IT;Manufacturing;Male;26;14.04.2019;$74.467 ;United States;Columbus;P
-E02938;Jace Washington;Manager;Accounting;Research & Development;Male;44;9.02.2002;$117.545 ;United States;Phoenix;P
-E03379;Landon Kim;Manager;Human Resources;Speciality Products;Male;50;15.03.2012;$117.226 ;United States;Phoenix;P
-E02153;Peyton Vasquez;Analyst;Accounting;Corporate;Female;26;24.01.2019;$55.767 ;United States;Phoenix;P
-E00994;Charlotte Baker;Analyst II;Sales;Manufacturing;Female;29;17.11.2016;$60.930 ;United States;Austin;P
-E00943;Elena Mendoza;Director;Sales;Speciality Products;Female;27;24.10.2018;$154.973 ;Brazil;Sao Paulo;P
-E00869;Nova Lin;Cloud Infrastructure Architect;IT;Manufacturing;Female;33;21.10.2017;$69.332 ;United States;Columbus;P
-E03457;Ivy Desai;Controls Engineer;Engineering;Research & Development;Female;59;9.04.2001;$119.699 ;China;Shanghai;P
-E02193;Josephine Acosta;Director;Human Resources;Speciality Products;Female;40;20.09.2020;$198.176 ;Brazil;Manaus;P
-E00577;Nora Nunez;Analyst II;Finance;Research & Development;Female;45;6.08.2012;$58.586 ;Brazil;Sao Paulo;P
-E00538;Caleb Xiong;Sr. Account Representative;Sales;Corporate;Male;38;28.11.2011;$74.010 ;United States;Chicago;P
-E01415;Henry Green;Sr. Account Representative;Sales;Speciality Products;Male;32;3.02.2020;$96.598 ;United States;Phoenix;P
-E00717;Madelyn Chan;Manager;Sales;Speciality Products;Female;64;21.05.2003;$106.444 ;United States;Phoenix;P
-E00225;Angel Delgado;Director;Finance;Corporate;Male;31;10.08.2017;$156.931 ;United States;Seattle;P
-E02889;Mia Herrera;Director;Marketing;Research & Development;Female;43;16.10.2014;$171.360 ;Brazil;Manaus;P
-E04978;Peyton Harris;Enterprise Architect;IT;Research & Development;Female;45;5.04.2009;$64.505 ;United States;Miami;P
-E04163;David Herrera;Engineering Manager;Engineering;Speciality Products;Male;32;9.10.2021;$102.298 ;Brazil;Rio de Janerio;P
-E01652;Avery Dominguez;Sr. Manger;Sales;Corporate;Female;27;13.09.2019;$133.297 ;Brazil;Rio de Janerio;P
-E00880;Grace Carter;Sr. Manger;Human Resources;Speciality Products;Female;25;17.03.2021;$155.080 ;United States;Austin;P
-E04335;Parker Allen;Sr. Analyst;Sales;Speciality Products;Male;31;13.08.2018;$81.828 ;United States;Miami;P
-E01300;Sadie Lee;Sr. Manger;Marketing;Corporate;Female;65;24.10.2000;$149.417 ;China;Chengdu;P
-E03102;Cooper Valdez;Manager;Sales;Corporate;Male;50;25.04.2012;$113.269 ;Brazil;Sao Paulo;P
-E04089;Sebastian Fong;Sr. Manger;IT;Manufacturing;Male;46;16.12.2017;$136.716 ;United States;Austin;P
-E02059;Roman Munoz;Sr. Manger;Sales;Speciality Products;Male;54;20.10.2011;$122.644 ;United States;Austin;P
-E03894;Charlotte Chang;Manager;Sales;Research & Development;Female;50;7.05.2000;$106.428 ;United States;Chicago;P
-E03106;Xavier Davis;Vice President;Finance;Corporate;Male;36;17.01.2009;$238.236 ;United States;Seattle;P
-E01350;Natalie Carter;Director;Finance;Corporate;Female;64;21.12.2012;$153.253 ;United States;Austin;P
-E02900;Elena Richardson;Manager;Accounting;Manufacturing;Female;34;3.10.2014;$103.707 ;United States;Columbus;P
-E02202;Emilia Bailey;Vice President;Accounting;Speciality Products;Female;41;9.08.2012;$245.360 ;United States;Austin;P
-E02696;Ryan Lu;Development Engineer;Engineering;Speciality Products;Male;25;8.07.2021;$67.275 ;United States;Columbus;P
-E01722;Asher Huynh;Manager;IT;Manufacturing;Male;45;22.01.2015;$101.288 ;United States;Phoenix;P
-E04562;Kinsley Martinez;Director;Human Resources;Speciality Products;Female;52;28.08.1993;$177.443 ;Brazil;Sao Paulo;P
-E00640;Paisley Bryant;Cloud Infrastructure Architect;IT;Manufacturing;Female;37;27.04.2016;$91.400 ;United States;Chicago;P
-E02554;Joshua Ramirez;Vice President;Human Resources;Corporate;Male;44;10.09.2007;$181.247 ;Brazil;Sao Paulo;P
-E03412;Joshua Martin;Sr. Manger;Human Resources;Research & Development;Male;42;20.10.2003;$135.558 ;United States;Phoenix;P
-E00646;Charles Moore;Analyst;Accounting;Speciality Products;Male;49;17.12.2011;$56.878 ;United States;Seattle;P
-E04670;Angel Do;IT Systems Architect;IT;Speciality Products;Male;34;20.09.2019;$94.735 ;China;Beijing;P
-E03580;Maverick Medina;Analyst II;Sales;Manufacturing;Male;39;27.05.2007;$51.234 ;United States;Seattle;P
-E00446;Isaac Han;Vice President;Human Resources;Speciality Products;Male;31;14.01.2015;$230.025 ;United States;Phoenix;P
-E02363;Eliza Liang;Sr. Manger;Human Resources;Speciality Products;Female;36;11.03.2010;$134.006 ;China;Beijing;P
-E03718;Zoe Zhou;Manager;Finance;Corporate;Female;61;6.10.2009;$103.096 ;China;Beijing;P
-E01749;Nathan Lee;Analyst;Accounting;Manufacturing;Male;29;20.08.2016;$58.703 ;United States;Columbus;P
-E02888;Elijah Ramos;Sr. Manger;IT;Speciality Products;Male;33;24.12.2012;$132.544 ;Brazil;Rio de Janerio;P
-E01338;Jaxson Coleman;Manager;Finance;Manufacturing;Male;32;15.04.2020;$126.671 ;United States;Miami;P
-E03000;Hailey Hong;Account Representative;Sales;Research & Development;Female;33;22.01.2021;$56.405 ;United States;Chicago;P
-E01611;Gabriella Zhu;Computer Systems Manager;IT;Speciality Products;Female;36;29.11.2014;$88.730 ;China;Chongqing;P
-E02684;Aaron Maldonado;Analyst II;Finance;Manufacturing;Male;39;17.09.2008;$62.861 ;United States;Seattle;P
-E02561;Samantha Vargas;Director;Human Resources;Corporate;Female;53;21.07.2006;$151.246 ;Brazil;Sao Paulo;P
-E03168;Nora Le;Sr. Manger;IT;Manufacturing;Female;53;12.04.1997;$154.388 ;United States;Seattle;P
-E00758;Alice Roberts;Director;Human Resources;Manufacturing;Female;54;26.09.1994;$162.978 ;United States;Miami;P
-E03691;Colton Garcia;Solutions Architect;IT;Speciality Products;Male;55;17.11.1993;$80.170 ;United States;Miami;P
-E01488;Stella Lai;Sr. Analyst;Accounting;Manufacturing;Female;44;28.04.2021;$98.520 ;United States;Miami;P
-E04415;Leonardo Luong;Manager;Finance;Manufacturing;Male;52;29.12.1999;$116.527 ;United States;Phoenix;P
-E03278;Nicholas Wong;Director;Sales;Research & Development;Male;27;7.11.2019;$174.607 ;United States;Columbus;P
-E00282;Jeremiah Castillo;Analyst II;Accounting;Research & Development;Male;58;12.04.2006;$64.202 ;United States;Columbus;P
-E03305;Cooper Jiang;Analyst II;Accounting;Corporate;Male;49;25.07.2019;$50.883 ;China;Chongqing;P
-E00559;Penelope Silva;Network Architect;IT;Speciality Products;Female;36;3.11.2016;$94.618 ;United States;Columbus;P
-E02558;Jose Richardson;Director;Marketing;Research & Development;Male;26;15.10.2019;$151.556 ;United States;Miami;P
-E00956;Eleanor Chau;Development Engineer;Engineering;Research & Development;Female;37;8.03.2020;$80.659 ;United States;Phoenix;P
-E03858;John Cho;Director;Human Resources;Speciality Products;Male;47;3.11.2019;$195.385 ;China;Chengdu;P
-E02221;Julian Delgado;Systems Analyst;IT;Speciality Products;Male;29;19.05.2016;$52.693 ;Brazil;Rio de Janerio;P
-E00126;Isabella Scott;Network Administrator;IT;Research & Development;Female;58;26.04.2016;$72.045 ;United States;Phoenix;P
-E02627;Parker Avila;Analyst II;Marketing;Manufacturing;Male;47;28.11.2005;$62.749 ;Brazil;Manaus;P
-E03778;Luke Vu;Sr. Manger;Marketing;Speciality Products;Male;52;4.06.2018;$154.884 ;China;Shanghai;P
-E00481;Jameson Nelson;Network Architect;IT;Research & Development;Male;61;8.03.2016;$96.566 ;United States;Columbus;P
-E02833;Adrian Fernandez;Systems Analyst;IT;Research & Development;Male;45;23.08.2001;$54.994 ;United States;Columbus;P
-E03902;Madison Hunter;Network Administrator;IT;Corporate;Female;40;5.02.2012;$61.523 ;United States;Columbus;P
-E02310;Jordan Phillips;Vice President;Human Resources;Corporate;Male;45;12.12.2010;$190.512 ;United States;Columbus;P
-E02661;Maya Chan;Controls Engineer;Engineering;Speciality Products;Female;37;13.02.2013;$124.827 ;China;Beijing;P
-E00836;Wesley King;Manager;Accounting;Manufacturing;Male;57;19.01.2019;$101.577 ;United States;Chicago;P
-E00682;Sofia Fernandez;Manager;Accounting;Manufacturing;Female;44;17.10.2005;$105.223 ;United States;Phoenix;P
-E00287;Maverick Figueroa;IT Systems Architect;IT;Corporate;Male;48;6.07.2008;$94.815 ;United States;Chicago;P
-E00785;Hannah Hoang;Manager;Accounting;Speciality Products;Female;25;15.12.2021;$114.893 ;China;Chengdu;P
-E04598;Violet Garcia;Sr. Analyst;Marketing;Speciality Products;Female;35;10.01.2017;$80.622 ;United States;Austin;P
-E03247;Aaliyah Mai;Vice President;IT;Speciality Products;Female;57;11.11.2016;$246.589 ;United States;Phoenix;P
-E02703;Austin Vang;Manager;Marketing;Speciality Products;Male;49;20.05.2018;$119.397 ;China;Beijing;P
-E02191;Maria Sun;Director;Sales;Corporate;Female;25;19.12.2021;$150.666 ;China;Chengdu;P
-E00156;Madelyn Scott;Sr. Manger;IT;Research & Development;Female;46;9.01.2002;$148.035 ;United States;Phoenix;P
-E03349;Dylan Chin;Director;Finance;Corporate;Male;60;5.06.2017;$158.898 ;United States;Miami;P
-E04032;Emery Zhang;Field Engineer;Engineering;Corporate;Female;45;28.02.2012;$89.659 ;China;Beijing;P
-E00005;Riley Washington;Director;Sales;Speciality Products;Female;39;29.04.2007;$171.487 ;United States;Phoenix;P
-E04354;Raelynn Rios;Vice President;Sales;Manufacturing;Female;43;21.08.2016;$258.498 ;United States;Columbus;P
-E01578;Anthony Hong;Sr. Manger;IT;Research & Development;Male;37;29.11.2010;$146.961 ;United States;Columbus;P
-E03430;Leo Herrera;Sr. Business Partner;Human Resources;Research & Development;Male;48;22.04.1998;$85.369 ;Brazil;Manaus;P
-E03058;Robert Wright;Technical Architect;IT;Manufacturing;Male;30;14.06.2015;$67.489 ;United States;Chicago;P
-E04762;Audrey Richardson;Director;IT;Manufacturing;Female;46;6.10.2018;$166.259 ;United States;Chicago;P
-E01148;Scarlett Kumar;Systems Analyst;IT;Corporate;Female;55;7.01.2009;$47.032 ;United States;Columbus;P
-E03094;Wesley Young;Sr. Analyst;Marketing;Speciality Products;Male;33;18.09.2016;$98.427 ;United States;Columbus;P
-E01909;Lillian Khan;Analyst;Finance;Speciality Products;Female;44;31.05.2010;$47.387 ;China;Chengdu;P
-E04398;Oliver Yang;Director;Marketing;Speciality Products;Male;31;10.06.2019;$176.710 ;United States;Miami;P
-E02521;Lily Nguyen;Sr. Analyst;Finance;Speciality Products;Female;33;28.01.2012;$95.960 ;China;Chengdu;P
-E03545;Sofia Cheng;Vice President;Accounting;Corporate;Female;63;26.07.2020;$216.195 ;United States;Miami;P
+﻿E02387;fullName;jobTitle;department;businessUnit;gender;age;hireDate;annualSalary;country;city;active
+E04105;Emily Davis;Sr. Manger;IT;Research & Development;Female;55;8.04.2016;$141.604 ;United States;Seattle;P
+E02572;Theodore Dinh;Technical Architect;IT;Manufacturing;Male;59;29.11.1997;$99.975 ;China;Chongqing;P
+E02832;Luna Sanders;Director;Finance;Speciality Products;Female;50;26.10.2006;$163.099 ;United States;Chicago;P
+E01639;Penelope Jordan;Computer Systems Manager;IT;Manufacturing;Female;26;27.09.2019;$84.913 ;United States;Chicago;P
+E00644;Austin Vo;Sr. Analyst;Finance;Manufacturing;Male;55;20.11.1995;$95.409 ;United States;Phoenix;P
+E01550;Joshua Gupta;Account Representative;Sales;Corporate;Male;57;24.01.2017;$50.994 ;China;Chongqing;P
+E04332;Ruby Barnes;Manager;IT;Corporate;Female;27;1.07.2020;$119.746 ;United States;Phoenix;P
+E04533;Luke Martin;Analyst;Finance;Manufacturing;Male;25;16.05.2020;$41.336 ;United States;Miami;P
+E03838;Easton Bailey;Manager;Accounting;Manufacturing;Male;29;25.01.2019;$113.527 ;United States;Austin;P
+E00591;Madeline Walker;Sr. Analyst;Finance;Speciality Products;Female;34;13.06.2018;$77.203 ;United States;Chicago;P
+E03344;Savannah Ali;Sr. Manger;Human Resources;Manufacturing;Female;36;11.02.2009;$157.333 ;United States;Miami;P
+E00530;Camila Rogers;Controls Engineer;Engineering;Speciality Products;Female;27;21.10.2021;$109.851 ;United States;Seattle;P
+E04239;Eli Jones;Manager;Human Resources;Manufacturing;Male;59;14.03.1999;$105.086 ;United States;Austin;P
+E03496;Everleigh Ng;Sr. Manger;Finance;Research & Development;Female;51;10.06.2021;$146.742 ;China;Shanghai;P
+E00549;Robert Yang;Sr. Analyst;Accounting;Speciality Products;Male;31;4.11.2017;$97.078 ;United States;Austin;P
+E00163;Isabella Xi;Vice President;Marketing;Research & Development;Female;41;13.03.2013;$249.270 ;United States;Seattle;P
+E00884;Bella Powell;Director;Finance;Research & Development;Female;65;4.03.2002;$175.837 ;United States;Phoenix;P
+E04116;Camila Silva;Sr. Manger;Marketing;Speciality Products;Female;64;1.12.2003;$154.828 ;United States;Seattle;P
+E04625;David Barnes;Director;IT;Corporate;Male;64;3.11.2013;$186.503 ;United States;Columbus;P
+E03680;Adam Dang;Director;Sales;Research & Development;Male;45;9.07.2002;$166.331 ;China;Chongqing;P
+E04732;Elias Alvarado;Sr. Manger;IT;Manufacturing;Male;56;9.01.2012;$146.140 ;Brazil;Manaus;P
+E03484;Eva Rivera;Director;Sales;Manufacturing;Female;36;2.04.2021;$151.703 ;United States;Miami;P
+E00671;Logan Rivera;Director;IT;Research & Development;Male;59;24.05.2002;$172.787 ;Brazil;Rio de Janerio;P
+E02071;Leonardo Dixon;Analyst;Sales;Speciality Products;Male;37;5.09.2019;$49.998 ;United States;Seattle;P
+E02206;Mateo Her;Vice President;Sales;Speciality Products;Male;44;2.03.2014;$207.172 ;China;Chongqing;P
+E04545;Jose Henderson;Director;Human Resources;Speciality Products;Male;41;17.04.2015;$152.239 ;United States;Columbus;P
+E00154;Abigail Mejia;Quality Engineer;Engineering;Corporate;Female;56;5.02.2005;$98.581 ;Brazil;Rio de Janerio;P
+E03343;Wyatt Chin;Vice President;Engineering;Speciality Products;Male;43;7.06.2004;$246.231 ;United States;Seattle;P
+E00304;Carson Lu;Engineering Manager;Engineering;Speciality Products;Male;64;4.12.1996;$99.354 ;China;Beijing;P
+E02594;Dylan Choi;Vice President;IT;Corporate;Male;63;11.05.2012;$231.141 ;China;Beijing;P
+E00402;Ezekiel Kumar;IT Coordinator;IT;Research & Development;Male;28;25.06.2017;$54.775 ;United States;Columbus;P
+E01994;Dominic Guzman;Analyst;Finance;Manufacturing;Male;65;16.05.2004;$55.499 ;Brazil;Manaus;P
+E03549;Angel Powell;Analyst II;Sales;Research & Development;Male;61;11.07.2008;$66.521 ;United States;Seattle;P
+E03247;Mateo Vu;Account Representative;Sales;Speciality Products;Male;30;29.09.2016;$59.100 ;China;Chongqing;P
+E02074;Caroline Jenkins;Analyst;Finance;Research & Development;Female;27;6.05.2018;$49.011 ;United States;Chicago;P
+E04152;Nora Brown;Enterprise Architect;IT;Manufacturing;Female;32;11.02.2014;$99.575 ;United States;Austin;P
+E01628;Adeline Huang;Controls Engineer;Engineering;Manufacturing;Female;34;16.12.2019;$99.989 ;China;Chengdu;P
+E04285;Jackson Perry;Vice President;Marketing;Research & Development;Male;27;20.10.2019;$256.420 ;United States;Phoenix;P
+E01417;Riley Padilla;Technical Architect;IT;Manufacturing;Female;35;15.05.2013;$78.940 ;United States;Miami;P
+E01754;Leah Pena;Enterprise Architect;IT;Corporate;Female;57;3.01.1994;$82.872 ;Brazil;Manaus;P
+E03749;Owen Lam;Sr. Business Partner;Human Resources;Speciality Products;Male;30;29.05.2017;$86.317 ;China;Chengdu;P
+E03574;Kennedy Foster;Manager;Marketing;Speciality Products;Female;53;23.11.2013;$113.135 ;United States;Austin;P
+E04600;John Moore;Vice President;IT;Speciality Products;Male;52;8.11.2005;$199.808 ;United States;Seattle;P
+E00586;William Vu;Account Representative;Sales;Speciality Products;Male;37;14.11.2013;$56.037 ;China;Shanghai;P
+E03538;Sadie Washington;Sr. Manger;Marketing;Research & Development;Female;29;24.05.2019;$122.350 ;United States;Phoenix;P
+E02185;Gabriel Holmes;Enterprise Architect;IT;Research & Development;Male;40;4.11.2010;$92.952 ;United States;Seattle;P
+E03830;Wyatt Rojas;Computer Systems Manager;IT;Corporate;Male;32;20.03.2013;$79.921 ;United States;Austin;P
+E03720;Eva Coleman;Director;IT;Research & Development;Female;37;20.09.2009;$167.199 ;United States;Seattle;P
+E03025;Dominic Clark;Quality Engineer;Engineering;Research & Development;Male;52;17.10.2012;$71.476 ;United States;Phoenix;P
+E04917;Lucy Alexander;Director;Engineering;Manufacturing;Female;45;29.10.2014;$189.420 ;United States;Seattle;P
+E00415;Everleigh Washington;HRIS Analyst;Human Resources;Research & Development;Female;64;20.10.2001;$64.057 ;United States;Phoenix;P
+E02862;Leilani Butler;Analyst II;Marketing;Manufacturing;Female;27;21.09.2021;$68.728 ;United States;Phoenix;P
+E04207;Peyton Huang;Sr. Manger;IT;Manufacturing;Female;25;2.07.2021;$125.633 ;China;Beijing;P
+E02139;John Contreras;Analyst II;Marketing;Manufacturing;Male;35;15.05.2011;$66.889 ;United States;Columbus;P
+E01797;Rylee Yu;Director;Accounting;Research & Development;Female;36;29.09.2015;$178.700 ;United States;Seattle;P
+E01839;Piper Lewis;Field Engineer;Engineering;Research & Development;Female;33;22.12.2018;$83.990 ;United States;Chicago;P
+E01633;Stella Alexander;Automation Engineer;Engineering;Corporate;Female;52;10.12.2005;$102.043 ;United States;Chicago;P
+E01848;Addison Do;Operations Engineer;Engineering;Manufacturing;Female;46;30.05.2001;$90.678 ;United States;Columbus;P
+E00716;Zoey Jackson;Business Partner;Human Resources;Manufacturing;Female;46;21.08.2008;$59.067 ;United States;Miami;P
+E00699;John Chow;Sr. Manger;Marketing;Research & Development;Male;45;11.03.2021;$135.062 ;China;Chengdu;P
+E00502;Ava Ayala;Sr. Manger;IT;Corporate;Female;55;16.08.2006;$159.044 ;Brazil;Manaus;P
+E04000;Natalia Salazar;Sr. Analyst;Accounting;Manufacturing;Female;44;2.01.2019;$74.691 ;Brazil;Manaus;P
+E02112;Skylar Carrillo;Engineering Manager;Engineering;Corporate;Female;44;18.12.2008;$92.753 ;United States;Austin;P
+E03824;Christian Sanders;Vice President;Human Resources;Speciality Products;Male;45;7.08.2013;$236.946 ;United States;Seattle;P
+E03906;Penelope Coleman;Analyst;Finance;Corporate;Female;36;27.08.2021;$48.906 ;United States;Miami;P
+E00436;Piper Richardson;Sr. Analyst;Sales;Corporate;Female;38;27.01.2008;$80.024 ;United States;Columbus;P
+E04798;Everly Walker;HRIS Analyst;Human Resources;Speciality Products;Female;41;23.10.2009;$54.415 ;United States;Seattle;P
+E01249;Aurora Ali;Manager;Marketing;Research & Development;Female;30;24.04.2016;$120.341 ;United States;Seattle;P
+E03349;Penelope Guerrero;Vice President;IT;Speciality Products;Female;43;4.08.2009;$208.415 ;United States;Seattle;P
+E02966;Anna Mehta;Cloud Infrastructure Architect;IT;Speciality Products;Female;32;5.01.2020;$78.844 ;United States;Seattle;P
+E01499;William Foster;Field Engineer;Engineering;Manufacturing;Male;58;23.05.2002;$76.354 ;United States;Phoenix;P
+E00105;Jade Rojas;Director;Finance;Speciality Products;Female;37;28.01.2019;$165.927 ;United States;Phoenix;P
+E00665;Isla Espinoza;Manager;Accounting;Speciality Products;Female;38;16.11.2021;$109.812 ;Brazil;Manaus;P
+E00791;David Chu;Controls Engineer;Engineering;Corporate;Male;55;3.09.1998;$86.299 ;United States;Seattle;P
+E01540;Thomas Padilla;Vice President;Marketing;Research & Development;Male;57;26.07.2003;$206.624 ;Brazil;Sao Paulo;P
+E04474;Miles Salazar;IT Coordinator;IT;Manufacturing;Male;36;23.12.2010;$53.215 ;Brazil;Sao Paulo;P
+E03417;Mila Hong;Test Engineer;Engineering;Research & Development;Female;30;22.05.2017;$86.858 ;China;Chongqing;P
+E00254;Benjamin Moua;Computer Systems Manager;IT;Manufacturing;Male;40;2.07.2007;$93.971 ;China;Chongqing;P
+E02166;Samuel Morales;Analyst II;Finance;Corporate;Male;34;27.06.2015;$57.008 ;United States;Phoenix;P
+E00935;John Soto;Sr. Manger;Finance;Manufacturing;Male;60;23.09.2015;$141.899 ;United States;Phoenix;P
+E01525;Joseph Martin;Analyst II;Marketing;Corporate;Male;41;13.09.2016;$64.847 ;United States;Miami;P
+E00386;Jose Ross;Engineering Manager;Engineering;Research & Development;Male;53;8.04.1992;$116.878 ;United States;Miami;P
+E00416;Parker James;Quality Engineer;Engineering;Speciality Products;Male;45;5.02.2005;$70.505 ;United States;Austin;P
+E03383;Everleigh Fernandez;Director;Engineering;Research & Development;Female;30;22.05.2016;$189.702 ;Brazil;Manaus;P
+E01516;Lincoln Hall;Director;Accounting;Speciality Products;Male;26;28.07.2020;$180.664 ;United States;Chicago;P
+E01234;Willow Mai;Business Partner;Human Resources;Manufacturing;Female;45;17.12.2003;$48.345 ;China;Chengdu;P
+E03440;Jack Cheng;Director;Human Resources;Manufacturing;Male;42;16.01.2014;$152.214 ;China;Beijing;P
+E00431;Genesis Navarro;Cloud Infrastructure Architect;IT;Corporate;Female;41;28.04.2009;$69.803 ;Brazil;Manaus;P
+E01258;Eliza Hernandez;Network Architect;IT;Corporate;Female;48;4.07.2019;$76.588 ;Brazil;Rio de Janerio;P
+E00440;Gabriel Brooks;Network Engineer;IT;Manufacturing;Male;29;10.12.2018;$84.596 ;United States;Miami;P
+E00595;Jack Huynh;Manager;Marketing;Research & Development;Male;27;25.09.2018;$114.441 ;China;Chongqing;P
+E00972;Everly Chow;Sr. Manger;Finance;Speciality Products;Female;33;21.04.2018;$140.402 ;China;Beijing;P
+E04562;Amelia Salazar;Analyst II;Finance;Corporate;Female;26;23.04.2019;$59.817 ;Brazil;Sao Paulo;P
+E02802;Xavier Zheng;Account Representative;Sales;Manufacturing;Male;31;22.07.2017;$55.854 ;United States;Austin;P
+E01427;Matthew Chau;Sr. Business Partner;Human Resources;Research & Development;Male;53;16.11.2002;$95.998 ;United States;Seattle;P
+E04568;Mia Cheng;Sr. Manger;Sales;Manufacturing;Female;34;22.04.2015;$154.941 ;United States;Phoenix;P
+E04931;Rylee Yu;Vice President;Finance;Speciality Products;Female;54;10.07.2011;$247.022 ;China;Beijing;P
+E00443;Zoe Romero;Network Architect;IT;Manufacturing;Female;32;5.10.2021;$88.072 ;Brazil;Sao Paulo;P
+E03890;Nolan Bui;Computer Systems Manager;IT;Research & Development;Male;28;26.05.2020;$67.925 ;China;Shanghai;P
+E01194;Nevaeh Jones;Vice President;Sales;Manufacturing;Female;31;20.08.2020;$219.693 ;United States;Austin;P
+E02875;Samantha Adams;Test Engineer;Engineering;Research & Development;Female;45;22.04.2013;$61.773 ;United States;Seattle;P
+E04959;Madeline Shin;Computer Systems Manager;IT;Speciality Products;Female;48;9.01.2007;$74.546 ;United States;Seattle;P
+E03816;Noah King;Development Engineer;Engineering;Speciality Products;Male;56;27.01.2015;$62.575 ;United States;Miami;P
+E01261;Leilani Chow;Director;Human Resources;Corporate;Female;27;23.02.2021;$199.041 ;China;Beijing;P
+E03612;Connor Simmons;Analyst II;Accounting;Speciality Products;Male;55;5.04.2007;$52.310 ;United States;Miami;P
+E01388;Grayson Cooper;Sr. Manger;Finance;Speciality Products;Male;64;29.06.2013;$159.571 ;United States;Columbus;P
+E03875;Ivy Soto;Field Engineer;Engineering;Research & Development;Female;50;23.10.1997;$91.763 ;United States;Austin;P
+E04413;Aurora Simmons;Development Engineer;Engineering;Corporate;Female;51;22.12.1995;$96.475 ;United States;Austin;P
+E00691;Andrew Thomas;Controls Engineer;Engineering;Manufacturing;Male;36;2.12.2016;$113.781 ;United States;Columbus;P
+E03047;Ezekiel Desai;Director;Finance;Research & Development;Male;42;15.01.2003;$166.599 ;United States;Seattle;P
+E04903;Gabriella Gupta;Sr. Account Representative;Sales;Corporate;Female;41;15.02.2005;$95.372 ;China;Shanghai;P
+E04735;Skylar Liu;Director;IT;Research & Development;Female;29;9.08.2020;$161.203 ;China;Chengdu;P
+E02850;Nova Coleman;System Administrator ;IT;Manufacturing;Female;44;13.12.2006;$74.738 ;United States;Miami;P
+E03583;Evelyn Dinh;Director;Sales;Research & Development;Female;41;10.08.2018;$171.173 ;United States;Columbus;P
+E02017;Brooks Marquez;Vice President;Sales;Corporate;Male;61;24.09.2019;$201.464 ;United States;Chicago;P
+E01642;Connor Joseph;Director;Human Resources;Corporate;Male;50;22.07.1998;$174.895 ;United States;Chicago;P
+E04379;Mia Lam;Sr. Manger;IT;Manufacturing;Female;49;18.04.2006;$134.486 ;United States;Austin;P
+E04131;Scarlett Rodriguez;Sr. Analyst;Finance;Manufacturing;Female;60;24.02.2007;$71.699 ;Brazil;Manaus;P
+E02872;Cora Rivera;Sr. Analyst;Marketing;Corporate;Female;42;2.01.2021;$94.430 ;United States;Seattle;P
+E02331;Liam Jung;Manager;Finance;Corporate;Male;39;14.01.2010;$103.504 ;China;Chengdu;P
+E00417;Sophia Huynh;Enterprise Architect;IT;Manufacturing;Female;55;9.08.2005;$92.771 ;United States;Miami;P
+E04267;Athena Carrillo;Analyst II;Finance;Speciality Products;Female;39;6.04.2006;$71.531 ;United States;Columbus;P
+E03061;Greyson Sanders;Cloud Infrastructure Architect;IT;Speciality Products;Male;28;6.03.2019;$90.304 ;United States;Chicago;P
+E00013;Vivian Lewis;Manager;Marketing;Manufacturing;Female;65;7.09.2011;$104.903 ;United States;Columbus;P
+E04265;Elena Vang;Analyst;Finance;Corporate;Female;52;19.02.2019;$55.859 ;China;Beijing;P
+E04769;Natalia Diaz;Operations Engineer;Engineering;Corporate;Female;62;12.10.2006;$79.785 ;United States;Austin;P
+E03042;Mila Leung;Sr. Analyst;Marketing;Corporate;Female;39;5.11.2007;$99.017 ;China;Beijing;P
+E00527;Ava Nelson;Systems Analyst;IT;Manufacturing;Female;63;1.04.1992;$53.809 ;United States;Phoenix;P
+E01095;Mateo Chu;Field Engineer;Engineering;Speciality Products;Male;27;16.04.2020;$71.864 ;China;Chengdu;P
+E03131;Isla Lai;Vice President;Finance;Corporate;Female;37;6.12.2011;$225.558 ;China;Shanghai;P
+E01713;Ezekiel Reed;Sr. Manger;IT;Manufacturing;Male;37;25.02.2014;$128.984 ;United States;Miami;P
+E00128;Nolan Guzman;Field Engineer;Engineering;Speciality Products;Male;46;20.06.1999;$96.997 ;Brazil;Sao Paulo;P
+E03849;Everleigh Espinoza;Director;Human Resources;Manufacturing;Female;54;22.01.2018;$176.294 ;United States;Austin;P
+E02464;Evelyn Jung;Analyst;Sales;Research & Development;Female;30;14.02.2021;$48.340 ;China;Beijing;P
+E00306;Sophie Silva;Vice President;Engineering;Corporate;Female;28;6.07.2017;$240.488 ;Brazil;Rio de Janerio;P
+E03737;Mateo Williams;Enterprise Architect;IT;Manufacturing;Male;40;22.01.2011;$97.339 ;United States;Austin;P
+E02783;Kennedy Rahman;Vice President;Human Resources;Manufacturing;Female;49;28.02.2003;$211.291 ;China;Chongqing;P
+E02939;Levi Mendez;Vice President;Sales;Research & Development;Male;39;23.08.2011;$249.506 ;Brazil;Rio de Janerio;P
+E02706;Julian Fong;Quality Engineer;Engineering;Speciality Products;Male;61;22.11.2002;$80.950 ;China;Chongqing;P
+E00170;Nevaeh Kang;Automation Engineer;Engineering;Research & Development;Female;46;10.01.2021;$86.538 ;China;Chengdu;P
+E01425;Hannah Nelson;Sr. Analyst;Marketing;Speciality Products;Female;35;7.09.2019;$70.992 ;United States;Austin;P
+E00130;Anthony Rogers;Vice President;Engineering;Corporate;Male;33;18.06.2015;$205.314 ;United States;Columbus;P
+E02094;Paisley Kang;Vice President;Human Resources;Corporate;Female;61;10.03.2017;$196.951 ;China;Beijing;P
+E03567;Matthew Gupta;Network Engineer;IT;Speciality Products;Male;45;18.09.2005;$67.686 ;China;Beijing;P
+E04682;Silas Chavez;Technical Architect;IT;Research & Development;Male;51;15.04.2008;$86.431 ;United States;Columbus;P
+E00957;Colton Thao;Manager;Human Resources;Manufacturing;Male;55;16.11.1995;$125.936 ;China;Chongqing;P
+E04458;Genesis Perry;Sr. Manger;Sales;Corporate;Female;46;18.07.2013;$149.712 ;United States;Columbus;P
+E00521;Alexander Bryant;Field Engineer;Engineering;Speciality Products;Male;30;2.10.2021;$88.758 ;United States;Seattle;P
+E03717;Elias Zhang;Solutions Architect;IT;Research & Development;Male;54;13.07.2013;$83.639 ;China;Beijing;P
+E01533;Lily Carter;Network Architect;IT;Research & Development;Female;54;18.05.1998;$68.268 ;United States;Phoenix;P
+E04449;Joseph Ruiz;Field Engineer;Engineering;Manufacturing;Male;45;26.02.2002;$75.819 ;Brazil;Sao Paulo;P
+E02855;Avery Bailey;Sr. Analyst;Sales;Speciality Products;Female;49;15.05.1996;$86.658 ;United States;Phoenix;P
+E00816;Miles Hsu;Analyst II;Finance;Research & Development;Male;55;16.03.2014;$74.552 ;China;Chengdu;P
+E02283;Piper Cheng;Enterprise Architect;IT;Manufacturing;Female;62;15.03.2009;$82.839 ;United States;Miami;P
+E04888;Skylar Watson;Network Architect;IT;Speciality Products;Female;28;8.10.2021;$64.475 ;United States;Phoenix;P
+E03907;Jaxon Park;Network Architect;IT;Manufacturing;Male;33;24.07.2020;$69.453 ;China;Chengdu;P
+E01501;Elijah Henry;Manager;IT;Corporate;Male;32;3.01.2014;$127.148 ;United States;Miami;P
+E01141;Camila Watson;Vice President;Finance;Speciality Products;Female;32;2.01.2018;$190.253 ;United States;Austin;P
+E02254;Lucas Thomas;Manager;Accounting;Research & Development;Male;55;28.04.2000;$115.798 ;United States;Miami;P
+E04504;Skylar Doan;Sr. Business Partner;Human Resources;Research & Development;Female;58;21.08.1994;$93.102 ;United States;Seattle;P
+E03394;Hudson Liu;Engineering Manager;Engineering;Speciality Products;Male;34;16.11.2017;$110.054 ;United States;Miami;P
+E02942;Gianna Williams;Quality Engineer;Engineering;Research & Development;Female;27;28.01.2021;$95.786 ;United States;Chicago;P
+E04130;Jaxson Sandoval;Sr. Analyst;Sales;Speciality Products;Male;61;3.05.2017;$90.855 ;Brazil;Sao Paulo;P
+E02848;Jameson Alvarado;Enterprise Architect;IT;Manufacturing;Male;47;14.03.1999;$92.897 ;Brazil;Sao Paulo;P
+E00085;Joseph Ly;Vice President;Marketing;Speciality Products;Male;40;28.02.2009;$242.919 ;China;Chongqing;P
+E03956;Daniel Richardson;Director;Engineering;Speciality Products;Male;30;20.05.2018;$184.368 ;United States;Austin;P
+E00672;Elias Figueroa;Sr. Manger;Finance;Corporate;Male;45;24.12.2021;$144.754 ;United States;Phoenix;P
+E04618;Emma Brooks;Sr. Account Representative;Sales;Research & Development;Female;30;18.12.2016;$89.458 ;United States;Austin;P
+E03506;Isla Wong;Vice President;Accounting;Corporate;Female;56;16.03.2014;$190.815 ;United States;Austin;P
+E00568;Everly Walker;Sr. Manger;Sales;Research & Development;Female;62;2.08.1999;$137.995 ;United States;Austin;P
+E00535;Mila Pena;Sr. Business Partner;Human Resources;Manufacturing;Female;45;21.12.2007;$93.840 ;Brazil;Manaus;P
+E04630;Mason Zhao;Technical Architect;IT;Research & Development;Male;46;26.10.2021;$94.790 ;China;Chongqing;P
+E00874;Jaxson Mai;Vice President;Human Resources;Research & Development;Male;48;8.03.2014;$197.367 ;United States;Austin;P
+E01546;Ava Garza;Director;Accounting;Manufacturing;Female;27;25.06.2018;$174.097 ;United States;Phoenix;P
+E00941;Nathan Mendez;Manager;IT;Speciality Products;Male;53;31.10.2006;$120.128 ;United States;Austin;P
+E03446;Maria Griffin;Manager;Marketing;Manufacturing;Female;59;25.04.2007;$129.708 ;United States;Miami;P
+E01361;Alexander Choi;Manager;Marketing;Research & Development;Male;55;18.09.1994;$102.270 ;United States;Chicago;P
+E01631;Maria Hong;Vice President;Finance;Speciality Products;Female;43;31.07.2005;$249.686 ;China;Chongqing;P
+E03719;Sophie Ali;Analyst;Finance;Manufacturing;Female;55;28.03.2002;$50.475 ;United States;Columbus;P
+E03269;Julian Ross;Manager;Marketing;Research & Development;Male;51;2.07.2020;$100.099 ;United States;Miami;P
+E01037;Emma Hill;IT Coordinator;IT;Manufacturing;Female;54;27.12.2016;$41.673 ;United States;Miami;P
+E02216;Leilani Yee;Sr. Analyst;Marketing;Speciality Products;Female;47;12.07.2017;$70.996 ;China;Chengdu;P
+E02803;Jack Brown;Analyst;Marketing;Corporate;Male;55;7.12.2004;$40.752 ;United States;Phoenix;P
+E01584;Charlotte Chu;Network Engineer;IT;Manufacturing;Female;50;23.01.2001;$97.537 ;China;Chengdu;P
+E02489;Jeremiah Chu;IT Systems Architect;IT;Research & Development;Male;31;12.09.2020;$96.567 ;China;Shanghai;P
+E03189;Miles Cho;Systems Analyst;IT;Speciality Products;Male;47;10.03.1999;$49.404 ;China;Beijing;P
+E03560;Caleb Marquez;IT Systems Architect;IT;Research & Development;Male;29;15.10.2019;$66.819 ;Brazil;Rio de Janerio;P
+E00769;Eli Soto;Analyst;Marketing;Speciality Products;Male;38;2.05.2016;$50.784 ;Brazil;Rio de Janerio;P
+E02791;Carter Mejia;Sr. Manger;Human Resources;Research & Development;Male;29;9.05.2019;$125.828 ;Brazil;Sao Paulo;P
+E02333;Ethan Clark;Sr. Business Partner;Human Resources;Manufacturing;Male;33;4.08.2017;$92.610 ;United States;Columbus;P
+E01002;Asher Jackson;Sr. Manger;Sales;Speciality Products;Male;50;25.03.2003;$123.405 ;United States;Columbus;P
+E03520;Ayla Ng;Account Representative;Sales;Manufacturing;Female;46;20.03.2004;$73.004 ;China;Beijing;P
+E00752;Jose Kang;Engineering Manager;Engineering;Corporate;Male;57;25.04.1999;$95.061 ;China;Shanghai;P
+E00233;Aubrey Romero;Director;Sales;Corporate;Female;49;2.04.1998;$160.832 ;United States;Phoenix;P
+E02639;Jaxson Wright;Service Desk Analyst;IT;Manufacturing;Male;54;28.12.2010;$64.417 ;United States;Columbus;P
+E00697;Elias Ali;Manager;Sales;Corporate;Male;28;19.03.2021;$127.543 ;China;Shanghai;P
+E02183;Nolan Pena;Analyst;Marketing;Manufacturing;Male;30;21.06.2018;$56.154 ;Brazil;Sao Paulo;P
+E00715;Luna Liu;Vice President;Sales;Manufacturing;Female;36;22.02.2014;$218.530 ;China;Shanghai;P
+E04288;Brooklyn Reyes;Service Desk Analyst;IT;Manufacturing;Female;36;19.12.2019;$91.954 ;United States;Columbus;P
+E02421;Hadley Parker;Vice President;Marketing;Corporate;Female;30;21.09.2016;$221.217 ;United States;Columbus;P
+E00523;Jonathan Chavez;System Administrator ;IT;Manufacturing;Male;29;11.05.2017;$87.536 ;United States;Seattle;P
+E03615;Sarah Ayala;Analyst;Sales;Corporate;Female;47;9.06.2015;$41.429 ;United States;Seattle;P
+E02761;Elijah Kang;Vice President;Engineering;Manufacturing;Male;35;10.10.2011;$245.482 ;United States;Seattle;P
+E02121;Ella White;Development Engineer;Engineering;Manufacturing;Female;25;20.01.2020;$71.359 ;United States;Phoenix;P
+E01486;Jordan Truong;Director;Engineering;Speciality Products;Male;45;28.08.2014;$183.161 ;United States;Miami;P
+E00725;Daniel Jordan;Network Administrator;IT;Corporate;Male;58;26.07.1993;$69.260 ;United States;Phoenix;P
+E03027;Daniel Dixon;Operations Engineer;Engineering;Speciality Products;Male;51;9.10.1999;$95.639 ;United States;Austin;P
+E03689;Luca Duong;Manager;Human Resources;Research & Development;Male;48;30.06.2004;$120.660 ;China;Chengdu;P
+E01986;Levi Brown;Sr. Analyst;Sales;Corporate;Male;36;26.12.2021;$75.119 ;United States;Chicago;P
+E01286;Mason Cho;Vice President;Accounting;Research & Development;Male;59;18.05.2011;$192.213 ;United States;Chicago;P
+E01409;Nova Herrera;Account Representative;Sales;Speciality Products;Female;45;10.05.2014;$65.047 ;Brazil;Sao Paulo;P
+E00626;Elijah Watson;Sr. Manger;Sales;Manufacturing;Male;29;16.03.2017;$151.413 ;United States;Seattle;P
+E04342;Wesley Gray;Sr. Analyst;Accounting;Speciality Products;Male;62;22.04.2003;$76.906 ;United States;Seattle;P
+E03904;Wesley Sharma;Manager;IT;Corporate;Male;51;23.02.1994;$122.802 ;China;Shanghai;P
+E01291;Mateo Mendez;Development Engineer;Engineering;Research & Development;Male;47;14.07.1998;$99.091 ;United States;Austin;P
+E00917;Jose Molina;Controls Engineer;Engineering;Manufacturing;Male;40;28.02.2008;$113.987 ;Brazil;Manaus;P
+E01484;Luna Simmons;Sr. Analyst;Finance;Corporate;Female;28;4.09.2020;$95.045 ;United States;Chicago;P
+E03864;Samantha Barnes;Vice President;Marketing;Speciality Products;Female;29;5.01.2017;$190.401 ;United States;Columbus;P
+E00488;Hunter Ortiz;Sr. Analyst;Finance;Corporate;Male;46;20.01.2013;$86.061 ;Brazil;Rio de Janerio;P
+E02227;Thomas Aguilar;Sr. Account Representative;Sales;Speciality Products;Male;45;10.02.2021;$79.882 ;United States;Phoenix;P
+E04802;Skylar Bell;Vice President;Engineering;Manufacturing;Female;30;6.03.2018;$255.431 ;United States;Columbus;P
+E01970;Anna Zhu;Service Desk Analyst;IT;Manufacturing;Female;48;22.08.2003;$82.017 ;China;Beijing;P
+E02813;Ella Hunter;Analyst;Finance;Manufacturing;Female;51;18.01.2017;$53.799 ;United States;Columbus;P
+E02031;Emery Hunter;Sr. Analyst;Sales;Corporate;Female;28;3.07.2021;$82.739 ;United States;Phoenix;P
+E03252;Sofia Parker;Cloud Infrastructure Architect;IT;Manufacturing;Female;36;30.05.2014;$99.080 ;United States;Chicago;P
+E04871;Lucy Fong;Sr. Account Representative;Sales;Corporate;Female;40;20.01.2011;$96.719 ;China;Chengdu;P
+E03547;Vivian Barnes;Director;Human Resources;Research & Development;Female;51;28.03.2021;$180.687 ;United States;Phoenix;P
+E04742;Kai Chow;Engineering Manager;Engineering;Corporate;Male;45;12.04.2001;$95.743 ;United States;Austin;P
+E01070;Melody Cooper;Development Engineer;Engineering;Research & Development;Female;44;4.09.2009;$89.695 ;United States;Austin;P
+E04359;James Bui;Manager;Finance;Manufacturing;Male;64;20.07.1998;$122.753 ;China;Chongqing;P
+E03268;Liam Grant;Sr. Business Partner;Human Resources;Research & Development;Male;30;15.03.2015;$93.734 ;United States;Phoenix;P
+E04035;Owen Han;Analyst;Accounting;Corporate;Male;28;12.05.2017;$52.069 ;China;Chongqing;P
+E01221;Kinsley Vega;Vice President;Accounting;Corporate;Female;33;16.12.2020;$258.426 ;Brazil;Rio de Janerio;P
+E00276;Leonardo Martin;Manager;Finance;Speciality Products;Male;51;16.02.1995;$125.375 ;United States;Chicago;P
+E01687;Greyson Lam;Vice President;Accounting;Manufacturing;Male;25;8.02.2021;$198.243 ;United States;Miami;P
+E02844;Emilia Rivera;Test Engineer;Engineering;Research & Development;Female;42;23.11.2017;$96.023 ;United States;Miami;P
+E01263;Penelope Johnson;Sr. Analyst;Marketing;Research & Development;Female;34;25.06.2012;$83.066 ;United States;Chicago;P
+E00119;Eva Figueroa;Analyst II;Sales;Research & Development;Female;48;14.05.2014;$61.216 ;United States;Seattle;P
+E03935;Ezekiel Jordan;Sr. Manger;Accounting;Corporate;Male;33;10.02.2013;$144.231 ;United States;Columbus;P
+E00742;Luke Mai;HRIS Analyst;Human Resources;Research & Development;Male;41;24.10.2007;$51.630 ;China;Beijing;P
+E02810;Charles Diaz;Sr. Manger;Sales;Corporate;Male;55;16.11.2013;$124.129 ;Brazil;Sao Paulo;P
+E01860;Adam Espinoza;Test Engineer;Engineering;Manufacturing;Male;36;9.04.2009;$60.055 ;United States;Seattle;P
+E04890;Jack Maldonado;Director;Engineering;Research & Development;Male;31;26.08.2020;$189.290 ;Brazil;Sao Paulo;P
+E02285;Cora Jiang;Vice President;IT;Corporate;Female;53;30.04.2008;$182.202 ;United States;Austin;P
+E00842;Cooper Mitchell;Manager;Sales;Speciality Products;Male;43;31.01.2006;$117.518 ;United States;Seattle;P
+E01271;Layla Torres;Sr. Manger;Finance;Manufacturing;Female;37;24.02.2013;$157.474 ;Brazil;Rio de Janerio;P
+E01921;Jack Edwards;Manager;Marketing;Manufacturing;Male;38;6.04.2008;$126.856 ;United States;Columbus;P
+E03664;Eleanor Chan;Sr. Manger;Accounting;Manufacturing;Female;49;2.04.2001;$129.124 ;China;Shanghai;P
+E00813;Aria Xi;Director;Sales;Research & Development;Female;45;1.03.2002;$165.181 ;United States;Seattle;P
+E00870;John Vega;Vice President;Finance;Corporate;Male;50;18.01.2004;$247.939 ;Brazil;Rio de Janerio;P
+E04167;Luke Munoz;Director;Engineering;Speciality Products;Male;64;25.08.2017;$169.509 ;Brazil;Manaus;P
+E00245;Sarah Daniels;Sr. Manger;Accounting;Manufacturing;Female;55;9.01.2011;$138.521 ;United States;Miami;P
+E00976;Aria Castro;Engineering Manager;Engineering;Speciality Products;Female;45;14.03.2014;$113.873 ;Brazil;Rio de Janerio;P
+E04112;Autumn Joseph;Enterprise Architect;IT;Corporate;Female;39;9.05.2018;$73.317 ;United States;Miami;P
+E01807;Evelyn Liang;Service Desk Analyst;IT;Speciality Products;Female;40;26.06.2013;$69.096 ;United States;Seattle;P
+E04103;Henry Alvarez;Sr. Business Partner;Human Resources;Manufacturing;Male;48;12.04.2005;$87.158 ;Brazil;Manaus;P
+E01412;Benjamin Delgado;Test Engineer;Engineering;Corporate;Male;64;28.09.1992;$70.778 ;United States;Austin;P
+E04386;Zoe Rodriguez;Director;Human Resources;Speciality Products;Female;65;23.05.2004;$153.938 ;United States;Phoenix;P
+E01232;Axel Chu;Systems Analyst;IT;Research & Development;Male;43;4.05.2018;$59.888 ;China;Beijing;P
+E04572;Cameron Evans;Test Engineer;Engineering;Corporate;Male;50;13.12.2018;$63.098 ;United States;Columbus;P
+E02747;Isabella Soto;Vice President;Finance;Corporate;Female;27;15.12.2021;$255.369 ;Brazil;Sao Paulo;P
+E01064;Eva Jenkins;Sr. Manger;Human Resources;Manufacturing;Female;55;10.11.2004;$142.318 ;United States;Chicago;P
+E00178;Cameron Powell;Business Partner;Human Resources;Manufacturing;Male;41;20.08.2004;$49.186 ;United States;Austin;P
+E01091;Samantha Foster;Vice President;Human Resources;Research & Development;Female;34;27.07.2019;$220.937 ;United States;Austin;P
+E01309;Jade Li;Director;IT;Speciality Products;Female;47;26.10.2012;$183.156 ;United States;Seattle;P
+E02378;Kinsley Acosta;Vice President;IT;Speciality Products;Female;32;22.07.2020;$192.749 ;United States;Chicago;P
+E04127;Clara Kang;Sr. Manger;IT;Manufacturing;Female;39;25.03.2017;$135.325 ;United States;Phoenix;P
+E02072;Harper Alexander;Sr. Analyst;Sales;Speciality Products;Female;26;14.10.2019;$79.356 ;United States;Phoenix;P
+E02555;Carter Reed;Development Engineer;Engineering;Manufacturing;Male;40;7.07.2005;$74.412 ;United States;Seattle;P
+E00187;Charlotte Ruiz;Computer Systems Manager;IT;Manufacturing;Female;32;2.10.2017;$61.886 ;Brazil;Rio de Janerio;P
+E02062;Everleigh Jiang;Director;Accounting;Research & Development;Female;58;14.05.2003;$173.071 ;United States;Columbus;P
+E00034;Audrey Smith;Field Engineer;Engineering;Research & Development;Female;58;27.10.1995;$70.189 ;United States;Columbus;P
+E00273;Emery Acosta;Vice President;Sales;Research & Development;Female;42;11.09.2013;$181.452 ;United States;Columbus;P
+E01403;Charles Robinson;HRIS Analyst;Human Resources;Speciality Products;Male;26;12.03.2021;$70.369 ;United States;Seattle;P
+E03438;Landon Lopez;Sr. Analyst;Accounting;Manufacturing;Male;38;5.07.2008;$78.056 ;Brazil;Sao Paulo;P
+E04136;Miles Mehta;Director;Finance;Research & Development;Male;64;2.05.1996;$189.933 ;United States;Miami;P
+E02944;Ezra Simmons;Automation Engineer;Engineering;Speciality Products;Male;38;1.07.2010;$78.237 ;United States;Phoenix;P
+E03300;Nora Santiago;Analyst;Accounting;Research & Development;Female;55;26.06.1996;$48.687 ;Brazil;Rio de Janerio;P
+E00078;Caroline Herrera;Sr. Manger;Marketing;Manufacturing;Female;45;19.08.2004;$121.065 ;Brazil;Rio de Janerio;P
+E00825;David Owens;Sr. Analyst;Sales;Corporate;Male;43;16.04.2004;$94.246 ;United States;Austin;P
+E04972;Avery Yee;Systems Analyst;IT;Manufacturing;Female;34;22.05.2016;$44.614 ;United States;Miami;P
+E03941;Xavier Park;Vice President;IT;Research & Development;Male;40;8.11.2020;$234.469 ;China;Chengdu;P
+E02148;Asher Morales;Automation Engineer;Engineering;Research & Development;Male;52;10.07.2020;$88.272 ;Brazil;Sao Paulo;P
+E02252;Mason Cao;Analyst II;Finance;Corporate;Male;52;14.09.2017;$74.449 ;China;Beijing;P
+E03096;Joshua Fong;Vice President;Engineering;Speciality Products;Male;47;11.06.2012;$222.941 ;China;Beijing;P
+E04800;Maria Chin;Analyst;Marketing;Manufacturing;Female;65;26.09.2013;$50.341 ;China;Beijing;P
+E02838;Eva Garcia;HRIS Analyst;Human Resources;Corporate;Female;31;11.04.2021;$72.235 ;Brazil;Manaus;P
+E02980;Anna Molina;Sr. Analyst;Accounting;Corporate;Female;41;12.06.2016;$70.165 ;United States;Columbus;P
+E04477;Logan Bryant;Sr. Manger;Marketing;Speciality Products;Male;30;18.07.2020;$148.485 ;United States;Miami;P
+E04348;Isla Han;Technical Architect;IT;Manufacturing;Female;58;18.06.2005;$86.089 ;United States;Chicago;P
+E01638;Christopher Vega;Engineering Manager;Engineering;Research & Development;Male;54;27.10.2007;$106.313 ;United States;Chicago;P
+E03419;Lillian Park;Analyst;Marketing;Research & Development;Female;40;24.02.2021;$46.833 ;China;Chengdu;P
+E04222;Kennedy Zhang;Director;Finance;Research & Development;Female;63;27.10.2000;$155.320 ;China;Chongqing;P
+E04126;Eli Han;Sr. Analyst;Accounting;Manufacturing;Male;40;15.01.2016;$89.984 ;China;Chengdu;P
+E01896;Julia Pham;Engineering Manager;Engineering;Speciality Products;Female;65;16.03.2006;$83.756 ;China;Shanghai;P
+E03018;Hailey Shin;Director;Human Resources;Corporate;Female;57;24.10.2016;$176.324 ;China;Shanghai;P
+E03325;Connor Grant;Sr. Analyst;Accounting;Speciality Products;Male;27;13.10.2021;$74.077 ;United States;Seattle;P
+E04037;Natalia Owens;Manager;Human Resources;Manufacturing;Female;31;18.01.2021;$104.162 ;United States;Austin;P
+E01902;Maria He;IT Systems Architect;IT;Corporate;Female;45;28.08.2010;$82.162 ;China;Beijing;P
+E01466;Jade Yi;Account Representative;Sales;Speciality Products;Female;47;10.07.2015;$63.880 ;China;Chongqing;P
+E02038;Quinn Xiong;Test Engineer;Engineering;Research & Development;Female;55;8.09.2013;$73.248 ;United States;Columbus;P
+E03474;Dominic Baker;Sr. Analyst;Accounting;Manufacturing;Male;51;9.10.2020;$91.853 ;United States;Chicago;P
+E02744;Adam Nelson;Director;Finance;Speciality Products;Male;25;14.01.2020;$168.014 ;United States;Chicago;P
+E00702;Autumn Reed;Development Engineer;Engineering;Corporate;Female;37;17.09.2017;$70.770 ;United States;Miami;P
+E03081;Robert Edwards;HRIS Analyst;Human Resources;Corporate;Male;62;11.10.2004;$50.825 ;United States;Seattle;P
+E01281;Roman Martinez;Sr. Manger;Finance;Research & Development;Male;31;19.09.2015;$145.846 ;Brazil;Manaus;P
+E04029;Eleanor Li;Sr. Manger;Human Resources;Research & Development;Female;64;7.12.2003;$125.807 ;United States;Chicago;P
+E01116;Connor Vang;Analyst;Sales;Speciality Products;Male;25;28.07.2021;$46.845 ;United States;Miami;P
+E01753;Ellie Chung;Sr. Manger;Marketing;Corporate;Female;59;29.08.2008;$157.969 ;China;Chongqing;P
+E04072;Violet Hall;Solutions Architect;IT;Corporate;Female;40;10.12.2010;$97.807 ;United States;Chicago;P
+E04419;Dylan Padilla;HRIS Analyst;Human Resources;Manufacturing;Male;31;9.12.2015;$73.854 ;United States;Seattle;P
+E00467;Nathan Pham;Sr. Manger;Accounting;Manufacturing;Male;45;12.12.2006;$149.537 ;United States;Seattle;P
+E00365;Ayla Brown;Sr. Manger;Sales;Manufacturing;Female;49;15.04.2013;$128.303 ;United States;Phoenix;P
+E03292;Isaac Mitchell;Network Architect;IT;Speciality Products;Male;46;10.06.2005;$67.374 ;United States;Austin;P
+E04779;Jayden Jimenez;Manager;Human Resources;Corporate;Male;46;24.09.2011;$102.167 ;Brazil;Rio de Janerio;P
+E00501;Jaxon Tran;Sr. Manger;Sales;Manufacturing;Male;45;7.09.2007;$151.027 ;China;Shanghai;P
+E01132;Connor Fong;Manager;Accounting;Speciality Products;Male;40;16.02.2018;$120.905 ;United States;Seattle;P
+E00556;Emery Mitchell;Vice President;Finance;Manufacturing;Female;48;2.06.2018;$231.567 ;United States;Seattle;P
+E00311;Landon Luu;Vice President;IT;Research & Development;Male;31;12.07.2015;$215.388 ;United States;Miami;P
+E04567;Sophia Ahmed;Sr. Manger;Sales;Speciality Products;Female;30;13.06.2015;$127.972 ;United States;Seattle;P
+E04378;Sofia Dinh;Operations Engineer;Engineering;Corporate;Female;55;4.08.1995;$80.701 ;United States;Chicago;P
+E03251;Jonathan Patel;Manager;Marketing;Corporate;Male;28;2.02.2020;$115.417 ;China;Shanghai;P
+E03167;Piper Patterson;Quality Engineer;Engineering;Corporate;Female;45;19.06.2019;$88.045 ;United States;Chicago;P
+E03347;Cora Evans;Computer Systems Manager;IT;Speciality Products;Female;45;26.03.2018;$86.478 ;United States;Austin;P
+E03908;Cameron Young;Vice President;Engineering;Manufacturing;Male;63;18.01.2016;$180.994 ;United States;Seattle;P
+E01351;Melody Ho;Analyst II;Finance;Research & Development;Female;55;2.12.2007;$64.494 ;United States;Columbus;P
+E02681;Aiden Bryant;Account Representative;Sales;Manufacturing;Male;47;21.10.2002;$70.122 ;United States;Columbus;P
+E03807;Grayson Walker;Director;Accounting;Manufacturing;Male;29;19.02.2017;$181.854 ;United States;Seattle;P
+E00422;Scarlett Figueroa;Business Partner;Human Resources;Speciality Products;Female;34;21.10.2016;$52.811 ;United States;Miami;P
+E00265;Madeline Hoang;Systems Analyst;IT;Research & Development;Female;28;25.10.2019;$50.111 ;China;Chengdu;P
+E04601;Ezra Simmons;Network Administrator;IT;Manufacturing;Male;31;7.05.2016;$71.192 ;United States;Austin;P
+E04816;Ruby Medina;Director;Sales;Manufacturing;Female;50;18.12.2018;$155.351 ;United States;Seattle;P
+E02147;Luke Zheng;Director;Human Resources;Speciality Products;Male;39;28.11.2006;$161.690 ;China;Beijing;P
+E02914;Rylee Dinh;Development Engineer;Engineering;Speciality Products;Female;35;10.02.2017;$60.132 ;China;Chongqing;P
+E03972;Miles Evans;Network Architect;IT;Manufacturing;Male;54;24.10.1994;$87.216 ;United States;Miami;P
+E02189;Leo Owens;Systems Analyst;IT;Corporate;Male;47;23.04.2020;$50.069 ;United States;Seattle;P
+E04290;Caroline Owens;Director;IT;Speciality Products;Female;26;26.07.2021;$151.108 ;United States;Phoenix;P
+E03630;Kennedy Do;Computer Systems Manager;IT;Manufacturing;Female;42;15.10.2005;$67.398 ;United States;Phoenix;P
+E00432;Jade Acosta;Development Engineer;Engineering;Research & Development;Female;47;29.08.2015;$68.488 ;United States;Seattle;P
+E03045;Mila Vasquez;Quality Engineer;Engineering;Manufacturing;Female;60;16.07.1998;$92.932 ;United States;Columbus;P
+E01924;Allison Ayala;Analyst;Finance;Corporate;Female;36;30.06.2009;$43.363 ;United States;Austin;P
+E04877;Jace Zhang;Service Desk Analyst;IT;Speciality Products;Male;31;14.02.2017;$95.963 ;China;Chengdu;P
+E02770;Allison Medina;Manager;Finance;Speciality Products;Female;55;29.04.2010;$111.038 ;Brazil;Sao Paulo;P
+E04590;Maria Wilson;Vice President;Engineering;Research & Development;Female;51;14.06.1996;$200.246 ;United States;Columbus;P
+E01977;Everly Coleman;Vice President;IT;Corporate;Female;48;18.02.2015;$194.871 ;United States;Columbus;P
+E01378;Jordan Gomez;Sr. Analyst;Accounting;Research & Development;Male;58;15.09.1994;$98.769 ;Brazil;Rio de Janerio;P
+E04224;Isla Chavez;Account Representative;Sales;Research & Development;Female;29;19.05.2018;$65.334 ;Brazil;Rio de Janerio;P
+E03423;Hannah Gomez;Technical Architect;IT;Manufacturing;Female;25;11.05.2021;$83.934 ;United States;Miami;P
+E00788;Jacob Davis;Director;Accounting;Research & Development;Male;36;3.09.2016;$150.399 ;United States;Chicago;P
+E00207;Eli Gupta;Director;Human Resources;Research & Development;Male;37;19.05.2012;$160.280 ;China;Beijing;P
+E00834;Andrew Huynh;Business Partner;Human Resources;Speciality Products;Male;57;28.04.1997;$54.051 ;United States;Miami;P
+E04571;Anna Gutierrez;Director;Engineering;Research & Development;Female;59;15.04.2003;$150.699 ;Brazil;Sao Paulo;P
+E02652;Samuel Vega;Analyst II;Marketing;Speciality Products;Male;37;30.03.2013;$69.570 ;United States;Miami;P
+E02693;Liliana Do;Service Desk Analyst;IT;Manufacturing;Female;30;29.03.2019;$86.774 ;China;Chengdu;P
+E03359;Isaac Sanders;HRIS Analyst;Human Resources;Manufacturing;Male;49;29.03.2001;$57.606 ;United States;Miami;P
+E00399;Raelynn Gupta;Sr. Manger;Finance;Corporate;Female;48;10.09.2001;$125.730 ;China;Chongqing;P
+E02971;Genesis Xiong;System Administrator ;IT;Research & Development;Female;51;25.02.2012;$64.170 ;United States;Columbus;P
+E03327;Lucas Ramos;Sr. Business Partner;Human Resources;Speciality Products;Male;56;21.01.1998;$72.303 ;United States;Phoenix;P
+E00900;Santiago f Gonzalez;Manager;Sales;Research & Development;Male;36;26.07.2012;$105.891 ;United States;Seattle;P
+E00836;Henry Zhu;Vice President;Marketing;Speciality Products;Male;38;25.08.2021;$255.230 ;United States;Austin;P
+E03854;Emily Contreras;Analyst II;Sales;Manufacturing;Female;56;15.06.1992;$59.591 ;Brazil;Sao Paulo;P
+E04729;Hailey Lai;Vice President;Human Resources;Manufacturing;Female;52;23.07.2012;$187.048 ;China;Chengdu;P
+E00360;Vivian Guzman;Analyst II;Finance;Speciality Products;Female;53;9.02.2002;$58.605 ;United States;Phoenix;P
+E02284;Hadley Contreras;Director;Engineering;Corporate;Female;60;4.01.2017;$178.502 ;United States;Austin;P
+E00181;Nathan Sun;Manager;Accounting;Speciality Products;Male;63;29.07.2015;$103.724 ;China;Shanghai;P
+E04168;Grace Campos;Director;Engineering;Research & Development;Female;37;21.03.2008;$156.277 ;Brazil;Manaus;P
+E02861;Autumn Ortiz;Field Engineer;Engineering;Research & Development;Female;30;17.12.2017;$87.744 ;Brazil;Sao Paulo;P
+E01357;Connor Walker;Analyst II;Finance;Manufacturing;Male;30;18.03.2019;$54.714 ;United States;Columbus;P
+E04387;Mia Wu;Enterprise Architect;IT;Corporate;Female;45;25.08.2013;$99.169 ;China;Beijing;P
+E03090;Julia Luong;Sr. Manger;Accounting;Research & Development;Female;55;20.06.2006;$142.628 ;China;Chongqing;P
+E03591;Eleanor Delgado;Sr. Analyst;Marketing;Manufacturing;Female;33;27.04.2014;$75.869 ;Brazil;Sao Paulo;P
+E03328;Addison Roberts;Network Architect;IT;Manufacturing;Female;65;14.05.2018;$60.985 ;United States;Seattle;P
+E04937;Camila Li;Sr. Manger;IT;Research & Development;Female;60;24.07.2010;$126.911 ;China;Shanghai;P
+E00515;Ezekiel Fong;Vice President;Sales;Research & Development;Male;56;25.02.2004;$216.949 ;China;Shanghai;P
+E01241;Dylan Thao;Director;Engineering;Manufacturing;Male;53;22.10.2012;$168.510 ;United States;Seattle;P
+E03255;Josephine Salazar;Field Engineer;Engineering;Speciality Products;Female;36;14.03.2016;$85.870 ;Brazil;Sao Paulo;P
+E01711;Genesis Hu;Sr. Analyst;Marketing;Corporate;Female;46;15.01.2002;$86.510 ;China;Beijing;P
+E00500;Mila Juarez;Manager;Sales;Speciality Products;Female;38;21.09.2017;$119.647 ;Brazil;Sao Paulo;P
+E02728;Daniel Perry;Enterprise Architect;IT;Research & Development;Male;62;15.04.2001;$80.921 ;United States;Columbus;P
+E04749;Paisley Hunter;Engineering Manager;Engineering;Research & Development;Female;61;15.01.2010;$98.110 ;United States;Chicago;P
+E02023;Everleigh White;Network Architect;IT;Speciality Products;Female;59;20.10.2017;$86.831 ;United States;Phoenix;P
+E03166;Penelope Choi;Technical Architect;IT;Speciality Products;Female;49;10.09.2010;$72.826 ;China;Beijing;P
+E02599;Piper Sun;Director;Marketing;Manufacturing;Female;64;14.02.2011;$171.217 ;United States;Seattle;P
+E01014;Lucy Johnson;Manager;IT;Research & Development;Female;57;27.04.2020;$103.058 ;United States;Columbus;P
+E04529;Ian Ngo;Manager;Sales;Speciality Products;Male;52;7.08.2014;$117.062 ;United States;Phoenix;P
+E00632;Joseph Vazquez;Sr. Manger;Accounting;Speciality Products;Male;40;23.01.2019;$159.031 ;United States;Miami;P
+E02108;Hadley Guerrero;Sr. Manger;IT;Research & Development;Female;49;14.01.2004;$125.086 ;Brazil;Sao Paulo;P
+E03802;Jose Brown;System Administrator ;IT;Speciality Products;Male;43;7.04.2016;$67.976 ;United States;Seattle;P
+E03685;Benjamin Ford;Analyst II;Finance;Speciality Products;Male;31;22.04.2021;$74.215 ;United States;Phoenix;P
+E01089;Henry Shah;Director;Accounting;Manufacturing;Male;55;11.06.2010;$187.389 ;China;Chengdu;P
+E03988;Ivy Daniels;Sr. Manger;Human Resources;Speciality Products;Female;41;26.10.2008;$131.841 ;United States;Columbus;P
+E00401;Thomas Chang;Sr. Analyst;Accounting;Research & Development;Male;34;26.07.2011;$97.231 ;China;Beijing;P
+E03429;Caroline Phan;Sr. Manger;Finance;Corporate;Female;41;14.03.2004;$155.004 ;United States;Austin;P
+E02417;Maverick Mehta;Systems Analyst;IT;Manufacturing;Male;40;30.07.2007;$41.859 ;United States;Seattle;P
+E00359;Austin Edwards;IT Coordinator;IT;Manufacturing;Male;42;24.09.2006;$52.733 ;United States;Chicago;P
+E02044;Daniel Huang;Vice President;Human Resources;Corporate;Male;31;3.09.2015;$250.953 ;United States;Columbus;P
+E01479;Lucas Phan;Director;Marketing;Research & Development;Male;49;19.02.1999;$191.807 ;China;Chongqing;P
+E04962;Gabriel Yu;Technical Architect;IT;Speciality Products;Male;42;23.06.2014;$64.677 ;China;Chongqing;P
+E02769;Mason Watson;Sr. Manger;IT;Corporate;Male;46;14.09.2004;$130.274 ;United States;Chicago;P
+E03893;Angel Chang;Network Architect;IT;Research & Development;Male;37;6.07.2017;$96.331 ;China;Shanghai;P
+E00553;Madeline Coleman;Sr. Manger;Finance;Research & Development;Female;51;28.04.2006;$150.758 ;United States;Chicago;P
+E03540;Thomas Vazquez;Director;Engineering;Corporate;Male;46;19.07.2014;$173.629 ;Brazil;Sao Paulo;P
+E03277;Silas Hunter;Solutions Architect;IT;Corporate;Male;55;4.05.1998;$62.174 ;United States;Chicago;P
+E04194;Nicholas Brooks;Analyst II;Accounting;Manufacturing;Male;43;20.10.2017;$56.555 ;United States;Phoenix;P
+E01762;Dominic Thomas;Analyst II;Marketing;Manufacturing;Male;48;28.09.2005;$74.655 ;United States;Austin;P
+E02632;Wesley Adams;System Administrator ;IT;Corporate;Male;48;11.08.2003;$93.017 ;United States;Seattle;P
+E04226;Ian Wu;Sr. Analyst;Marketing;Manufacturing;Male;51;14.04.2012;$82.300 ;China;Chengdu;P
+E04101;Alice Young;Automation Engineer;Engineering;Research & Development;Female;46;24.01.2008;$91.621 ;United States;Chicago;P
+E01981;Logan Carrillo;Sr. Analyst;Marketing;Research & Development;Male;33;30.11.2014;$91.280 ;United States;Miami;P
+E02534;Caroline Alexander;Business Partner;Human Resources;Manufacturing;Female;42;18.09.2020;$47.071 ;United States;Columbus;P
+E01238;Serenity Bailey;IT Systems Architect;IT;Manufacturing;Female;55;21.11.2011;$81.218 ;United States;Chicago;P
+E01118;Elena Tan;Vice President;Engineering;Manufacturing;Female;50;13.10.2008;$181.801 ;China;Chongqing;P
+E04041;Eliza Adams;Account Representative;Sales;Manufacturing;Female;26;21.11.2021;$63.137 ;United States;Chicago;P
+E04308;Alice Xiong;Vice President;Engineering;Manufacturing;Female;55;2.09.2018;$221.465 ;China;Chengdu;P
+E01052;Isla Yoon;Quality Engineer;Engineering;Research & Development;Female;50;10.05.2013;$79.388 ;United States;Austin;P
+E04165;Emma Perry;Solutions Architect;IT;Manufacturing;Female;28;22.01.2018;$68.176 ;United States;Seattle;P
+E02295;Riley Marquez;Sr. Manger;Finance;Research & Development;Female;39;18.10.2019;$122.829 ;United States;Chicago;P
+E04546;Caroline Hu;Sr. Manger;Marketing;Speciality Products;Female;31;18.08.2019;$126.353 ;China;Shanghai;P
+E04217;Madison Kumar;Director;Accounting;Speciality Products;Female;55;17.10.2010;$188.727 ;China;Chengdu;P
+E00650;Matthew Lim;Sr. Analyst;Sales;Research & Development;Male;52;18.02.1994;$99.624 ;United States;Seattle;P
+E00344;Maya Ngo;Manager;Sales;Speciality Products;Female;55;20.10.2012;$108.686 ;United States;Columbus;P
+E04645;Alice Soto;Analyst;Accounting;Corporate;Female;56;13.04.1995;$50.857 ;Brazil;Manaus;P
+E03880;Andrew Moore;Operations Engineer;Engineering;Manufacturing;Male;47;2.01.2001;$120.628 ;United States;Chicago;P
+E02730;Olivia Harris;Director;Sales;Speciality Products;Female;63;14.06.2020;$181.216 ;United States;Columbus;P
+E04517;Genesis Banks;Analyst;Finance;Corporate;Female;63;16.03.2012;$46.081 ;United States;Chicago;P
+E00965;Victoria Johnson;Sr. Manger;Accounting;Corporate;Female;55;28.05.2004;$159.885 ;United States;Columbus;P
+E04639;Eloise Griffin;Director;Sales;Manufacturing;Female;55;29.10.1995;$153.271 ;United States;Austin;P
+E00465;Roman Yang;Manager;Human Resources;Manufacturing;Male;42;12.12.2009;$114.242 ;United States;Phoenix;P
+E03058;Clara Huynh;IT Coordinator;IT;Speciality Products;Female;39;18.11.2020;$48.415 ;China;Shanghai;P
+E02337;Kai Flores;Development Engineer;Engineering;Manufacturing;Male;35;23.05.2017;$65.566 ;United States;Seattle;P
+E04927;Jaxson Dinh;Sr. Manger;Marketing;Research & Development;Male;45;3.05.2001;$147.752 ;China;Shanghai;P
+E03799;Sophie Vang;Sr. Manger;Marketing;Manufacturing;Female;25;14.09.2021;$136.810 ;China;Chongqing;P
+E04538;Axel Jordan;Analyst;Sales;Corporate;Male;47;28.02.2013;$54.635 ;United States;Chicago;P
+E02633;Jade Hunter;Cloud Infrastructure Architect;IT;Corporate;Female;42;5.02.2020;$96.636 ;United States;Columbus;P
+E02965;Lydia Williams;System Administrator ;IT;Manufacturing;Female;35;29.10.2014;$91.592 ;United States;Chicago;P
+E04345;Emery Chang;Business Partner;Human Resources;Research & Development;Female;45;17.08.2000;$55.563 ;China;Chengdu;P
+E02895;Savannah He;Director;IT;Research & Development;Female;52;14.02.1996;$159.724 ;China;Beijing;P
+E00758;Elias Ahmed;Vice President;Marketing;Corporate;Male;57;4.08.2017;$183.190 ;United States;Chicago;P
+E03750;Samantha Woods;Analyst;Accounting;Speciality Products;Female;56;25.12.2019;$54.829 ;United States;Phoenix;P
+E00144;Axel Soto;Quality Engineer;Engineering;Corporate;Male;46;22.04.2005;$96.639 ;Brazil;Rio de Janerio;P
+E02943;Amelia Choi;Manager;Marketing;Speciality Products;Female;43;11.06.2006;$117.278 ;United States;Miami;P
+E03901;Jacob Khan;Computer Systems Manager;IT;Speciality Products;Male;53;9.02.2008;$84.193 ;China;Shanghai;P
+E03461;Luna Taylor;Network Administrator;IT;Manufacturing;Female;47;28.07.2018;$87.806 ;United States;Seattle;P
+E03490;Dominic Parker;Test Engineer;Engineering;Research & Development;Male;62;4.10.2011;$63.959 ;United States;Seattle;P
+E04466;Angel Xiong;Vice President;IT;Research & Development;Male;35;11.06.2015;$234.723 ;China;Shanghai;P
+E03226;Emma Cao;Analyst;Accounting;Corporate;Female;27;24.08.2019;$50.809 ;China;Chongqing;P
+E04607;Ezekiel Bryant;Sr. Analyst;Finance;Manufacturing;Male;55;19.07.2002;$77.396 ;United States;Miami;P
+E02678;Natalie Hwang;Sr. Analyst;Finance;Speciality Products;Female;63;31.12.1999;$89.523 ;United States;Phoenix;P
+E02190;Adeline Yang;Cloud Infrastructure Architect;IT;Corporate;Female;53;20.07.2011;$86.173 ;China;Chongqing;P
+E00747;Allison Roberts;Vice President;Sales;Manufacturing;Female;54;19.08.2000;$222.224 ;United States;Columbus;P
+E00268;Andrew Do;Sr. Manger;Finance;Research & Development;Male;43;17.04.2021;$146.140 ;United States;Seattle;P
+E01416;Eliana Grant;Engineering Manager;Engineering;Speciality Products;Female;64;20.06.1994;$109.456 ;United States;Chicago;P
+E01524;Mila Soto;Director;Finance;Research & Development;Female;65;7.10.2008;$170.221 ;Brazil;Manaus;P
+E02801;Gabriella Johnson;Computer Systems Manager;IT;Research & Development;Female;42;1.03.2006;$97.433 ;United States;Seattle;P
+E04155;Jonathan Khan;Account Representative;Sales;Manufacturing;Male;35;30.08.2013;$59.646 ;China;Shanghai;P
+E01952;Elias Dang;Director;Engineering;Speciality Products;Male;64;29.08.1995;$158.787 ;China;Chengdu;P
+E00116;Theodore Ngo;Controls Engineer;Engineering;Research & Development;Male;55;29.04.2018;$83.378 ;China;Beijing;P
+E04811;Bella Lopez;Sr. Analyst;Marketing;Corporate;Female;32;12.11.2013;$88.895 ;United States;Chicago;P
+E00624;Luca Truong;Director;Marketing;Corporate;Male;45;11.12.2004;$168.846 ;China;Chongqing;P
+E03404;Nathan Lau;Business Partner;Human Resources;Research & Development;Male;35;22.02.2011;$43.336 ;United States;Austin;P
+E01845;Henry Campos;Sr. Manger;Human Resources;Corporate;Male;38;27.09.2009;$127.801 ;United States;Phoenix;P
+E04784;Connor Bell;Network Administrator;IT;Corporate;Male;54;1.04.2000;$76.352 ;United States;Austin;P
+E00145;Angel Stewart;Vice President;Finance;Corporate;Male;28;22.06.2019;$250.767 ;United States;Seattle;P
+E00218;Landon Brown;Vice President;Marketing;Corporate;Male;26;27.09.2020;$223.055 ;United States;Columbus;P
+E00784;Nicholas Rivera;Director;Engineering;Corporate;Male;45;13.04.2007;$189.680 ;Brazil;Sao Paulo;P
+E04925;Gabriel Carter;Test Engineer;Engineering;Manufacturing;Male;57;18.07.2018;$71.167 ;United States;Columbus;P
+E04448;Leilani Baker;Technical Architect;IT;Speciality Products;Female;59;4.04.2010;$76.027 ;United States;Seattle;P
+E04817;Ian Flores;Director;Engineering;Corporate;Male;48;10.12.2019;$183.113 ;Brazil;Rio de Janerio;P
+E00325;Hudson Thompson;Analyst II;Accounting;Manufacturing;Male;30;20.10.2020;$67.753 ;United States;Phoenix;P
+E00403;Ian Miller;Computer Systems Manager;IT;Corporate;Male;31;13.10.2016;$63.744 ;United States;Austin;P
+E04358;Harper Chin;Quality Engineer;Engineering;Manufacturing;Female;50;9.07.2002;$92.209 ;China;Shanghai;P
+E04662;Santiago f Brooks;Sr. Manger;Sales;Corporate;Male;51;1.09.2000;$157.487 ;United States;Phoenix;P
+E01496;Dylan Dominguez;Sr. Analyst;Marketing;Research & Development;Male;42;7.04.2015;$99.697 ;Brazil;Rio de Janerio;P
+E01870;Everett Lee;Network Administrator;IT;Research & Development;Male;45;26.02.2010;$90.770 ;United States;Columbus;P
+E03971;Madelyn Mehta;Analyst;Sales;Speciality Products;Female;64;28.01.2005;$55.369 ;United States;Phoenix;P
+E03616;Athena Vasquez;Field Engineer;Engineering;Speciality Products;Female;59;16.09.2014;$69.578 ;Brazil;Rio de Janerio;P
+E00153;William Watson;Director;Accounting;Speciality Products;Male;41;4.06.2013;$167.526 ;United States;Miami;P
+E02313;Everleigh Nunez;Field Engineer;Engineering;Speciality Products;Female;42;5.02.2021;$65.507 ;Brazil;Manaus;P
+E02960;Leo Fernandez;Manager;Finance;Research & Development;Male;54;28.04.1998;$108.268 ;Brazil;Sao Paulo;P
+E00096;Joshua Lin;Technical Architect;IT;Research & Development;Male;37;5.02.2016;$80.055 ;China;Beijing;P
+E02140;Alexander Rivera;Sr. Analyst;Sales;Research & Development;Male;58;27.04.2009;$76.802 ;Brazil;Manaus;P
+E00826;David Desai;Vice President;Sales;Speciality Products;Male;47;22.11.2016;$253.249 ;United States;Austin;P
+E03881;Aubrey Yoon;Sr. Business Partner;Human Resources;Research & Development;Female;60;11.11.2005;$78.388 ;China;Chongqing;P
+E02604;Grayson Brown;Vice President;IT;Corporate;Male;38;22.06.2016;$249.870 ;United States;Chicago;P
+E02613;Noah Chen;Sr. Manger;Marketing;Manufacturing;Male;63;1.03.2015;$148.321 ;China;Beijing;P
+E00864;Ella Nguyen;Service Desk Analyst;IT;Corporate;Female;60;10.02.2004;$90.258 ;China;Chongqing;P
+E01760;Athena Jordan;System Administrator ;IT;Manufacturing;Female;42;19.02.2011;$72.486 ;United States;Seattle;P
+E03223;Adrian Ruiz;Sr. Analyst;Finance;Corporate;Male;34;4.09.2014;$95.499 ;Brazil;Sao Paulo;P
+E01262;Zoe Sanchez;Sr. Analyst;Accounting;Research & Development;Female;53;23.12.2004;$90.212 ;Brazil;Sao Paulo;P
+E01075;Jameson Chen;Vice President;Marketing;Research & Development;Male;39;5.12.2019;$254.057 ;China;Shanghai;P
+E00364;Liliana Soto;Business Partner;Human Resources;Manufacturing;Female;58;12.10.2010;$43.001 ;United States;Austin;P
+E04108;Lincoln Reyes;Computer Systems Manager;IT;Manufacturing;Male;60;3.08.1998;$85.120 ;United States;Seattle;P
+E02917;Grayson Soto;Business Partner;Human Resources;Manufacturing;Male;34;3.08.2015;$52.200 ;United States;Columbus;P
+E03393;Julia Morris;Sr. Manger;Human Resources;Corporate;Female;60;18.10.2008;$150.855 ;United States;Phoenix;P
+E02977;Ava Ortiz;Enterprise Architect;IT;Manufacturing;Female;53;20.07.2004;$65.702 ;United States;Columbus;P
+E03371;Carson Chau;Director;Finance;Corporate;Male;58;12.10.2007;$162.038 ;China;Chongqing;P
+E02531;Lillian Chen;Sr. Manger;Marketing;Research & Development;Female;25;9.04.2020;$157.057 ;United States;Columbus;P
+E02473;Josiah Lewis;Manager;IT;Research & Development;Male;46;11.08.2021;$127.559 ;United States;Austin;P
+E02468;Claire Jones;Field Engineer;Engineering;Corporate;Female;39;12.03.2019;$62.644 ;United States;Seattle;P
+E03697;Jeremiah Lu;Network Architect;IT;Manufacturing;Male;50;6.03.2001;$73.907 ;China;Shanghai;P
+E00593;Nova Hill;Sr. Analyst;Accounting;Manufacturing;Female;56;10.03.2018;$90.040 ;United States;Chicago;P
+E01103;Peyton Cruz;Development Engineer;Engineering;Manufacturing;Female;30;26.05.2016;$91.134 ;Brazil;Sao Paulo;P
+E03889;Naomi Zhao;Vice President;Human Resources;Speciality Products;Female;45;22.09.2021;$201.396 ;United States;Miami;P
+E01958;Rylee Bui;Analyst;Accounting;Corporate;Female;55;22.12.2011;$54.733 ;China;Chongqing;P
+E01167;Andrew Reed;System Administrator ;IT;Corporate;Male;28;17.06.2019;$65.341 ;United States;Miami;P
+E00099;Brooklyn Collins;Sr. Manger;Finance;Corporate;Female;59;27.10.2018;$139.208 ;United States;Austin;P
+E00044;John Jung;Sr. Analyst;Sales;Speciality Products;Male;63;12.03.2018;$73.200 ;China;Shanghai;P
+E00711;Samantha Aguilar;Manager;Accounting;Speciality Products;Female;46;24.04.2010;$102.636 ;United States;Seattle;P
+E04795;Madeline Acosta;Sr. Account Representative;Sales;Speciality Products;Female;26;9.02.2021;$87.427 ;Brazil;Sao Paulo;P
