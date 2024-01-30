@@ -99,10 +99,10 @@ public class SpringBatchConfig {
 
     @Bean
     public Step stepToLoadAdditionalData(){
-        return stepBuilderFactory.get("csv-step")
+        return stepBuilderFactory.get("csv-additional-step")
                 .<Employee, Employee>chunk(20)
                 .reader(readerForAdditionalData())
-                .processor(processor())
+                .processor(additionalProcessor())
                 .writer(writer())
                 .listener(stepListener())
                 .taskExecutor(taskExecutor())
